@@ -1,3 +1,9 @@
+## OTHERS
+bu listeleri kullanmanızı öneririm.
+şu da güzel dediğiniz liste varsa gönderin ekleyeyim.
+
+## Bağlantılar
+
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://www.malwaredomainlist.com/hostslist/hosts.txt 
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
