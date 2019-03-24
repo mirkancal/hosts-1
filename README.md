@@ -22,7 +22,7 @@ Download from [here](https://github.com/xorcan/hosts/releases).
 
 ## Diğer listeler
 
-önerdiğim diğer listeler [burada](https://github.com/xorcan/hosts/others) bulunuyor.
+önerdiğim diğer listeler [burada](https://github.com/xorcan/hosts/OTHERS) bulunuyor.
 
 ## Bildir
 
