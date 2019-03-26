@@ -17,7 +17,7 @@ You can use this hosts with adaway, windows and others.
 ## Reklamları Nasıl Engelleyebilirim?
 
 ### WINDOWS
-- https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts adresinden listenin tamamını kopyalayın.
+- https://github.com/xorcan/hosts/releases/download/v0.2/xorcan-hosts.txt adresinden listenin tamamını kopyalayın.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
