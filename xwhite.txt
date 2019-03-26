@@ -1,3 +1,16 @@
+# ------------------------------------------------------------------------
+# Homepage:       https://github.com/xorcan/hosts/
+# Direct:         https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt
+# Release:        v0.2
+# Format:         Hosts
+# License:        GNU General Public License v3.0
+#                 https://www.gnu.org/licenses/gpl-3.0.html
+# ------------------------------------------------------------------------
+# Last update:    26 Mar 2019
+# ------------------------------------------------------------------------
+
+# xorcan/hosts  start #
 white *.rapidvideo.com
 white *.onlineanimeizle.com
 white *.vidmo.cc
+# xorcan/hosts stop #
