@@ -17,7 +17,7 @@ You can use this hosts with adaway, windows and others.
 ## Reklamları Nasıl Engelleyebilirim?
 
 ### Windows
-- https://raw.githubusercontent.com/xorcan/hosts/master/xorcan-hosts.txt adresinden listenin tamamını kopyalayın.
+- https://raw.githubusercontent.com/xorcan/hosts/master/hosts.txt adresinden listenin tamamını kopyalayın.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
@@ -34,7 +34,7 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
-- https://raw.githubusercontent.com/xorcan/hosts/master/xorcan-hosts.txt adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
+- https://raw.githubusercontent.com/xorcan/hosts/master/hosts.txt adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 - Ana menüye dönün, güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
 ## İndirmeler
