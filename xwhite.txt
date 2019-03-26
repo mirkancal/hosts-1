@@ -1,0 +1,3 @@
+white *.rapidvideo.com
+white *.onlineanimeizle.com
+white *.vidmo.cc
