@@ -1,12 +1,8 @@
 <h2 align="center"><b>HOSTS</b></h2>
 
-<h4 align="center">Bahis gibi rahatsız edici siteleri engeller. Ayrıntılılı bilgi için dosyanın içine bakın.</h4>
+<h4 align="center">Bahis gibi rahatsız edici siteleri engeller.</h4>
 
-<p align="center">
-
-<a href="https://github.com/xorcan/hosts" alt="GitHub release"><img src="https://img.shields.io/badge/release-0.2.svg" ></a>
-
- <a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></a>
+<p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></a>
 
 ## Kullanım
 
@@ -17,7 +13,7 @@ You can use this hosts with adaway, windows and others.
 ## Reklamları Nasıl Engelleyebilirim?
 
 ### Windows
-- https://raw.githubusercontent.com/xorcan/hosts/master/hosts.txt adresinden listenin tamamını kopyalayın.
+- https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt adresinden listenin tamamını kopyalayın.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
@@ -34,14 +30,17 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
-- https://raw.githubusercontent.com/xorcan/hosts/master/hosts.txt adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
+- https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 - Ana menüye dönün, güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
+
+## Beyaz liste
+
+Bu listeyi "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Eklemeseniz de olur ama tavsiyemdir.
+- https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt
 
 ## İndirmeler
 
-Buradan dosyaya erişebilirsiniz.
-
-Download from [here](https://github.com/xorcan/hosts/releases).
+Buradan dosyalara erişebilirsiniz. Download from [here](https://github.com/xorcan/hosts/releases).
 
 ## Diğer listeler
 
