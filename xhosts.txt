@@ -6,7 +6,7 @@
 # License:        GNU General Public License v3.0
 #                 https://www.gnu.org/licenses/gpl-3.0.html
 # ------------------------------------------------------------------------
-# Last update:    26 Mar 2019
+# Last update:    27 Mar 2019
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -57,4 +57,8 @@
 127.0.0.1 velocecdn.com
 127.0.0.1 news-pro.today
 127.0.0.1 trend-tech.net
+127.0.0.1 velocecdn.com
+127.0.0.1 bodlift.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 notabenemessage.com
 # xorcan/hosts stop #
