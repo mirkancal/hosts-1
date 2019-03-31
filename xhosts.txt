@@ -1,7 +1,7 @@
 # ------------------------------------------------------------------------
 # Homepage:       https://github.com/xorcan/hosts/
 # Direct:         https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
-# Release:        v0.3
+# Release:        v0.3.1
 # Format:         Hosts
 # License:        GNU General Public License v3.0
 #                 https://www.gnu.org/licenses/gpl-3.0.html
@@ -77,4 +77,8 @@
 127.0.0.1 static.adxadserv.com
 127.0.0.1 rek2.adsblok.com
 127.0.0.1 realistikbayi.live
+127.0.0.1 50bahisnow.com
+127.0.0.1 ag88xx974443xxrw48356458vs3.website
+127.0.0.1 superbahis681.com
+127.0.0.1 1xbahislvfw.com
 # xorcan/hosts stop #
