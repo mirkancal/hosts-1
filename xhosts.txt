@@ -1,12 +1,12 @@
 # ------------------------------------------------------------------------
 # Homepage:       https://github.com/xorcan/hosts/
 # Direct:         https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
-# Release:        v0.2
+# Release:        v0.3
 # Format:         Hosts
 # License:        GNU General Public License v3.0
 #                 https://www.gnu.org/licenses/gpl-3.0.html
 # ------------------------------------------------------------------------
-# Last update:    27 Mar 2019
+# Last update:    01 Apr 2019
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -61,4 +61,20 @@
 127.0.0.1 bodlift.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 notabenemessage.com
+127.0.0.1 starlader.host
+127.0.0.1 delivery.trafficforce.com
+127.0.0.1 adultgames.fun
+127.0.0.1 mading-calipprox.com
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 main.exosrv.com
+127.0.0.1 indextrck.com
+127.0.0.1 sertphuw10.host
+127.0.0.1 jumbokapinda.xyz
+127.0.0.1 sohbetimbaglan.net
+127.0.0.1 yakinindaki-kizlar8.info
+127.0.0.1 mesaj-geldi.blok.link
+127.0.0.1 rutubet.info
+127.0.0.1 static.adxadserv.com
+127.0.0.1 rek2.adsblok.com
+127.0.0.1 realistikbayi.live
 # xorcan/hosts stop #
