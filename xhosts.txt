@@ -1,12 +1,12 @@
 # ------------------------------------------------------------------------
 # Homepage:       https://github.com/xorcan/hosts/
 # Direct:         https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
-# Release:        v0.3.1
+# Release:        v0.3.2
 # Format:         Hosts
 # License:        GNU General Public License v3.0
 #                 https://www.gnu.org/licenses/gpl-3.0.html
 # ------------------------------------------------------------------------
-# Last update:    01 Apr 2019
+# Last update:    05 Apr 2019
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -81,4 +81,16 @@
 127.0.0.1 ag88xx974443xxrw48356458vs3.website
 127.0.0.1 superbahis681.com
 127.0.0.1 1xbahislvfw.com
+127.0.0.1 perabet177.com
+127.0.0.1 wlsuperbahis.eacdn.com
+127.0.0.1 wlsuperbahis.adsrv.eacdn.com
+127.0.0.1 sportingbe-superbahis.bannerflow.com
+127.0.0.1 superbahis-affiliate.host.bannerflow.com
+127.0.0.1 wlpiabet.adsrv.eacdn.com
+127.0.0.1 piabet860.com
+127.0.0.1 1xbahisjhgc.com
+127.0.0.1 superbahis542.com
+127.0.0.1 betmatik553.com
+127.0.0.1 affibtm.com
+127.0.0.1 refpaccz.host
 # xorcan/hosts stop #
