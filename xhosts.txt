@@ -1,7 +1,7 @@
 # ------------------------------------------------------------------------
 # Homepage:       https://github.com/xorcan/hosts/
 # Direct:         https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
-# Release:        v0.3.3
+# Release:        v0.3.3.1
 # Format:         Hosts
 # License:        GNU General Public License v3.0
 #                 https://www.gnu.org/licenses/gpl-3.0.html
@@ -34,6 +34,7 @@
 127.0.0.1 antillephone.com
 127.0.0.1 apps19.mobile-apps.pw
 127.0.0.1 bahreyn.tk
+127.0.0.1 betpot5.com
 127.0.0.1 baipagid.com
 127.0.0.1 betasus123.com
 127.0.0.1 betmatik553.com
