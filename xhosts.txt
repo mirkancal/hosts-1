@@ -107,7 +107,6 @@
 127.0.0.1 trend-tech.net
 127.0.0.1 velocecdn.com
 127.0.0.1 venus.videoizle.link
-127.0.0.1 videoizle.link
 127.0.0.1 vip-flirtbooks.com
 127.0.0.1 wlpiabet.adsrv.eacdn.com
 127.0.0.1 wlsuperbahis.adsrv.eacdn.com
