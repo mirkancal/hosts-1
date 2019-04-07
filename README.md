@@ -30,8 +30,7 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
-- **sadece hosts** https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
-- **hosts ve beyaz liste (önerim)** https://raw.githubusercontent.com/xorcan/hosts/master/adaway-hosts adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
+- https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 (bu yöntemi seçtiyseniz tekrar beyaz listeyi indirip yüklemenize gerek kalmaz. bu hepsini içerir.
 - Ana menüye dönün, güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
