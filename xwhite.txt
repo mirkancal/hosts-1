@@ -15,7 +15,6 @@ white *.vidmo.cc
 white *.onlineanimeizle.com
 white yadi.sk
 white taciz.biz
-white venus.videoizle.link
 white ok.ru
 white oload.tv
 white *.eviewporn.com
