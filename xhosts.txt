@@ -1,12 +1,12 @@
 # ------------------------------------------------------------------------
 # Homepage:       https://github.com/xorcan/hosts/
 # Direct:         https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
-# Release:        v0.4.2
+# Release:        v0.4.3
 # Format:         Hosts
 # License:        GNU General Public License v3.0
 #                 https://www.gnu.org/licenses/gpl-3.0.html
 # ------------------------------------------------------------------------
-# Last update:    09 Apr 2019
+# Last update:    11 Apr 2019
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
@@ -72,9 +72,28 @@
 127.0.0.1 bahreyn.tk
 127.0.0.1 baipagid.com
 127.0.0.1 basvuruformu.ml
+127.0.0.1 basvuruformu1.ml
+127.0.0.1 basvuruformu2.ml
+127.0.0.1 basvuruformu3.ml
+127.0.0.1 basvuruformu4.ml
+127.0.0.1 basvuruformu5.ml
+127.0.0.1 basvuruformu6.ml
+127.0.0.1 basvuruformu7.ml
+127.0.0.1 basvuruformu8.ml
+127.0.0.1 basvuruformu9.ml
+127.0.0.1 basvuruformu10.ml
 127.0.0.1 basvuruformu11.ml
 127.0.0.1 basvuruformu12.ml
+127.0.0.1 basvuruformu13.ml
+127.0.0.1 basvuruformu14.ml
 127.0.0.1 basvuruformu15.ml
+127.0.0.1 basvuruformu16.ml
+127.0.0.1 basvuruformu17.ml
+127.0.0.1 basvuruformu18.ml
+127.0.0.1 basvuruformu19.ml
+127.0.0.1 basvuruformu20.ml
+127.0.0.1 basvuruformu21.ml
+127.0.0.1 basvuruformu22.ml
 127.0.0.1 bcvcrdr.space
 127.0.0.1 bcvcrdr.website
 127.0.0.1 best.hot-blogs.info
