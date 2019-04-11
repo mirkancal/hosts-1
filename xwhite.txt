@@ -13,9 +13,10 @@
 white *.rapidvideo.com
 white *.vidmo.cc
 white *.onlineanimeizle.com
-white yadi.sk
 white taciz.biz
-white ok.ru
-white oload.tv
 white *.eviewporn.com
+white yadi.sk
+white oload.tv
+white ok.ru
+white s.youtube.com
 # xorcan/hosts stop #
