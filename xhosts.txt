@@ -55,6 +55,7 @@
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adtiming.com
 127.0.0.1 adultgames.fun
+127.0.0.1 adultvideo.mobi
 127.0.0.1 advast.sibnet.ru
 127.0.0.1 advertserve.com
 127.0.0.1 aff-online.com
@@ -73,6 +74,7 @@
 127.0.0.1 basvuruformu.ml
 127.0.0.1 basvuruformu11.ml
 127.0.0.1 basvuruformu12.ml
+127.0.0.1 basvuruformu15.ml
 127.0.0.1 bcvcrdr.space
 127.0.0.1 bcvcrdr.website
 127.0.0.1 best.hot-blogs.info
@@ -107,6 +109,7 @@
 127.0.0.1 cdnarsiv.com
 127.0.0.1 cep.sohbetibagla.xyz
 127.0.0.1 chat.videoresim.website
+127.0.0.1 cheprihel.host
 127.0.0.1 cizyix.gxxcbj.com
 127.0.0.1 cnm008.com
 127.0.0.1 ctje.funnwebs.com
@@ -118,6 +121,7 @@
 127.0.0.1 daspearstreet.com
 127.0.0.1 dayagainst.com
 127.0.0.1 delivery.trafficforce.com
+127.0.0.1 deloplen.com
 127.0.0.1 deloton.com
 127.0.0.1 dolohen.com
 127.0.0.1 dosya.indir.live
@@ -151,6 +155,7 @@
 127.0.0.1 hnxs.funnwebs.com
 127.0.0.1 horny-honey.online
 127.0.0.1 horny-pussies.com
+127.0.0.1 hozyfly.com
 127.0.0.1 href.li
 127.0.0.1 iapk.mobi
 127.0.0.1 img.videoresim.website
@@ -169,6 +174,7 @@
 127.0.0.1 kilomniadsteu.info
 127.0.0.1 kitapindir.website
 127.0.0.1 kol3.funnwebs.com
+127.0.0.1 kusadasisosyetesi.com
 127.0.0.1 lethalpass.com
 127.0.0.1 ln1.bcvcrdr.space
 127.0.0.1 lt95.dayagainst.com
@@ -211,6 +217,7 @@
 127.0.0.1 ouloutso.net
 127.0.0.1 pay.fortumo.com
 127.0.0.1 perabet177.com
+127.0.0.1 peteklerbatsin.com
 127.0.0.1 piabet860.com
 127.0.0.1 playcell.com
 127.0.0.1 pmsk.funnwebs.com
@@ -227,6 +234,7 @@
 127.0.0.1 realistikbayi.live
 127.0.0.1 reallygoodlink.extremefreegames.com
 127.0.0.1 refpaccz.host
+127.0.0.1 refpaydc.top
 127.0.0.1 rek2.adsblok.com
 127.0.0.1 rereegny.net
 127.0.0.1 roseajans.club
@@ -252,6 +260,7 @@
 127.0.0.1 superbahis-affiliate.host.bannerflow.com
 127.0.0.1 superbahis542.com
 127.0.0.1 superbahis681.com
+127.0.0.1 syndicpop.com
 127.0.0.1 tg4g.funnwebs.com
 127.0.0.1 tiktok.sohbetibagla.xyz
 127.0.0.1 tipobet0195.com
@@ -274,6 +283,7 @@
 127.0.0.1 virilityex.com
 127.0.0.1 vvhatsappsohbet.site
 127.0.0.1 vyuz.dayagainst.com
+127.0.0.1 whatsappaff.club
 127.0.0.1 wlefbet.adsrv.eacdn.com
 127.0.0.1 wlpiabet.adsrv.eacdn.com
 127.0.0.1 wlsuperbahis.adsrv.eacdn.com
@@ -282,13 +292,16 @@
 127.0.0.1 www.aioapps.com
 127.0.0.1 www.binary1.website
 127.0.0.1 www.cdnarsiv.com
+127.0.0.1 www.cinealanya.com
 127.0.0.1 www.ecpms.net
 127.0.0.1 www.extremefreegames.com
 127.0.0.1 www.istanbulkoz.com
 127.0.0.1 www.jackpotcitycasino.se
+127.0.0.1 www.kusadasisosyetesi.com
 127.0.0.1 www.lethalpass.com
 127.0.0.1 www.mahvet.info
 127.0.0.1 www.mavidost.com
+127.0.0.1 www.maviyer.com
 127.0.0.1 www.olydig.com
 127.0.0.1 www.tr-gameland.com
 127.0.0.1 www.trafyield.com
