@@ -1,12 +1,12 @@
 # ------------------------------------------------------------------------
 # Homepage:       https://github.com/xorcan/hosts/
 # Direct:         https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
-# Release:        v0.4.3
+# Release:        v0.4.3.2
 # Format:         Hosts
 # License:        GNU General Public License v3.0
 #                 https://www.gnu.org/licenses/gpl-3.0.html
 # ------------------------------------------------------------------------
-# Last update:    11 Apr 2019
+# Last update:    14 Apr 2019
 # ------------------------------------------------------------------------
 
 127.0.0.1  localhost
