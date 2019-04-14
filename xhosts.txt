@@ -16,6 +16,9 @@
 127.0.0.1 1.l.adsco.re
 127.0.0.1 1.n.adsco.re
 127.0.0.1 1.s.adsco.re
+127.0.0.1 l.adsco.re
+127.0.0.1 n.adsco.re
+127.0.0.1 s.adsco.re
 127.0.0.1 15elon9.zgnkwfb.com
 127.0.0.1 1x5o.funnwebs.com
 127.0.0.1 1xbahiseank.com
