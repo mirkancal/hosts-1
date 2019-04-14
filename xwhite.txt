@@ -17,4 +17,5 @@ white yadi.sk
 white oload.tv
 white ok.ru
 white s.youtube.com
+white speed4up.com
 # xorcan/hosts stop #
