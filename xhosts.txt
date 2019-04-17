@@ -113,7 +113,6 @@
 127.0.0.1 bodelen.com
 127.0.0.1 bodlift.com
 127.0.0.1 boslitor.com
-127.0.0.1 bot.videoresim.website
 127.0.0.1 bpqy.funnwebs.com
 127.0.0.1 browserr.top
 127.0.0.1 browsers.support
