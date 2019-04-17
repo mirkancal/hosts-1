@@ -219,6 +219,7 @@
 127.0.0.1 kitapindir.website
 127.0.0.1 kol3.funnwebs.com
 127.0.0.1 kusadasisosyetesi.com
+127.0.0.1 l.adsco.re
 127.0.0.1 lethalpass.com
 127.0.0.1 ln1.bcvcrdr.space
 127.0.0.1 localgirldating.com
@@ -250,6 +251,7 @@
 127.0.0.1 ms-49.monitornotifyfriends.info
 127.0.0.1 ms-89.monitornotifyfriends.info
 127.0.0.1 myornamenti.com
+127.0.0.1 n.adsco.re
 127.0.0.1 n18.cdn.adbetnet.com
 127.0.0.1 n2.cdn.adbetnet.com
 127.0.0.1 n3.cdn.adbetnet.com
@@ -304,6 +306,7 @@
 127.0.0.1 rtb.exoclick.com
 127.0.0.1 rubick.gameanalytics.com
 127.0.0.1 rutubet.info
+127.0.0.1 s.adsco.re
 127.0.0.1 s.blok.link
 127.0.0.1 s1.promoviral.com
 127.0.0.1 sajk.funnwebs.com
