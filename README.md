@@ -31,7 +31,7 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
 - https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
-(bu yöntemi seçtiyseniz tekrar beyaz listeyi indirip yüklemenize gerek kalmaz. bu hepsini içerir.
+(beyaz listeyle kullanın)
 - Ana menüye dönün, güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
 ## Beyaz liste (Adaway)
@@ -43,11 +43,11 @@ veya şuradan en son sürümün "xwhite.txt" dosyasını indirin:
 
 ## İndirmeler
 
-Buradan dosyalara erişebilirsiniz. Download from [here](https://github.com/xorcan/hosts/releases).
+[Buradan](https://github.com/xorcan/hosts/releases) dosyalara erişebilirsiniz. 
 
 ## Diğer listeler
 
-önerdiğim diğer listeler [burada](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bulunuyor.
+Önerdiğim diğer listeler [burada](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bulunuyor.
 
 ## Bildir
 
