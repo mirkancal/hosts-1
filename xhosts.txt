@@ -79,8 +79,10 @@
 127.0.0.1 ag88xx974443xxrw48356458vs3.website
 127.0.0.1 aioapps.com
 127.0.0.1 aitrreklam.tk
+127.0.0.1 aleosport.com
 127.0.0.1 allmygreatlife.com
 127.0.0.1 allornamenti.com
+127.0.0.1 allsportips.com
 127.0.0.1 amobil.online
 127.0.0.1 anime.narutogaming.com
 127.0.0.1 ankaraoguzmobilya.com
@@ -90,6 +92,9 @@
 127.0.0.1 apps19.mobile-apps.pw
 127.0.0.1 appsflyer.com
 127.0.0.1 arcade.g2afse.com
+127.0.0.1 arzurproduction.com
+127.0.0.1 avcilarliman.com
+127.0.0.1 aziweb.com
 127.0.0.1 b5lo.daspearstreet.com
 127.0.0.1 bahcesehirevleri.com
 127.0.0.1 bahreyn.tk
@@ -117,6 +122,7 @@
 127.0.0.1 basvuruformu7.ml
 127.0.0.1 basvuruformu8.ml
 127.0.0.1 basvuruformu9.ml
+127.0.0.1 bbazma.com
 127.0.0.1 bchaser10.host
 127.0.0.1 bchaser11.host
 127.0.0.1 bcvcrdr.space
@@ -125,8 +131,11 @@
 127.0.0.1 betasus123.com
 127.0.0.1 betmatik553.com
 127.0.0.1 betpot5.com
+127.0.0.1 bettingsites1.com
+127.0.0.1 bettingtag.com
 127.0.0.1 betwinner1.com
 127.0.0.1 betwinner17.com
+127.0.0.1 bibogames.net
 127.0.0.1 bigblackshark.info
 127.0.0.1 binary1.website
 127.0.0.1 binomo.com
@@ -144,6 +153,8 @@
 127.0.0.1 browsers.support
 127.0.0.1 burningpush.info
 127.0.0.1 buthapleftnohar.pro
+127.0.0.1 buycialistab.com
+127.0.0.1 buyviagraroc.com
 127.0.0.1 c.adsco.re
 127.0.0.1 c4zk.funnwebs.com
 127.0.0.1 ca.clcknads.pro
@@ -164,6 +175,7 @@
 127.0.0.1 cdnarsiv.com
 127.0.0.1 cep.sohbetibagla.xyz
 127.0.0.1 chat.videoresim.website
+127.0.0.1 cheapcialisnow.net
 127.0.0.1 cheprihel.host
 127.0.0.1 cinealanya.com
 127.0.0.1 cizyix.gxxcbj.com
@@ -200,6 +212,7 @@
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 ep9o.looksslike.com
 127.0.0.1 erotik.sohbetibagla.xyz
+127.0.0.1 escort.gecekuluplerikibris.com
 127.0.0.1 eu.dspmulti.com
 127.0.0.1 eu.xxxfilm-5.ru
 127.0.0.1 exoclick.com
@@ -216,6 +229,7 @@
 127.0.0.1 g2afse.com
 127.0.0.1 gaming-guide-online.com
 127.0.0.1 gdmconvtrck.com
+127.0.0.1 gecekuluplerikibris.com
 127.0.0.1 general.newsfeed.support
 127.0.0.1 gercek.sohbetibagla.xyz
 127.0.0.1 getalinkandshare.com
@@ -315,6 +329,7 @@
 127.0.0.1 newsfeed.support
 127.0.0.1 newsgo.me
 127.0.0.1 newswe.org
+127.0.0.1 nolipz.com
 127.0.0.1 notabenemessage.com
 127.0.0.1 notifymepush.info
 127.0.0.1 nrxl.dayagainst.com
@@ -449,6 +464,11 @@
 127.0.0.1 v3.push-checking.com
 127.0.0.1 va5h.funnwebs.com
 127.0.0.1 velocecdn.com
+127.0.0.1 viagra-e.net
+127.0.0.1 viagra-exchange.com
+127.0.0.1 viagra2price.com
+127.0.0.1 viagraul.net
+127.0.0.1 viagrawins.com
 127.0.0.1 vip-flirtbooks.com
 127.0.0.1 virilityex.com
 127.0.0.1 vknrfwwxhxaxupqp.pro
@@ -459,6 +479,7 @@
 127.0.0.1 waust.at
 127.0.0.1 wcrgl.adultgames.fun
 127.0.0.1 wcrgl.cyber.game
+127.0.0.1 webuny.com
 127.0.0.1 whatsappaff.club
 127.0.0.1 wlefbet.adsrv.eacdn.com
 127.0.0.1 wlpiabet.adsrv.eacdn.com
@@ -470,13 +491,22 @@
 127.0.0.1 www.4club.com
 127.0.0.1 www.adoutput.com
 127.0.0.1 www.aioapps.com
+127.0.0.1 www.aleosport.com
+127.0.0.1 www.allsportips.com
 127.0.0.1 www.antalyaipl.com
+127.0.0.1 www.arzurproduction.com
+127.0.0.1 www.avcilarliman.com
+127.0.0.1 www.aziweb.com
 127.0.0.1 www.bahcesehirevleri.com
 127.0.0.1 www.bchaser10.host
 127.0.0.1 www.bchaser11.host
+127.0.0.1 www.bettingsites1.com
+127.0.0.1 www.bibogames.net
 127.0.0.1 www.binary1.website
 127.0.0.1 www.bodrumpersonel.com
+127.0.0.1 www.buycialistab.com
 127.0.0.1 www.cdnarsiv.com
+127.0.0.1 www.cheapcialisnow.net
 127.0.0.1 www.cinealanya.com
 127.0.0.1 www.clnyourpc.com
 127.0.0.1 www.cyber.game
@@ -494,6 +524,7 @@
 127.0.0.1 www.maviyer.com
 127.0.0.1 www.mochka.com
 127.0.0.1 www.modulepush.com
+127.0.0.1 www.nolipz.com
 127.0.0.1 www.olydig.com
 127.0.0.1 www.onclicksuper.com
 127.0.0.1 www.sunstep.org
@@ -502,7 +533,13 @@
 127.0.0.1 www.trafyield.com
 127.0.0.1 www.turkcelsuperlig.com
 127.0.0.1 www.turkiyejumbo.xyz
+127.0.0.1 www.viagra-e.net
+127.0.0.1 www.viagra-exchange.com
+127.0.0.1 www.viagra2price.com
+127.0.0.1 www.viagraul.net
+127.0.0.1 www.viagrawins.com
 127.0.0.1 www.virilityex.com
+127.0.0.1 www.webuny.com
 127.0.0.1 www.xn--poplerbahissiteleri-79b.com
 127.0.0.1 xghfi97mk6.com
 127.0.0.1 xilbalar.com
@@ -520,41 +557,4 @@
 127.0.0.1 zgnkwfb.com
 127.0.0.1 zlm2.daspearstreet.com
 127.0.0.1 zmef.funnwebs.com
-aleosport.com
-allsportips.com
-arzurproduction.com
-avcilarliman.com
-aziweb.com
-bbazma.com
-bettingsites1.com
-bettingtag.com
-bibogames.net
-buycialistab.com
-buyviagraroc.com
-cheapcialisnow.net
-escort.gecekuluplerikibris.com
-gecekuluplerikibris.com
-nolipz.com
-viagra-e.net
-viagra-exchange.com
-viagra2price.com
-viagraul.net
-viagrawins.com
-webuny.com
-www.aleosport.com
-www.allsportips.com
-www.arzurproduction.com
-www.avcilarliman.com
-www.aziweb.com
-www.bettingsites1.com
-www.bibogames.net
-www.buycialistab.com
-www.cheapcialisnow.net
-www.nolipz.com
-www.viagra-e.net
-www.viagra-exchange.com
-www.viagra2price.com
-www.viagraul.net
-www.viagrawins.com
-www.webuny.com
 # xorcan/hosts stop #
