@@ -520,4 +520,41 @@
 127.0.0.1 zgnkwfb.com
 127.0.0.1 zlm2.daspearstreet.com
 127.0.0.1 zmef.funnwebs.com
+aleosport.com
+allsportips.com
+arzurproduction.com
+avcilarliman.com
+aziweb.com
+bbazma.com
+bettingsites1.com
+bettingtag.com
+bibogames.net
+buycialistab.com
+buyviagraroc.com
+cheapcialisnow.net
+escort.gecekuluplerikibris.com
+gecekuluplerikibris.com
+nolipz.com
+viagra-e.net
+viagra-exchange.com
+viagra2price.com
+viagraul.net
+viagrawins.com
+webuny.com
+www.aleosport.com
+www.allsportips.com
+www.arzurproduction.com
+www.avcilarliman.com
+www.aziweb.com
+www.bettingsites1.com
+www.bibogames.net
+www.buycialistab.com
+www.cheapcialisnow.net
+www.nolipz.com
+www.viagra-e.net
+www.viagra-exchange.com
+www.viagra2price.com
+www.viagraul.net
+www.viagrawins.com
+www.webuny.com
 # xorcan/hosts stop #
