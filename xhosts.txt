@@ -1,7 +1,7 @@
 # Title: ❤ xorcan ❤ türk ad-list
 # Format: Hosts
-# Released: 2019-04-18
-# Entries: 546
+# Released: 2019-04-20
+# Entries: 688
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
