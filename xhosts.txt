@@ -1,7 +1,7 @@
 # Title: ❤ xorcan ❤ türk ad-list
 # Format: Hosts
 # Released: 2019-04-20
-# Entries: 689
+# Entries: 690
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -188,6 +188,7 @@
 127.0.0.1 carr.dayagainst.com
 127.0.0.1 catchtheclick.com
 127.0.0.1 cdn-aimi.akamaized.net
+127.0.0.1 cdn.adbetnet.com
 127.0.0.1 cdn.adultgames.fun
 127.0.0.1 cdn.cdnarsiv.com
 127.0.0.1 cdn.cyber.game
