@@ -40,7 +40,7 @@ bu listeleri kullanmanızı öneririm. şu da güzel dediğiniz liste varsa gön
 
 #### önemli: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
-*daha fazlası için (filterlists.com)[https://filterlists.com/] 'da "coin" diye aratın.*
+*daha fazlası için [filterlists.com](https://filterlists.com/)'da "coin" diye aratın.*
 
 ## diğer
 
