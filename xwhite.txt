@@ -1,7 +1,7 @@
-# Title: ❤ xorcan ❤ türk white-list
+# Title: ❤xorcan❤ türk white-list
 # Format: Hosts Whitelist
-# Released: 2019-04-14
-# Entries: 10
+# Released: 2019-04-26
+# Entries: 12
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt
@@ -19,4 +19,6 @@ white oload.tv
 white ok.ru
 white s.youtube.com
 white speed4up.com
+white ayandns.com
+white serverone.videocdn.xyz
 # xorcan/hosts stop #
