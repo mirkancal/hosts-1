@@ -50,7 +50,7 @@ bu listeleri kullanmanızı öneririm. şu da güzel dediğiniz liste varsa gön
 
 *aldatıcı siteler ip:* https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/ip-lists.txt
 
-*aldatıcı siteler url:* https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+*aldatıcı siteler url:(önerilmez, çok fazla)* https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 
