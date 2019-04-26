@@ -24,7 +24,11 @@ https://getadhell.com/standard-package.txt
 https://hosts-file.net/ad_servers.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/
+
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
+
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Turkey.txt
+
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/ip-lists.txt
+
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
