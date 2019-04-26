@@ -60,6 +60,6 @@ https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/
 
-fazladan koruma (önerilmez): https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
+*koruma (önerilmez):* https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
 
 *kore siteleri (pek işinize yaramaz):* https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
