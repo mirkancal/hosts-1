@@ -48,7 +48,7 @@ bu listeleri kullanmanızı öneririm. şu da güzel dediğiniz liste varsa gön
 
 *porno falan:* https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Turkey.txt
 
-*aldatıcı siteler ip: (40 bin+)* https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/ip-lists.txt
+*aldatıcı siteler ip (40 bin+):* https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/ip-lists.txt
 
 *aldatıcı siteler url (önerilmez, çok fazla(200 bin+)):* https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 
