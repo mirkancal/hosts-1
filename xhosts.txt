@@ -1,7 +1,7 @@
-# Title: can❤nur türk ad-list
+# Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
-# Released: 2019-04-23
-# Entries: 719
+# Released: 2019-04-26
+# Entries: 783
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -12,6 +12,7 @@
 ::1  localhost
 
 # xorcan/hosts start #
+127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0buq.funnwebs.com
 127.0.0.1 0l19.daspearstreet.com
 127.0.0.1 0wu4.looksslike.com
@@ -31,6 +32,7 @@
 127.0.0.1 27.s.adsco.re
 127.0.0.1 28pe.dayagainst.com
 127.0.0.1 2frt.daspearstreet.com
+127.0.0.1 3.hdxvipizle.net
 127.0.0.1 3byo.dayagainst.com
 127.0.0.1 3x3z.funnwebs.com
 127.0.0.1 41df76c67812005c.com
@@ -55,6 +57,7 @@
 127.0.0.1 7cup.funnwebs.com
 127.0.0.1 7tg6.looksslike.com
 127.0.0.1 821i.funnwebs.com
+127.0.0.1 8a8cq8c8yyqjs2xr.pro
 127.0.0.1 8drl.daspearstreet.com
 127.0.0.1 8m1n.funnwebs.com
 127.0.0.1 8n21.daspearstreet.com
@@ -62,6 +65,7 @@
 127.0.0.1 a.adnium.com
 127.0.0.1 aald.looksslike.com
 127.0.0.1 acilankara.com
+127.0.0.1 acrmbjkk6qc5utby.pro
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 adbetnet.com
@@ -94,12 +98,15 @@
 127.0.0.1 allornamenti.com
 127.0.0.1 allsportips.com
 127.0.0.1 amobil.online
+127.0.0.1 anadoluyakasiparti.com
 127.0.0.1 anime.narutogaming.com
 127.0.0.1 ankailan.xyz
 127.0.0.1 ankaraescortfm.com
 127.0.0.1 ankaraescortvar.com
+127.0.0.1 ankaraesnaf.net
 127.0.0.1 ankaraoguzmobilya.com
 127.0.0.1 antalyaipl.com
+127.0.0.1 anteprimataurasi.com
 127.0.0.1 antillephone.com
 127.0.0.1 api.binomo.com
 127.0.0.1 app.adjust.com
@@ -109,7 +116,10 @@
 127.0.0.1 arcade.g2afse.com
 127.0.0.1 arre.work
 127.0.0.1 arzurproduction.com
+127.0.0.1 atasehirtransport.com
+127.0.0.1 avcilarescortking.com
 127.0.0.1 avcilarliman.com
+127.0.0.1 avrupayakasikiralik.com
 127.0.0.1 aziweb.com
 127.0.0.1 b5lo.daspearstreet.com
 127.0.0.1 bahcesehirevleri.com
@@ -143,6 +153,7 @@
 127.0.0.1 bchaser11.host
 127.0.0.1 bcvcrdr.space
 127.0.0.1 bcvcrdr.website
+127.0.0.1 bedavayuz.com
 127.0.0.1 best.hot-blogs.info
 127.0.0.1 betasus123.com
 127.0.0.1 bethepresharthe.info
@@ -153,9 +164,11 @@
 127.0.0.1 betwinner1.com
 127.0.0.1 betwinner17.com
 127.0.0.1 beylikduzucafe.com
+127.0.0.1 beylikduzuhidrofor.com
 127.0.0.1 beylikduzusu.com
 127.0.0.1 bibogames.net
 127.0.0.1 bigblackshark.info
+127.0.0.1 bilisimcini.com
 127.0.0.1 binary1.website
 127.0.0.1 binarymoney.site
 127.0.0.1 binomo.com
@@ -167,8 +180,10 @@
 127.0.0.1 bodelen.com
 127.0.0.1 bodlift.com
 127.0.0.1 bodloster.com
+127.0.0.1 bodrumdalyan.com
 127.0.0.1 bodrumpersonel.com
 127.0.0.1 boslitor.com
+127.0.0.1 bostanciminihal.com
 127.0.0.1 bpqy.funnwebs.com
 127.0.0.1 browserr.top
 127.0.0.1 browsers.support
@@ -200,8 +215,10 @@
 127.0.0.1 cdn.runative-syndicate.com
 127.0.0.1 cdn.sendpulse.com
 127.0.0.1 cdn1.efbet.com
+127.0.0.1 cdn11.online
 127.0.0.1 cdnarsiv.com
 127.0.0.1 cep.sohbetibagla.xyz
+127.0.0.1 ceptensohbetnosu.info
 127.0.0.1 chat.videoresim.website
 127.0.0.1 cheapcialisnow.net
 127.0.0.1 cheprihel.host
@@ -230,6 +247,7 @@
 127.0.0.1 d4.cdn.adbetnet.com
 127.0.0.1 d9g8c.x.incapdns.net
 127.0.0.1 dadbab.info
+127.0.0.1 dagit.ml
 127.0.0.1 dalseeds.net
 127.0.0.1 daspearstreet.com
 127.0.0.1 dayagainst.com
@@ -249,6 +267,8 @@
 127.0.0.1 ecpms.net
 127.0.0.1 edgership-widscott.com
 127.0.0.1 ekli.net
+127.0.0.1 eksiz-biristanbulmasali-com.cdn.ampproject.org
+127.0.0.1 elazigdayim.com
 127.0.0.1 elit59.xyz
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 enoughts.info
@@ -256,6 +276,7 @@
 127.0.0.1 erkete.net
 127.0.0.1 erotik.sohbetibagla.xyz
 127.0.0.1 escort.gecekuluplerikibris.com
+127.0.0.1 escortbeylikuzu.com
 127.0.0.1 escortsc-com.cdn.ampproject.org
 127.0.0.1 escortsc.com
 127.0.0.1 eslitrezo.com
@@ -273,6 +294,7 @@
 127.0.0.1 fly.numbertrck.com
 127.0.0.1 fokea.com
 127.0.0.1 fortumo.com
+127.0.0.1 fosclhrsdhhn.com
 127.0.0.1 fpsdbfo.paylasimnet.com
 127.0.0.1 funnwebs.com
 127.0.0.1 funtikapa.info
@@ -280,6 +302,8 @@
 127.0.0.1 fyrcdlb.bursavit.org
 127.0.0.1 g2afse.com
 127.0.0.1 gaming-guide-online.com
+127.0.0.1 gazianteptesisat.com
+127.0.0.1 gazianteptuhafiye.com
 127.0.0.1 gdmconvtrck.com
 127.0.0.1 gecekuluplerikibris.com
 127.0.0.1 general.newsfeed.support
@@ -290,6 +314,7 @@
 127.0.0.1 glb5.funnwebs.com
 127.0.0.1 glimpse.newsfeed.support
 127.0.0.1 go.coolthingstofind.xyz
+127.0.0.1 go.ero-advertising.com
 127.0.0.1 go.hepsibahis94.com
 127.0.0.1 google.analys.live
 127.0.0.1 gquo.funnwebs.com
@@ -299,6 +324,8 @@
 127.0.0.1 gvbz.funnwebs.com
 127.0.0.1 gxxcbj.com
 127.0.0.1 haupsoti.net
+127.0.0.1 hdxmedia.site
+127.0.0.1 hdxvipizle.site
 127.0.0.1 hellofromhony.com
 127.0.0.1 hemen.sohbetibagla.xyz
 127.0.0.1 hepsibahis351.com
@@ -351,6 +378,7 @@
 127.0.0.1 kol3.funnwebs.com
 127.0.0.1 konum.sohbetibagla.xyz
 127.0.0.1 konyaescortlar.me
+127.0.0.1 kurtkoyays.com
 127.0.0.1 kusadasisosyetesi.com
 127.0.0.1 l.adsco.re
 127.0.0.1 lethalpass.com
@@ -379,6 +407,7 @@
 127.0.0.1 maviyer.com
 127.0.0.1 media.winaffiliates.com
 127.0.0.1 meraklikadin.com
+127.0.0.1 mersinses.com
 127.0.0.1 mesaj-geldi.blok.link
 127.0.0.1 mesajin.sohbetibagla.xyz
 127.0.0.1 messanger.win
@@ -387,6 +416,7 @@
 127.0.0.1 minently.com
 127.0.0.1 minimum.newsfeed.support
 127.0.0.1 mmwebhandler.aff-online.com
+127.0.0.1 mobileoffers-bs-download.com
 127.0.0.1 mobnootiffy.com
 127.0.0.1 mochka.com
 127.0.0.1 modulepush.com
@@ -412,6 +442,7 @@
 127.0.0.1 newsfeed.support
 127.0.0.1 newsgo.me
 127.0.0.1 newswe.org
+127.0.0.1 ngfsciiu.com
 127.0.0.1 nolipz.com
 127.0.0.1 notabenemessage.com
 127.0.0.1 notifymepush.info
@@ -497,6 +528,8 @@
 127.0.0.1 rek2.adsblok.com
 127.0.0.1 reklam.meraklikadin.com
 127.0.0.1 rereegny.net
+127.0.0.1 resim006.tk
+127.0.0.1 revbigo.com
 127.0.0.1 reyden-x.com
 127.0.0.1 roseajans.club
 127.0.0.1 rrtcfwmvhs.com
@@ -512,6 +545,8 @@
 127.0.0.1 s1.promoviral.com
 127.0.0.1 s3vby.x.incapdns.net
 127.0.0.1 sajk.funnwebs.com
+127.0.0.1 saldiri.ates.us
+127.0.0.1 sanalalanya.com
 127.0.0.1 say.cdnarsiv.com
 127.0.0.1 scandal.newsfeed.support
 127.0.0.1 sdk.adtiming.com
@@ -522,12 +557,14 @@
 127.0.0.1 sertphuw10.host
 127.0.0.1 serverone.videocdn.xyz
 127.0.0.1 shakesmobi.com
+127.0.0.1 sharkbayi.cf
 127.0.0.1 sibtel.adriver.ru
 127.0.0.1 silence.newsfeed.support
 127.0.0.1 simdi-ara.sohbetibagla.xyz
 127.0.0.1 siparispanel.info
 127.0.0.1 sislidekor.com
 127.0.0.1 sisliklima.com
+127.0.0.1 sislinikah.com
 127.0.0.1 smart.ncdn.pw
 127.0.0.1 smrtbnr.net
 127.0.0.1 smrtbnr.site
@@ -535,6 +572,7 @@
 127.0.0.1 softorsholitthis.info
 127.0.0.1 sohbetibagla.xyz
 127.0.0.1 sohbetimbaglan.net
+127.0.0.1 sohbetsaati.tk
 127.0.0.1 solvability.biz
 127.0.0.1 soprano.newsfeed.support
 127.0.0.1 speeder.biz
@@ -611,6 +649,7 @@
 127.0.0.1 wcrgl.cyber.game
 127.0.0.1 webuny.com
 127.0.0.1 whatsappaff.club
+127.0.0.1 whatsappsohbet.site
 127.0.0.1 wlefbet.adsrv.eacdn.com
 127.0.0.1 wlpiabet.adsrv.eacdn.com
 127.0.0.1 wlsuperbahis.adsrv.eacdn.com
@@ -624,23 +663,35 @@
 127.0.0.1 www.aioapps.com
 127.0.0.1 www.aleosport.com
 127.0.0.1 www.allsportips.com
+127.0.0.1 www.anadoluyakasiparti.com
+127.0.0.1 www.ankaraesnaf.net
 127.0.0.1 www.antalyaipl.com
+127.0.0.1 www.anteprimataurasi.com
 127.0.0.1 www.arzurproduction.com
+127.0.0.1 www.atasehirtransport.com
+127.0.0.1 www.avcilarescortking.com
 127.0.0.1 www.avcilarliman.com
+127.0.0.1 www.avrupayakasikiralik.com
 127.0.0.1 www.aziweb.com
 127.0.0.1 www.bahcesehirevleri.com
 127.0.0.1 www.bchaser10.host
 127.0.0.1 www.bchaser11.host
+127.0.0.1 www.bedavayuz.com
 127.0.0.1 www.bettingsites1.com
+127.0.0.1 www.beylikduzuhidrofor.com
 127.0.0.1 www.bibogames.net
+127.0.0.1 www.bilisimcini.com
 127.0.0.1 www.binary1.website
 127.0.0.1 www.binarymoney.site
+127.0.0.1 www.bodrumdalyan.com
 127.0.0.1 www.bodrumpersonel.com
+127.0.0.1 www.bostanciminihal.com
 127.0.0.1 www.bursaotocenter.com
 127.0.0.1 www.bursas.ml
 127.0.0.1 www.bursavit.org
 127.0.0.1 www.buycialistab.com
 127.0.0.1 www.cdnarsiv.com
+127.0.0.1 www.ceptensohbetnosu.info
 127.0.0.1 www.cheapcialisnow.net
 127.0.0.1 www.chnghl.space
 127.0.0.1 www.cinealanya.com
@@ -648,9 +699,14 @@
 127.0.0.1 www.ctemall.com
 127.0.0.1 www.cyber.game
 127.0.0.1 www.ecpms.net
+127.0.0.1 www.elazigdayim.com
+127.0.0.1 www.escortbeylikuzu.com
 127.0.0.1 www.esvtrn.me
 127.0.0.1 www.extremefreegames.com
 127.0.0.1 www.fedgha.com
+127.0.0.1 www.fosclhrsdhhn.com
+127.0.0.1 www.gazianteptesisat.com
+127.0.0.1 www.gazianteptuhafiye.com
 127.0.0.1 www.greatdexchange.com
 127.0.0.1 www.hepsibahis94.com
 127.0.0.1 www.hotellazeez.com
@@ -662,13 +718,17 @@
 127.0.0.1 www.jackpotcitycasino.se
 127.0.0.1 www.kentli.org
 127.0.0.1 www.konyaescortlar.me
+127.0.0.1 www.kurtkoyays.com
 127.0.0.1 www.kusadasisosyetesi.com
 127.0.0.1 www.lethalpass.com
+127.0.0.1 www.link-redirect.xyz
 127.0.0.1 www.mahvet.info
 127.0.0.1 www.mavidost.com
 127.0.0.1 www.maviyer.com
+127.0.0.1 www.mersinses.com
 127.0.0.1 www.mochka.com
 127.0.0.1 www.modulepush.com
+127.0.0.1 www.ngfsciiu.com
 127.0.0.1 www.nolipz.com
 127.0.0.1 www.olydig.com
 127.0.0.1 www.onclicksuper.com
@@ -677,6 +737,8 @@
 127.0.0.1 www.oteuforum.com
 127.0.0.1 www.paylasimnet.com
 127.0.0.1 www.prusa1.tk
+127.0.0.1 www.sanalalanya.com
+127.0.0.1 www.sislinikah.com
 127.0.0.1 www.sunstep.org
 127.0.0.1 www.teenomania.com
 127.0.0.1 www.tr-gameland.com
@@ -691,6 +753,7 @@
 127.0.0.1 www.viagrawins.com
 127.0.0.1 www.virilityex.com
 127.0.0.1 www.webuny.com
+127.0.0.1 www.whatsappsohbet.site
 127.0.0.1 www.xn--poplerbahissiteleri-79b.com
 127.0.0.1 xghfi97mk6.com
 127.0.0.1 xilbalar.com
