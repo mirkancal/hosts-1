@@ -43,7 +43,9 @@ veya şuradan en son sürümün "xwhite.txt" dosyasını indirin:
 
 ## Özel durumlar
 
-s.youtube.com : YouTube geçmiş kaydetmesini istemiyorsanız whitelist'ten çıkarın.
+### varsayılan olarak engelsiz:
+
+1. **s.youtube.com**  : YouTube geçmiş kaydetmesini istemiyorsanız whitelist'ten çıkarın.
 
 ## Diğer listeler
 
