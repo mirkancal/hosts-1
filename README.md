@@ -41,9 +41,9 @@ Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyer
 veya şuradan en son sürümün "xwhite.txt" dosyasını indirin:
 - https://github.com/xorcan/hosts/releases/latest
 
-## İndirmeler
+## Özel durumlar
 
-[Buradan](https://github.com/xorcan/hosts/releases) dosyalara erişebilirsiniz. 
+s.youtube.com : YouTube geçmiş kaydetmesini istemiyorsanız whitelist'ten çıkarın.
 
 ## Diğer listeler
 
