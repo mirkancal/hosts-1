@@ -57,7 +57,7 @@ Engellenmesini uygun gördüğünüz siteleri bildirin ekleyeyim.
 
 Issues bölümüne yazabilirsiniz hesabınız varsa. 
 
-Hesabım yok uğraşamam diyorsanız bir [buradan](mailto:cxn@gmx.com) bir e-posta gönderebilirsiniz.
+Hesabım yok uğraşamam diyorsanız bir [buradan](mailto:xorcan@yandex.com) bir e-posta gönderebilirsiniz.
 
 ## Uyarı - Disclaimer
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
