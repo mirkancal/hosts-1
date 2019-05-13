@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk white-list
 # Format: Hosts Whitelist
 # Released: 2019-05-13
-# Entries: 13
+# Entries: 11
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt
@@ -19,7 +19,5 @@ white *.eviewporn.com
 white *.vidmo.cc
 white s.youtube.com
 white taciz.biz
-white serverone.videocdn.xyz
 white yadi.sk
-white cdn11.online
 # xorcan/hosts stop #
