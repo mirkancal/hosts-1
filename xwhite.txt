@@ -1,6 +1,6 @@
 # Title: ❤xorcan❤ türk white-list
 # Format: Hosts Whitelist
-# Released: 2019-04-26
+# Released: 2019-05-13
 # Entries: 13
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
