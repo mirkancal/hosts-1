@@ -1,4 +1,4 @@
-<h2 align="center"><b>HOSTS</b></h2>
+<h2 align="center"><b>Türk Ad-list, Reklam Engelleme Listesi, HOSTS</b></h2>
 
 <h4 align="center">Bahis gibi rahatsız edici siteleri engeller.</h4>
 
