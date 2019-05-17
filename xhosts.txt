@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
 # Released: 2019-05-17
-# Entries: 967
+# Entries: 884
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -283,6 +283,7 @@
 127.0.0.1 eco.ticaret1.club
 127.0.0.1 ecpms.net
 127.0.0.1 edgership-widscott.com
+127.0.0.1 ekitabix.club
 127.0.0.1 ekli.net
 127.0.0.1 eksiz-biristanbulmasali-com.cdn.ampproject.org
 127.0.0.1 elazigdayim.com
@@ -425,6 +426,7 @@
 127.0.0.1 kurtkoyays.com
 127.0.0.1 kusadasisosyetesi.com
 127.0.0.1 l.adsco.re
+127.0.0.1 landings.ncmae.com
 127.0.0.1 lethalpass.com
 127.0.0.1 lf5am.x.incapdns.net
 127.0.0.1 link-redirect.xyz
@@ -435,6 +437,7 @@
 127.0.0.1 lois.mediaglb.com
 127.0.0.1 looksslike.com
 127.0.0.1 lt95.dayagainst.com
+127.0.0.1 lubitpiva.jdevcloud.com
 127.0.0.1 m.1xbahisjhgc.com
 127.0.0.1 m.267bets10.com
 127.0.0.1 m.betasus123.com
@@ -482,6 +485,7 @@
 127.0.0.1 n3.cdn.adbetnet.com
 127.0.0.1 n8.cdn.adbetnet.com
 127.0.0.1 narutogaming.com
+127.0.0.1 ncmae.com
 127.0.0.1 nettepet.com
 127.0.0.1 news-pro.today
 127.0.0.1 news-us.dailyadvent.com
@@ -529,6 +533,7 @@
 127.0.0.1 partners.popcent.net
 127.0.0.1 pay.fortumo.com
 127.0.0.1 paylasimnet.com
+127.0.0.1 pdfhemenindir.com
 127.0.0.1 pdfindir.online
 127.0.0.1 perabet177.com
 127.0.0.1 perrlqnm9t.top
@@ -621,6 +626,7 @@
 127.0.0.1 smrtbnr.site
 127.0.0.1 smrtbnr.space
 127.0.0.1 softorsholitthis.info
+127.0.0.1 softwarer.us
 127.0.0.1 sohbetesi1.com
 127.0.0.1 sohbetesiniz.com
 127.0.0.1 sohbetibagla.xyz
@@ -660,6 +666,7 @@
 127.0.0.1 todoblask15.host
 127.0.0.1 topclickguru.com
 127.0.0.1 topswp.com
+127.0.0.1 tr-books.softwarer.us
 127.0.0.1 tr-gameland.com
 127.0.0.1 tr43.daspearstreet.com
 127.0.0.1 track.fungiers.com
@@ -676,6 +683,7 @@
 127.0.0.1 turinr.eb2a.com
 127.0.0.1 turkcelsuperlig.com
 127.0.0.1 turkiyejumbo.xyz
+127.0.0.1 uberupload.online
 127.0.0.1 uod2quk646.com
 127.0.0.1 upn5.funnwebs.com
 127.0.0.1 uptopopunder.com
@@ -766,6 +774,7 @@
 127.0.0.1 www.ctemall.com
 127.0.0.1 www.cyber.game
 127.0.0.1 www.ecpms.net
+127.0.0.1 www.ekitabix.club
 127.0.0.1 www.elazigdayim.com
 127.0.0.1 www.elitbodrum.com
 127.0.0.1 www.escortbeylikuzu.com
@@ -800,14 +809,17 @@
 127.0.0.1 www.konyaescortlar.me
 127.0.0.1 www.kurtkoyays.com
 127.0.0.1 www.kusadasisosyetesi.com
+127.0.0.1 www.landings.ncmae.com
 127.0.0.1 www.lethalpass.com
 127.0.0.1 www.link-redirect.xyz
+127.0.0.1 www.lubitpiva.jdevcloud.com
 127.0.0.1 www.mahvet.info
 127.0.0.1 www.mavidost.com
 127.0.0.1 www.maviyer.com
 127.0.0.1 www.mersinses.com
 127.0.0.1 www.mochka.com
 127.0.0.1 www.modulepush.com
+127.0.0.1 www.ncmae.com
 127.0.0.1 www.ngfsciiu.com
 127.0.0.1 www.nolipz.com
 127.0.0.1 www.olydig.com
@@ -816,16 +828,20 @@
 127.0.0.1 www.oslosoul.com
 127.0.0.1 www.oteuforum.com
 127.0.0.1 www.paylasimnet.com
+127.0.0.1 www.pdfhemenindir.com
 127.0.0.1 www.pizzakusadasi.com
 127.0.0.1 www.prusa1.tk
 127.0.0.1 www.sanalalanya.com
 127.0.0.1 www.sislinikah.com
+127.0.0.1 www.softwarer.us
 127.0.0.1 www.sunstep.org
 127.0.0.1 www.teenomania.com
+127.0.0.1 www.tr-books.softwarer.us
 127.0.0.1 www.tr-gameland.com
 127.0.0.1 www.trafyield.com
 127.0.0.1 www.turkcelsuperlig.com
 127.0.0.1 www.turkiyejumbo.xyz
+127.0.0.1 www.uberupload.online
 127.0.0.1 www.viagra-e.net
 127.0.0.1 www.viagra-exchange.com
 127.0.0.1 www.viagra2price.com
