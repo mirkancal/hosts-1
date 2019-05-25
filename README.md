@@ -55,9 +55,11 @@ veya şuradan en son sürümün "xwhite.txt" dosyasını indirin:
 
 Engellenmesini uygun gördüğünüz siteleri bildirin ekleyeyim. 
 
-Issues bölümüne yazabilirsiniz hesabınız varsa. 
+1. [Issues](https://github.com/xorcan/hosts/issues) kısmından bildirebilirsiniz.
 
-Hesabım yok uğraşamam diyorsanız bir [buradan](mailto:xorcan@yandex.com) bir e-posta gönderebilirsiniz.
+2. [Posta](mailto:xorcan@yandex.com) ile bildirebilirsiniz.
+
+3. [Telegram](https://t.me/hostsTR) grubuna bildirebilirsiniz.
 
 ## Uyarı - Disclaimer
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
