@@ -10,7 +10,7 @@ Adaway ile kullanınız. Android için tasarlanmıştır.
 
 ## Reklamları Nasıl Engelleyebilirim? - Windows
 
-- https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt adresinden listenin tamamını kopyalayın.
+- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt``` adresinden listenin tamamını kopyalayın.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
@@ -27,7 +27,7 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
-- https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
+- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt``` adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
 (beyaz listeyle kullanın)
 - Ana menüye dönün, güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
@@ -35,11 +35,11 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 
 Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Eklemeseniz de olur ama tavsiyemdir.
 
-- https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt 
+```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
 
 ## Özel durumlar - 👍 varsayılan olarak engelsiz :
 
-1. **s.youtube.com**  : YouTube geçmiş kaydetmesini istemiyorsanız whitelist'ten çıkarın.
+1. **```s.youtube.com```**  : YouTube geçmiş kaydetmesini istemiyorsanız whitelist'ten çıkarın.
 
 ## Diğer listeler
 
@@ -53,7 +53,7 @@ Engellenmesini uygun gördüğünüz siteleri bildirin ekleyeyim.
 
 2. [Posta](mailto:xorcan@yandex.com) ile bildirebilirsiniz.
 
-3. [Anonim posta](https://anonymousemail.me) ile bildirebilirsiniz.
+3. [Anonim posta](https://anonymousemail.me) ile ```xorcan@yandex.com``` adresine bildirebilirsiniz.
 
 4. [Telegram](https://t.me/hostsTR) grubuna bildirebilirsiniz.
 
