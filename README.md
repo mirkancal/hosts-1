@@ -1,18 +1,15 @@
 <h2 align="center"><b>Türk Ad-list, Reklam Engelleme Listesi, HOSTS</b></h2>
 
-<h4 align="center">Bahis gibi rahatsız edici siteleri engeller.</h4>
+<h4 align="center">Bahis, dolandırıcılık gibi rahatsız edici siteleri engeller.</h4>
 
 <p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></a>
 
 ## Kullanım
 
-Adaway ile kullanmanızı öneririm. Android için tasarlanmıştır.
+Adaway ile kullanınız. Android için tasarlanmıştır.
 
-You can use this hosts with adaway, windows and others.
+## Reklamları Nasıl Engelleyebilirim? - Windows
 
-## Reklamları Nasıl Engelleyebilirim?
-
-### Windows
 - https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt adresinden listenin tamamını kopyalayın.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
@@ -20,7 +17,7 @@ You can use this hosts with adaway, windows and others.
 
 NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
 
-### Android AdAway (Root)
+## Reklamları Nasıl Engelleyebilirim? - Android (AdAway (Root))
 
 Root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmelisiniz. Bu, batarya ve RAM tasarrufu sağlar.
 Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
@@ -37,13 +34,10 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 ## Beyaz liste (Adaway)
 
 Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Eklemeseniz de olur ama tavsiyemdir.
+
 - https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt 
-veya şuradan en son sürümün "xwhite.txt" dosyasını indirin:
-- https://github.com/xorcan/hosts/releases/latest
 
-## Özel durumlar
-
-### 👍 varsayılan olarak engelsiz :
+## Özel durumlar - 👍 varsayılan olarak engelsiz :
 
 1. **s.youtube.com**  : YouTube geçmiş kaydetmesini istemiyorsanız whitelist'ten çıkarın.
 
@@ -55,13 +49,16 @@ veya şuradan en son sürümün "xwhite.txt" dosyasını indirin:
 
 Engellenmesini uygun gördüğünüz siteleri bildirin ekleyeyim. 
 
-1. [Issues](https://github.com/xorcan/hosts/issues) kısmından bildirebilirsiniz.
+1. [Hatalar](https://github.com/xorcan/hosts/issues) kısmından bildirebilirsiniz.
 
 2. [Posta](mailto:xorcan@yandex.com) ile bildirebilirsiniz.
 
-3. [Telegram](https://t.me/hostsTR) grubuna bildirebilirsiniz.
+3. [Anonim posta](https://anonymousemail.me) ile bildirebilirsiniz.
+
+4. [Telegram](https://t.me/hostsTR) grubuna bildirebilirsiniz.
 
 ## Uyarı - Disclaimer
+
 Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
 
 ## License
