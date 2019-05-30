@@ -1,8 +1,7 @@
-<h2 align="center"><b>Türk Ad-list, Reklam Engelleme Listesi, HOSTS</b></h2>
+<h2 align="center"><img alt="Rahatsız Siteler" src="https://raw.githubusercontent.com/xorcan/hosts/master/xorcan.hosts.logo.jpg" width="250"></br>
+<b>Türk Ad-list, Reklam Engelleme Listesi, HOSTS</b></h2><h4 align="center">Bahis, dolandırıcılık gibi rahatsız edici siteleri engeller.</h4>
 
-<h4 align="center">Bahis, dolandırıcılık gibi rahatsız edici siteleri engeller.</h4>
-
-<p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></a>
+<p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/xorcan/hosts.svg"><img src=""><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"><img src="https://img.shields.io/github/issues/xorcan/hosts.svg"></a>
 
 ## Kullanım
 
@@ -31,6 +30,32 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 (beyaz listeyle kullanın)
 - Ana menüye dönün, güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
 
+## Listeyi eklemek istiyorum
+
+aşağıdaki bağlantıları aynı şekilde içeri alınız. bunlar önerilerim ve normal kullanıcılar için yeterlidir. ben daha fazla istiyorum diyorsanız [şuraya](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bakabilirsiniz.
+
+```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+
+```https://adaway.org/hosts.txt```
+
+```https://hosts-file.net/ad_servers.txt```
+
+```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
+
+```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
+
+## Eklememeniz gereken listeler (yutulanlar)
+
+bu host sağlayıcıyı kullanarak alttaki belirtilen hostları da otomatik kullanmış olursunuz endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. anlayacağınız bunları ayrıyeten eklemenize gerek yok.
+
+```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
+
+```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
+
+```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
+
+```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
+
 ## Beyaz liste (Adaway)
 
 Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Eklemeseniz de olur ama tavsiyemdir.
@@ -41,9 +66,7 @@ Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyer
 
 1. **```s.youtube.com```**  : YouTube geçmiş kaydetmesini istemiyorsanız whitelist'ten çıkarın.
 
-## Diğer listeler
-
-Önerdiğim diğer listeler [burada](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bulunuyor.
+## [Diğer listeler](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
 ## Bildir
 
