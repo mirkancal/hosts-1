@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
-# Released: 2019-05-17
-# Entries: 884
+# Released: 2019-05-30
+# Entries: 884+
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -895,4 +895,23 @@
 127.0.0.1 zlm2.daspearstreet.com
 127.0.0.1 zmef.funnwebs.com
 127.0.0.1 zuzodoad.com
+#tgliste v0001
+127.0.0.1 shorteh.com
+127.0.0.1 pefwfw.pro
+127.0.0.1 grldrdr.thedragonbahis.com
+127.0.0.1 thedragonbahis.com
+127.0.0.1 best.hot-blogs.info
+127.0.0.1 hot-blogs.info
+127.0.0.1 avrupajumbo.live
+127.0.0.1 ww38.stickfight.com
+127.0.0.1 stickfights.com
+127.0.0.1 stickfight.com
+127.0.0.1 165.22.200.68
+127.0.0.1 mesajin.sohbetesi2.com
+127.0.0.1 sohbetesi2.com
+127.0.0.1 jigolo-olmak.sohbetesi2.com
+127.0.0.1 hemen.sohbetesi2.com
+127.0.0.1 erotik.sohbetesi2.com
+127.0.0.1 www.yaphuiyee.com
+127.0.0.1 yaphuiyee.com
 # xorcan/hosts stop #
