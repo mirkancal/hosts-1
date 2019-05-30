@@ -1,65 +1,76 @@
 # OTHERS
 
-bu listeleri kullanmanızı öneririm. şu da güzel dediğiniz liste varsa gönderin ekleyeyim.
+bu listeleri kullanmanızı öneririm. şu da güzel dediğiniz liste varsa gönderin ekleyeyim. cihazınıza hosts eklemeye hevesli olmayın. çok liste eklemek cihazınızda yavaşlamaya neden olabilir. önerdiğim listeleri eklerseniz kafidir.
 
-## genel hostslar
+## yutulmuş hostlar 
 
-#### önemli: https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+bu host listeleri zaten xorcan/hosts ta bulunuyor ve düzenli olarak onlar da güncellenmekte. ayrıyeten eklemenize gerek yoktur.
 
-#### önemli: https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
 
-#### önemli: https://someonewhocares.org/hosts/hosts
+```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
 
-#### önemli: https://www.malwaredomainlist.com/hostslist/hosts.txt
+```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
 
-#### önemli: https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
 
-#### önemli: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+## genel hostlar - adaway önerilen:
 
-#### önemli: https://adaway.org/hosts.txt
+#### ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
 
-#### önemli: https://hosts-file.net/ad_servers.txt
+#### ```https://adaway.org/hosts.txt```
 
-#### önemli: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+#### ```https://hosts-file.net/ad_servers.txt```
 
-#### önemli: https://getadhell.com/standard-package.txt
+#### ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
 
-#### önemli: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
+#### ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 
-#### önemli: https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
+## genel hostlar - önerilenden fazlasını isterim:
 
-#### önemli: https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+#### ```https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt```
 
-#### önemli: https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+#### ```https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt```
 
-## coinminer enelleyiciler
+#### ```https://someonewhocares.org/hosts/hosts```
 
-#### önemli: https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
+#### ```https://www.malwaredomainlist.com/hostslist/hosts.txt```
 
-#### önemli: https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+#### ```https://getadhell.com/standard-package.txt```
 
-#### önemli: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+#### ```https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt```
+
+## coinminer enelleyiciler (azdan çoka sıralı)
+
+#### ```https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt```
+
+#### ```https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser```
+
+#### ```https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt```
+
+#### ```https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt```
 
 * *daha fazlası için [filterlists.com](https://filterlists.com/)'da "coin" diye aratın.*
 
 ## diğer
 
-*genel:* https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
+*genel:* 
 
-*porno falan:* https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Turkey.txt
+*porno falan (önerilmez):* 
+```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Turkey.txt```
 
-*aldatıcı siteler ip (40 bin+):* https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/ip-lists.txt
+*aldatıcı siteler ip (40 bin+):* 
+```https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/ip-lists.txt```
 
-*aldatıcı siteler url (önerilmez, çok fazla(200 bin+)):* https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+*aldatıcı siteler url (önerilmez, çok fazla(200 bin+)):* 
+```https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt```
 
-https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
+```https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt```
 
-https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+```https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts```
 
-https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+```https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts```
 
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/
+```https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/```
 
-*koruma (önerilmez):* https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
-
-*kore siteleri (pek işinize yaramaz):* https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+*koruma (önerilmez):* ```https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt```
