@@ -11,7 +11,7 @@
 127.0.0.1  localhost
 ::1  localhost
 
-# xorcan/hosts start #
+# xorcan/hosts başla #
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0buq.funnwebs.com
@@ -20,6 +20,8 @@
 127.0.0.1 1.l.adsco.re
 127.0.0.1 1.n.adsco.re
 127.0.0.1 1.s.adsco.re
+127.0.0.1 109.73.75.29
+127.0.0.1 109.73.75.3
 127.0.0.1 15elon9.zgnkwfb.com
 127.0.0.1 165.22.200.68
 127.0.0.1 1686607364.rsc.cdn77.org
@@ -28,6 +30,7 @@
 127.0.0.1 1xbahiseank.com
 127.0.0.1 1xbahisjhgc.com
 127.0.0.1 1xbahislvfw.com
+127.0.0.1 217.195.197.45
 127.0.0.1 2436.net
 127.0.0.1 267bets10.com
 127.0.0.1 27.l.adsco.re
@@ -625,6 +628,7 @@
 127.0.0.1 dagit.ml
 127.0.0.1 dalseeds.net
 127.0.0.1 daspearstreet.com
+127.0.0.1 data.permittingnorthlandseamen.info
 127.0.0.1 dayagainst.com
 127.0.0.1 delivery.trafficforce.com
 127.0.0.1 deloplen.com
@@ -639,6 +643,7 @@
 127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 dogus-ads-cdn.dygdigital.com
 127.0.0.1 dolohen.com
+127.0.0.1 doremido.com
 127.0.0.1 dosya.indir.live
 127.0.0.1 doubleclick.net
 127.0.0.1 downads.com
@@ -703,6 +708,7 @@
 127.0.0.1 fingahvf.top
 127.0.0.1 fingersoft-log.scientificrevenue.com
 127.0.0.1 fitanalytics.com
+127.0.0.1 flash.banners-service.info
 127.0.0.1 flashtalking.com
 127.0.0.1 flix360.com
 127.0.0.1 flixcar.com
@@ -738,6 +744,7 @@
 127.0.0.1 geolocation.performgroup.com
 127.0.0.1 gercek.sohbetibagla.xyz
 127.0.0.1 getalinkandshare.com
+127.0.0.1 getapplicationmy.info
 127.0.0.1 getshar.es
 127.0.0.1 gez.io
 127.0.0.1 ggdbdnll.bidforthis.com
@@ -1377,6 +1384,7 @@
 127.0.0.1 soprano.newsfeed.support
 127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 speeder.biz
+127.0.0.1 speednetwork14.com
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 sportingbe-superbahis.bannerflow.com
 127.0.0.1 sportpelli.com
@@ -1748,4 +1756,4 @@
 127.0.0.1 zlm2.daspearstreet.com
 127.0.0.1 zmef.funnwebs.com
 127.0.0.1 zuzodoad.com
-# xorcan/hosts stop #
+# xorcan/hosts bitir #
