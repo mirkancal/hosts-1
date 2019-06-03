@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
-# Released: 2019-05-30
-# Entries: 2315
+# Released: 03.06.2019
+# Entries: 2341
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -26,6 +26,7 @@
 127.0.0.1 165.22.200.68
 127.0.0.1 1686607364.rsc.cdn77.org
 127.0.0.1 168logger.com
+127.0.0.1 16yp1ji92a.com
 127.0.0.1 197649.offinator.com
 127.0.0.1 1virusyakalandi.xyz
 127.0.0.1 1x5o.funnwebs.com
@@ -74,6 +75,7 @@
 127.0.0.1 791115.offinator.com
 127.0.0.1 7cup.funnwebs.com
 127.0.0.1 7tg6.looksslike.com
+127.0.0.1 7wuvias.website
 127.0.0.1 821i.funnwebs.com
 127.0.0.1 82o9v830.com
 127.0.0.1 8a8cq8c8yyqjs2xr.pro
@@ -509,6 +511,7 @@
 127.0.0.1 basvuruformu9.ml
 127.0.0.1 bauffnmtou.com
 127.0.0.1 bayan.sohbetesi1.com
+127.0.0.1 bayan.sohbetesi2.com
 127.0.0.1 bbazma.com
 127.0.0.1 bbelements.com
 127.0.0.1 bchaser10.host
@@ -682,6 +685,7 @@
 127.0.0.1 cdnarsiv.com
 127.0.0.1 cedexis.com
 127.0.0.1 cep.sohbetesi1.com
+127.0.0.1 cep.sohbetesi2.com
 127.0.0.1 cep.sohbetesiniz.com
 127.0.0.1 cep.sohbetibagla.xyz
 127.0.0.1 ceptensohbetnosu.info
@@ -713,6 +717,7 @@
 127.0.0.1 clicktale.net
 127.0.0.1 client-event-reporter.twitch.tv
 127.0.0.1 clnyourpc.com
+127.0.0.1 clotezar.com
 127.0.0.1 cloudservice14.kingsoft-office-service.com
 127.0.0.1 cloudservice23.kingsoft-office-service.com
 127.0.0.1 cm.g.doubleclick.net
@@ -731,6 +736,7 @@
 127.0.0.1 coinhive.com
 127.0.0.1 collect-test.arabam.com
 127.0.0.1 collector.puhutv.com
+127.0.0.1 competition9824.linetotime102.life
 127.0.0.1 config.inmobi.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 connextra.com
@@ -831,6 +837,7 @@
 127.0.0.1 eb2a.com
 127.0.0.1 eco.ticaret1.club
 127.0.0.1 ecpms.net
+127.0.0.1 ecs4.engageya.com
 127.0.0.1 edge-mqtt.facebook.com
 127.0.0.1 edgead.woomedya.com
 127.0.0.1 edgership-widscott.com
@@ -874,6 +881,7 @@
 127.0.0.1 eu.dspmulti.com
 127.0.0.1 eu.xxxfilm-5.ru
 127.0.0.1 eub.echo-ice.com
+127.0.0.1 europe-jumbo.live
 127.0.0.1 event.demirorenteknoloji.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 events.appsflyer.com
@@ -936,6 +944,7 @@
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.performgroup.com
 127.0.0.1 gercek.sohbetibagla.xyz
+127.0.0.1 get1trightn0w.com
 127.0.0.1 getalinkandshare.com
 127.0.0.1 getapplicationmy.info
 127.0.0.1 getshar.es
@@ -1064,6 +1073,7 @@
 127.0.0.1 ilividnewtab.com
 127.0.0.1 images.startappservice.com
 127.0.0.1 images.taboola.com
+127.0.0.1 images9.engageya.com
 127.0.0.1 img.adnet.com.tr
 127.0.0.1 img.applovin.com
 127.0.0.1 img.mobusi.com
@@ -1158,6 +1168,7 @@
 127.0.0.1 kitapindir.website
 127.0.0.1 kol3.funnwebs.com
 127.0.0.1 konum.sohbetesi1.com
+127.0.0.1 konum.sohbetesi2.com
 127.0.0.1 konum.sohbetibagla.xyz
 127.0.0.1 konyaescortlar.me
 127.0.0.1 kos.interseek.si
@@ -1167,6 +1178,7 @@
 127.0.0.1 kusadasisosyetesi.com
 127.0.0.1 kuwzhgbnygarx.com
 127.0.0.1 l.adsco.re
+127.0.0.1 land1.planetdownload.info
 127.0.0.1 landings.ncmae.com
 127.0.0.1 latest-458959.takyake.ru
 127.0.0.1 latest-469682.takyake.ru
@@ -1180,6 +1192,7 @@
 127.0.0.1 ligatus.com
 127.0.0.1 lijit.com
 127.0.0.1 likebtn.com
+127.0.0.1 linetotime102.life
 127.0.0.1 link-redirect.xyz
 127.0.0.1 linkz.net
 127.0.0.1 liveadexchanger.com
@@ -1231,6 +1244,7 @@
 127.0.0.1 main.exosrv.com
 127.0.0.1 makroads.net
 127.0.0.1 makrobetcdn.com
+127.0.0.1 maltoka.com
 127.0.0.1 mamydirect.com
 127.0.0.1 manspro.com
 127.0.0.1 marinsm.com
@@ -1278,6 +1292,7 @@
 127.0.0.1 mkazanc.com
 127.0.0.1 mlstat.com
 127.0.0.1 mmwebhandler.aff-online.com
+127.0.0.1 mnoa6ez1eq.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
 127.0.0.1 mobile.logs.roku.com
@@ -1490,6 +1505,7 @@
 127.0.0.1 pixenka.com
 127.0.0.1 pizzakusadasi.com
 127.0.0.1 pl3143.puserving.com
+127.0.0.1 planetdownload.info
 127.0.0.1 playcell.com
 127.0.0.1 plista.com
 127.0.0.1 plutonium.icu
@@ -1520,6 +1536,7 @@
 127.0.0.1 prfct.co
 127.0.0.1 prfrvs.click
 127.0.0.1 pro-market.net
+127.0.0.1 pro-news.net
 127.0.0.1 prod-a.applovin.com
 127.0.0.1 programattik.com
 127.0.0.1 projeanaliz.com
@@ -1568,6 +1585,8 @@
 127.0.0.1 realistikbayi.live
 127.0.0.1 reallygoodlink.extremefreegames.com
 127.0.0.1 recommend.apk.v-mate.mobi
+127.0.0.1 recs.engageya.com
+127.0.0.1 red.blok.link
 127.0.0.1 redirect.privateadtracking.com
 127.0.0.1 redirector.gvt1.com
 127.0.0.1 ref.bet3go.com
@@ -1729,6 +1748,7 @@
 127.0.0.1 sibtel.adriver.ru
 127.0.0.1 silence.newsfeed.support
 127.0.0.1 simdi-ara.sohbetesi1.com
+127.0.0.1 simdi-ara.sohbetesi2.com
 127.0.0.1 simdi-ara.sohbetibagla.xyz
 127.0.0.1 siparispanel.info
 127.0.0.1 sislidekor.com
@@ -1765,6 +1785,7 @@
 127.0.0.1 sohbetsaati.tk
 127.0.0.1 solvability.biz
 127.0.0.1 soma.smaato.net
+127.0.0.1 sonic.maltoka.com
 127.0.0.1 sonobi.com
 127.0.0.1 soprano.newsfeed.support
 127.0.0.1 spclient.wg.spotify.com
@@ -1832,6 +1853,7 @@
 127.0.0.1 sw1block.com
 127.0.0.1 swbdds.com
 127.0.0.1 sync.adaptv.advertising.com
+127.0.0.1 sync01.engageya.com
 127.0.0.1 syndication.exdynsrv.com
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.twitter.com
@@ -1855,6 +1877,7 @@
 127.0.0.1 tapjoy.com
 127.0.0.1 teenomania.com
 127.0.0.1 tel.sohbetesi1.com
+127.0.0.1 tel.sohbetesi2.com
 127.0.0.1 telemetry.malwarebytes.com
 127.0.0.1 telemetry.tradingview.com
 127.0.0.1 tempobanners.com
@@ -2021,6 +2044,7 @@
 127.0.0.1 whatsappsohbetet.com
 127.0.0.1 widengle.com
 127.0.0.1 widget.boomads.com
+127.0.0.1 widget.engageya.com
 127.0.0.1 wildankurnia.net
 127.0.0.1 winaffiliates.com
 127.0.0.1 wl1xbet.adsrv.eacdn.com
@@ -2306,6 +2330,7 @@
 127.0.0.1 yakinindaki-kizlar8.info
 127.0.0.1 yakinindaki-kizlar9.info
 127.0.0.1 yakinindaki.sohbetesi1.com
+127.0.0.1 yakinindaki.sohbetesi2.com
 127.0.0.1 yaphuiyee.com
 127.0.0.1 ycreklam.com
 127.0.0.1 ye185hcamw.com
@@ -2313,6 +2338,7 @@
 127.0.0.1 yenimedya.com.tr
 127.0.0.1 ynuf.aliapp.org
 127.0.0.1 youtube.2cnt.net
+127.0.0.1 yr9n47004g.com
 127.0.0.1 yx-ads6.com
 127.0.0.1 z-p4-graph.facebook.com
 127.0.0.1 z-p4.graph.instagram.com
