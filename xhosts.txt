@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
-# Released: 03.06.2019
-# Entries: 2341
+# Released: 05.06.2019
+# Entries: 2352
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -343,6 +343,7 @@
 127.0.0.1 adxpremium.com
 127.0.0.1 adzbaba.com
 127.0.0.1 adzerk.net
+127.0.0.1 adzopa.com
 127.0.0.1 aeckcjy.com
 127.0.0.1 aff-online.com
 127.0.0.1 aff.indirdik.com
@@ -716,6 +717,7 @@
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clicktale.net
 127.0.0.1 client-event-reporter.twitch.tv
+127.0.0.1 clkn.adzopa.com
 127.0.0.1 clnyourpc.com
 127.0.0.1 clotezar.com
 127.0.0.1 cloudservice14.kingsoft-office-service.com
@@ -776,6 +778,7 @@
 127.0.0.1 d.applvn.com
 127.0.0.1 d.haberler.com
 127.0.0.1 d.turn.com
+127.0.0.1 d.workflowboard.com
 127.0.0.1 d11.cdn.adbetnet.com
 127.0.0.1 d162nnmwf9bggr.cloudfront.net
 127.0.0.1 d1d8vn0fpluuz7.cloudfront.net
@@ -829,6 +832,8 @@
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dts.startappservice.com
 127.0.0.1 dtscout.com
+127.0.0.1 duginamis.com
+127.0.0.1 duldoparty.club
 127.0.0.1 dxkhboqrrimy.bid
 127.0.0.1 e-kitap.indir.blue
 127.0.0.1 e.crashlytics.com
@@ -1220,6 +1225,7 @@
 127.0.0.1 logger.virgul.com
 127.0.0.1 logo.webservis.gen.tr
 127.0.0.1 lois.mediaglb.com
+127.0.0.1 lomapornotube.com
 127.0.0.1 looksslike.com
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 lt95.dayagainst.com
@@ -1359,6 +1365,7 @@
 127.0.0.1 news-us.dailyadvent.com
 127.0.0.1 newsfeed.support
 127.0.0.1 newsgo.me
+127.0.0.1 newsmagic.net
 127.0.0.1 newswe.org
 127.0.0.1 nexage.com
 127.0.0.1 ng.virgul.com
@@ -1535,6 +1542,7 @@
 127.0.0.1 prestoris.com
 127.0.0.1 prfct.co
 127.0.0.1 prfrvs.click
+127.0.0.1 prlx.thedragonbahis.com
 127.0.0.1 pro-market.net
 127.0.0.1 pro-news.net
 127.0.0.1 prod-a.applovin.com
@@ -1791,6 +1799,7 @@
 127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 speeder.biz
 127.0.0.1 speednetwork14.com
+127.0.0.1 spilaggroved.xyz
 127.0.0.1 spklmis.com
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 sportingbe-superbahis.bannerflow.com
@@ -2063,6 +2072,7 @@
 127.0.0.1 wlthebetend.adsrv.eacdn.com
 127.0.0.1 wnqc.looksslike.com
 127.0.0.1 wolve.pro
+127.0.0.1 workflowboard.com
 127.0.0.1 world.news-tap.com
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 wsp.mgid.com
@@ -2129,6 +2139,7 @@
 127.0.0.1 www.dfujqyjifvoe.com
 127.0.0.1 www.dhenktvqqmbcnj.bid
 127.0.0.1 www.dtnzlmwgujhgmj.bid
+127.0.0.1 www.duldoparty.club
 127.0.0.1 www.dxkhboqrrimy.bid
 127.0.0.1 www.ecpms.net
 127.0.0.1 www.egorlz.xyz
