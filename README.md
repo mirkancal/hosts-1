@@ -40,6 +40,8 @@ aşağıdaki bağlantıları aynı şekilde içeri alınız. bunlar önerilerim 
 
 ```https://hosts-file.net/ad_servers.txt```
 
+```https://1hos.cf/```
+
 ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
 
 ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
