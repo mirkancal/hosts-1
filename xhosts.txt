@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
-# Released: 05.06.2019
-# Entries: 2352
+# Released: 11.06.2019
+# Entries: 2360
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -717,6 +717,7 @@
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clicktale.net
 127.0.0.1 client-event-reporter.twitch.tv
+127.0.0.1 clixco.in
 127.0.0.1 clkn.adzopa.com
 127.0.0.1 clnyourpc.com
 127.0.0.1 clotezar.com
@@ -798,6 +799,7 @@
 127.0.0.1 dadbab.info
 127.0.0.1 dagit.ml
 127.0.0.1 dalseeds.net
+127.0.0.1 daphnesik.icu
 127.0.0.1 daspearstreet.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.permittingnorthlandseamen.info
@@ -1376,6 +1378,7 @@
 127.0.0.1 north-america.pool.ntp.org
 127.0.0.1 notabenemessage.com
 127.0.0.1 notifymepush.info
+127.0.0.1 now.daphnesik.icu
 127.0.0.1 noxaffiliates.com
 127.0.0.1 nr-data.net
 127.0.0.1 nrxl.dayagainst.com
@@ -1588,6 +1591,7 @@
 127.0.0.1 rd4.indir.blue
 127.0.0.1 rd5.indir.blue
 127.0.0.1 rdrtr.com
+127.0.0.1 realcenter-mobileapps2.com
 127.0.0.1 reali.st
 127.0.0.1 realist.gen.tr
 127.0.0.1 realistikbayi.live
@@ -1656,7 +1660,9 @@
 127.0.0.1 reviveservers.com
 127.0.0.1 revotas.com
 127.0.0.1 revsci.net
+127.0.0.1 reward8955.wtflife118.life
 127.0.0.1 reyden-x.com
+127.0.0.1 rlbvwdviqx.com
 127.0.0.1 roletaryk.info
 127.0.0.1 roseajans.club
 127.0.0.1 rotabetaffiliates.com
@@ -2076,6 +2082,7 @@
 127.0.0.1 world.news-tap.com
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 wsp.mgid.com
+127.0.0.1 wtflife118.life
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 ww38.stickfight.com
 127.0.0.1 www-keycdn-info.cdn.ampproject.org
@@ -2127,6 +2134,7 @@
 127.0.0.1 www.cheapcialisnow.net
 127.0.0.1 www.chnghl.space
 127.0.0.1 www.cinealanya.com
+127.0.0.1 www.clixco.in
 127.0.0.1 www.clnyourpc.com
 127.0.0.1 www.coatsba.com
 127.0.0.1 www.cpdafetdjtdsy.com
