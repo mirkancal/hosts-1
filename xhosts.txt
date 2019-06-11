@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
 # Released: 11.06.2019
-# Entries: 2360
+# Entries: 2364
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -12,6 +12,10 @@
 ::1  localhost
 
 # xorcan/hosts başla #
+127.0.0.1 www.dertbeats.com
+127.0.0.1 dertbeats.com
+127.0.0.1 fvwfkfzhha.com
+127.0.0.1 zqseasmu.com
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0buq.funnwebs.com
