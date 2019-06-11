@@ -8,7 +8,7 @@
 #
 # Copyright 2019 xorcan
 
-# xorcan/hosts  start #
+# xorcan/hosts başla #
 white *.rapidvideo.com
 white ok.ru
 white speed4up.com
@@ -22,4 +22,4 @@ white taciz.biz
 white yadi.sk
 white api.pinterest.com
 white speeddials.opera.com
-# xorcan/hosts stop #
+# xorcan/hosts bitir #
