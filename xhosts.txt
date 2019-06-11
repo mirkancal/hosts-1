@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
 # Released: 11.06.2019
-# Entries: 2412
+# Entries: 2472
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -101,6 +101,7 @@
 127.0.0.1 aa.agkn.com
 127.0.0.1 aadserving.com
 127.0.0.1 aald.looksslike.com
+127.0.0.1 aaslmqzce.bid
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
@@ -167,6 +168,7 @@
 127.0.0.1 adcater.com
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 adclicks.io
+127.0.0.1 adcolony.com
 127.0.0.1 adcy.net
 127.0.0.1 add.f5haber.com
 127.0.0.1 adds.ruyabet-affiliate.com
@@ -369,6 +371,7 @@
 127.0.0.1 aitrreklam.tk
 127.0.0.1 ajansreklam.net
 127.0.0.1 ajansvitrin.com
+127.0.0.1 ajfziqehnwvz.com
 127.0.0.1 aleosport.com
 127.0.0.1 alephd.com
 127.0.0.1 aliapp.org
@@ -444,6 +447,7 @@
 127.0.0.1 apuppy2love.com
 127.0.0.1 arabpornx.com
 127.0.0.1 arcade.g2afse.com
+127.0.0.1 arfttojxv.com
 127.0.0.1 arre.work
 127.0.0.1 artemisaffiliates.com
 127.0.0.1 arzurproduction.com
@@ -462,6 +466,7 @@
 127.0.0.1 avcilarliman.com
 127.0.0.1 avrupajumbo.live
 127.0.0.1 avrupayakasikiralik.com
+127.0.0.1 awin1.com
 127.0.0.1 axbet20.com
 127.0.0.1 axbetb.com
 127.0.0.1 axbetb2.com
@@ -517,6 +522,7 @@
 127.0.0.1 bbelements.com
 127.0.0.1 bchaser10.host
 127.0.0.1 bchaser11.host
+127.0.0.1 bckmtidcnrobwh.bid
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bcvc.mobi
 127.0.0.1 bcvcrdr.space
@@ -755,6 +761,8 @@
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 cp.pushwoosh.com
 127.0.0.1 cpatrendreklam.com
+127.0.0.1 cpdafetdjtdsy.com
+127.0.0.1 cqaiylftp.com
 127.0.0.1 crashdump.spotify.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crazyegg.com
@@ -769,12 +777,14 @@
 127.0.0.1 csi.gstatic.com
 127.0.0.1 ctemall.com
 127.0.0.1 ctje.funnwebs.com
+127.0.0.1 cwmycjoddoq.com
 127.0.0.1 cxense.com
 127.0.0.1 cxkr.funnwebs.com
 127.0.0.1 cyber.game
 127.0.0.1 cyneburg-yam.com
 127.0.0.1 cyufjpvzaf.com
 127.0.0.1 czerwo.ru
+127.0.0.1 czpspyovtiqn.com
 127.0.0.1 d.adroll.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
@@ -818,6 +828,8 @@
 127.0.0.1 desktop.spotify.com
 127.0.0.1 detect.rayjump.com
 127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 dfujqyjifvoe.com
+127.0.0.1 dhenktvqqmbcnj.bid
 127.0.0.1 dimml.io
 127.0.0.1 dintwas.com
 127.0.0.1 directrev.com
@@ -835,6 +847,7 @@
 127.0.0.1 dskfv.de
 127.0.0.1 dspmulti.com
 127.0.0.1 dt.adsafeprotected.com
+127.0.0.1 dtnzlmwgujhgmj.bid
 127.0.0.1 dts.startappservice.com
 127.0.0.1 dtscout.com
 127.0.0.1 duginamis.com
@@ -852,6 +865,7 @@
 127.0.0.1 edgead.woomedya.com
 127.0.0.1 edgership-widscott.com
 127.0.0.1 effectivemeasure.net
+127.0.0.1 egorlz.xyz
 127.0.0.1 ekitabix.club
 127.0.0.1 ekli.net
 127.0.0.1 eksi.firebaseio.com
@@ -860,7 +874,9 @@
 127.0.0.1 elazigdayim.com
 127.0.0.1 elit59.xyz
 127.0.0.1 elitbodrum.com
+127.0.0.1 eluhhfyxx.com
 127.0.0.1 emarketingsuite.net
+127.0.0.1 emvdlnwph.com
 127.0.0.1 engageya.com
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 enoughts.info
@@ -900,7 +916,9 @@
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 ewpqmptpavn.com
+127.0.0.1 ewsawnbf.com
 127.0.0.1 exelator.com
+127.0.0.1 exjthrzliajfd.com
 127.0.0.1 exoclick.com
 127.0.0.1 extreme.newsfeed.support
 127.0.0.1 extremefreegames.com
@@ -934,6 +952,7 @@
 127.0.0.1 funtikapa.info
 127.0.0.1 furtherne.com
 127.0.0.1 fvbaffiliate.com
+127.0.0.1 fvkdatbzswo.bid
 127.0.0.1 fvwfkfzhha.com
 127.0.0.1 fwpr.funnwebs.com
 127.0.0.1 fyrcdlb.bursavit.org
@@ -962,10 +981,12 @@
 127.0.0.1 getshar.es
 127.0.0.1 gez.io
 127.0.0.1 gfe.nvidia.com
+127.0.0.1 ggagqobykjh.com
 127.0.0.1 ggdbdnll.bidforthis.com
 127.0.0.1 ghoto-12.win
 127.0.0.1 gigya.com
 127.0.0.1 git.emarketing724.com
+127.0.0.1 gjikkwtrstaku.com
 127.0.0.1 glasses.newsfeed.support
 127.0.0.1 glb5.funnwebs.com
 127.0.0.1 glimpse.newsfeed.support
@@ -990,6 +1011,7 @@
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 googlesyndication.com
+127.0.0.1 googletagmanager.com
 127.0.0.1 googletagmenager.com
 127.0.0.1 goooogle.download
 127.0.0.1 gorselcdn.com
@@ -1032,6 +1054,7 @@
 127.0.0.1 haupsoti.net
 127.0.0.1 hdxmedia.site
 127.0.0.1 hdxvipizle.site
+127.0.0.1 hellobar.com
 127.0.0.1 hellofromhony.com
 127.0.0.1 hemen.sohbetesi1.com
 127.0.0.1 hemen.sohbetesi2.com
@@ -1042,12 +1065,14 @@
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 hey.hellobar.com
 127.0.0.1 hh1o.funnwebs.com
+127.0.0.1 hicpm10.com
 127.0.0.1 histats.com
 127.0.0.1 history.google.com
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.dogannet.tv
 127.0.0.1 hit.gemius.pl
 127.0.0.1 hit.mynet.com
+127.0.0.1 hitcpm.com
 127.0.0.1 hitgelsin.com
 127.0.0.1 hits.acunn.com
 127.0.0.1 hits.net-df37.stream
@@ -1075,8 +1100,10 @@
 127.0.0.1 i.skimresources.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 iapk.mobi
+127.0.0.1 iauvabogtws.bid
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ibillboard.com
+127.0.0.1 iclbkrgjdstqt.com
 127.0.0.1 ico.minently.com
 127.0.0.1 id.google.com
 127.0.0.1 id.google.com.tr
@@ -1145,12 +1172,14 @@
 127.0.0.1 jadekusadasi.com
 127.0.0.1 jadserve.postrelease.com
 127.0.0.1 japonjumbo.live
+127.0.0.1 jdhhehwkvl.com
 127.0.0.1 jigolo-olmak.sohbetesi1.com
 127.0.0.1 jigolo-olmak.sohbetesi2.com
 127.0.0.1 jigolo-olmak.sohbetesiniz.com
 127.0.0.1 jigolo-olmak.sohbetimbaglan.net
 127.0.0.1 jigolom.online
 127.0.0.1 jikottnbg.com
+127.0.0.1 jkjwifmep.com
 127.0.0.1 jqtsknmobyw.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.agkn.com
@@ -1202,12 +1231,14 @@
 127.0.0.1 latest-458959.takyake.ru
 127.0.0.1 latest-469682.takyake.ru
 127.0.0.1 latest-470281.takyake.ru
+127.0.0.1 lbbgjozyrgy.com
 127.0.0.1 ldkmchuuunxv.l.adsco.re
 127.0.0.1 ldkmchuuunxv.n.adsco.re
 127.0.0.1 ldkmchuuunxv.s.adsco.re
 127.0.0.1 leetmedia.com
 127.0.0.1 lethalpass.com
 127.0.0.1 lf5am.x.incapdns.net
+127.0.0.1 lhbkkztxg.com
 127.0.0.1 liadm.com
 127.0.0.1 liftdna.com
 127.0.0.1 ligadx.com
@@ -1218,6 +1249,7 @@
 127.0.0.1 link-redirect.xyz
 127.0.0.1 linkz.net
 127.0.0.1 liveadexchanger.com
+127.0.0.1 liveinternet.ru
 127.0.0.1 liverail.com
 127.0.0.1 llso.looksslike.com
 127.0.0.1 ln1.bcvcrdr.space
@@ -1249,6 +1281,7 @@
 127.0.0.1 lt95.dayagainst.com
 127.0.0.1 lubitpiva.jdevcloud.com
 127.0.0.1 lvodomi.info
+127.0.0.1 lxcfaekywx.com
 127.0.0.1 m.1xbahisjhgc.com
 127.0.0.1 m.267bets10.com
 127.0.0.1 m.adnxs.com
@@ -1294,6 +1327,7 @@
 127.0.0.1 mediaplex.com
 127.0.0.1 medyaklik.com
 127.0.0.1 medyanetads.com
+127.0.0.1 megpacokjce.bid
 127.0.0.1 meraklikadin.com
 127.0.0.1 mersinses.com
 127.0.0.1 mesaj-geldi.blok.link
@@ -1308,6 +1342,7 @@
 127.0.0.1 metrika.yandex.com.tr
 127.0.0.1 mfjegjqb.com
 127.0.0.1 mgid.com
+127.0.0.1 mhthemes.com
 127.0.0.1 milanobet158.com
 127.0.0.1 millionaire-club.perrlqnm9t.top
 127.0.0.1 minently.com
@@ -1356,6 +1391,8 @@
 127.0.0.1 mt.rtmark.net
 127.0.0.1 mtbadedrhcx.bid
 127.0.0.1 mtburn.com
+127.0.0.1 mttyfwtvyumc.com
+127.0.0.1 mvvecbfomk.com
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
 127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
 127.0.0.1 my.hellobar.com
@@ -1365,6 +1402,7 @@
 127.0.0.1 mynativeads.com
 127.0.0.1 myornamenti.com
 127.0.0.1 myswitchads.com
+127.0.0.1 mzrhjbbikqm.com
 127.0.0.1 n.adsco.re
 127.0.0.1 n.gftnk.com
 127.0.0.1 n0xabal6fxl9.l.adsco.re
@@ -1376,6 +1414,7 @@
 127.0.0.1 n8.cdn.adbetnet.com
 127.0.0.1 narutogaming.com
 127.0.0.1 nativespot.com
+127.0.0.1 nbsmsblzow.com
 127.0.0.1 ncmae.com
 127.0.0.1 net.rayjump.com
 127.0.0.1 netaffiliation.com
@@ -1385,6 +1424,7 @@
 127.0.0.1 networkad.net
 127.0.0.1 newrelic.com
 127.0.0.1 news-pro.today
+127.0.0.1 news-tap.com
 127.0.0.1 news-us.dailyadvent.com
 127.0.0.1 newsfeed.support
 127.0.0.1 newsgo.me
@@ -1423,6 +1463,7 @@
 127.0.0.1 oix.net
 127.0.0.1 oknc.looksslike.com
 127.0.0.1 oksmi.site
+127.0.0.1 okvfijgdmqton.bid
 127.0.0.1 okwljypglchl.com
 127.0.0.1 old.numarabiz.com
 127.0.0.1 olydig.com
@@ -1432,6 +1473,7 @@
 127.0.0.1 onatbilisim.com
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
+127.0.0.1 onclickclear.com
 127.0.0.1 onclickprediction.com
 127.0.0.1 onclicksuper.com
 127.0.0.1 ondokuzmuoldu.com
@@ -1459,6 +1501,7 @@
 127.0.0.1 ouloutso.net
 127.0.0.1 ourkusadasi.com
 127.0.0.1 outcome.supersonicads.com
+127.0.0.1 ovcksawwem.com
 127.0.0.1 oxcdn.com
 127.0.0.1 ozcletvvphmy.com
 127.0.0.1 p.adsymptotic.com
@@ -1742,6 +1785,7 @@
 127.0.0.1 say.cdnarsiv.com
 127.0.0.1 sayac.hurriyet.com.tr
 127.0.0.1 sayac.onlinewebstat.com
+127.0.0.1 sayyac.com
 127.0.0.1 sayyac.net
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 sc-analytics.appshot.com
@@ -1895,6 +1939,7 @@
 127.0.0.1 sur.istanbuleskort.net
 127.0.0.1 sw1block.com
 127.0.0.1 swbdds.com
+127.0.0.1 sxrwqytqajwpt.com
 127.0.0.1 sync.adaptv.advertising.com
 127.0.0.1 sync01.engageya.com
 127.0.0.1 syndication.exdynsrv.com
@@ -1918,6 +1963,7 @@
 127.0.0.1 tanidigital.com
 127.0.0.1 tapfiliate.com
 127.0.0.1 tapjoy.com
+127.0.0.1 tapjoyads.com
 127.0.0.1 teenomania.com
 127.0.0.1 tel.sohbetesi1.com
 127.0.0.1 tel.sohbetesi2.com
@@ -2003,6 +2049,7 @@
 127.0.0.1 tynt.com
 127.0.0.1 ua.supersonicads.com
 127.0.0.1 uberupload.online
+127.0.0.1 ucfwicndme.com
 127.0.0.1 udm.scorecardresearch.col
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 uid.ksosoft.com
@@ -2020,6 +2067,7 @@
 127.0.0.1 use.bravo-dog.com
 127.0.0.1 use.typekit.net
 127.0.0.1 usergrid.com
+127.0.0.1 uspsqjivl.bid
 127.0.0.1 ust.chatango.com
 127.0.0.1 ut45c.formens.pro
 127.0.0.1 uuvwcjtppeonfq.com
@@ -2037,12 +2085,14 @@
 127.0.0.1 vapi.apk.vidmate.net
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.reyden-x.com
+127.0.0.1 vcxqcjov.com
 127.0.0.1 vdaffiliates.com
 127.0.0.1 vebadu.com
 127.0.0.1 veeseo.com
 127.0.0.1 velocecdn.com
 127.0.0.1 venturead.com
 127.0.0.1 vexacion.com
+127.0.0.1 vfsmtbtqducat.com
 127.0.0.1 viagra-e.net
 127.0.0.1 viagra-exchange.com
 127.0.0.1 viagra2price.com
@@ -2063,6 +2113,7 @@
 127.0.0.1 visit.hepsiburada.com
 127.0.0.1 vknrfwwxhxaxupqp.pro
 127.0.0.1 voucher.newsfeed.support
+127.0.0.1 vpshsuvlh.bid
 127.0.0.1 vugtrack.top
 127.0.0.1 vungle.com
 127.0.0.1 vvhatsappsohbet.site
@@ -2111,6 +2162,7 @@
 127.0.0.1 world.news-tap.com
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 wsp.mgid.com
+127.0.0.1 wsrjplhhhfmfsx.com
 127.0.0.1 wtflife118.life
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 ww38.stickfight.com
@@ -2337,6 +2389,8 @@
 127.0.0.1 x.ligatus.com
 127.0.0.1 x.skimresources.com
 127.0.0.1 xapi.apk.v-mate.mobi
+127.0.0.1 xaqbpvojgi.com
+127.0.0.1 xbtitfm.com
 127.0.0.1 xghfi97mk6.com
 127.0.0.1 xilbalar.com
 127.0.0.1 xl-trk.com
@@ -2407,9 +2461,11 @@
 127.0.0.1 yenidul.xyz
 127.0.0.1 yenimedya.com.tr
 127.0.0.1 ynuf.aliapp.org
+127.0.0.1 yogkshigsy.com
 127.0.0.1 youtube.2cnt.net
 127.0.0.1 yr9n47004g.com
 127.0.0.1 yx-ads6.com
+127.0.0.1 yxjecoghjycuvm.com
 127.0.0.1 z-p4-graph.facebook.com
 127.0.0.1 z-p4.graph.instagram.com
 127.0.0.1 z-p42.graph.instagram.com
@@ -2418,10 +2474,14 @@
 127.0.0.1 zddxlih.com
 127.0.0.1 zgnkwfb.com
 127.0.0.1 zjczref.kentli.org
+127.0.0.1 zlfpmrmkr.com
+127.0.0.1 zlkrhsbkdf.bid
 127.0.0.1 zlm2.daspearstreet.com
 127.0.0.1 zmef.funnwebs.com
+127.0.0.1 znnmzggbw.com
 127.0.0.1 zqseasmu.com
 127.0.0.1 zuzodoad.com
 127.0.0.1 zxmkvelyft.bid
 127.0.0.1 zzgqqdmnrhhals.com
+127.0.0.1 zzhgpbovlhinj.com
 # xorcan/hosts bitir #
