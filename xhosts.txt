@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
 # Released: 11.06.2019
-# Entries: 2366
+# Entries: 2386
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -12,6 +12,26 @@
 ::1  localhost
 
 # xorcan/hosts başla #
+127.0.0.1 yakinindaki-kizlar21.info
+127.0.0.1 yakinindaki-kizlar22.info
+127.0.0.1 yakinindaki-kizlar23.info
+127.0.0.1 yakinindaki-kizlar24.info
+127.0.0.1 yakinindaki-kizlar25.info
+127.0.0.1 yakinindaki-kizlar26.info
+127.0.0.1 yakinindaki-kizlar27.info
+127.0.0.1 yakinindaki-kizlar28.info
+127.0.0.1 yakinindaki-kizlar29.info
+127.0.0.1 yakinindaki-kizlar30.info
+127.0.0.1 yakinindaki-kizlar31.info
+127.0.0.1 yakinindaki-kizlar32.info
+127.0.0.1 yakinindaki-kizlar33.info
+127.0.0.1 yakinindaki-kizlar34.info
+127.0.0.1 yakinindaki-kizlar35.info
+127.0.0.1 yakinindaki-kizlar36.info
+127.0.0.1 yakinindaki-kizlar37.info
+127.0.0.1 yakinindaki-kizlar38.info
+127.0.0.1 yakinindaki-kizlar39.info
+127.0.0.1 yakinindaki-kizlar40.info
 127.0.0.1 dosya-indirici.online
 127.0.0.1 guncelleme.online
 127.0.0.1 www.dertbeats.com
