@@ -14,7 +14,7 @@ AdAway ile kullanınız. Android için tasarlanmıştır.
 [Firefox için uBlock Origin](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/) -- 
 [Opera için uBlock Origin](https://addons.opera.com/tr/extensions/details/ublock/)
 - Ardından uBlock Origin > Kontrol Paneli > Süzgeç Listeleri > İçe Aktar (en altta) bölümünden açılan url ekleme kutusuna şu linki ekleyin:
-- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
 - Ardından sağ üstte beliren "Değişiklikleri Kaydet" düğmesine tıklayarak sayfadan çıkabilirsiniz. 
 - Artık ayarlar sayfasına girip "Güncelle" tuşuna basmanıza gerek yok. Liste diğer listelerin yaptığı gibi belli aralıklarla kendini güncelleyecektir. 
 - NOT: Listenin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve birçok durumda bu filtreleme yöntemi yeterli olur.
@@ -22,7 +22,7 @@ AdAway ile kullanınız. Android için tasarlanmıştır.
 ## Windows için Önerilmeyen nedir?
 
 - Aşağıdaki adrese girerek listenin tamamını kopyalayın:
-- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
@@ -40,12 +40,12 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Aşağıdaki adresini kopyalayıp bu kısma yapıştırın ve ekleyin. (beyaz listeyle birlikte kullanınız.)
 - (Bunlar benim önerilerim ve normal Android kullanıcıları için yeterlidir. Ben daha fazla istiyorum diyorsanız [şuraya](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bakabilirsiniz.)
 
-- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
-- ```https://adaway.org/hosts.txt```
-- ```https://hosts-file.net/ad_servers.txt```
-- ```https://1hos.cf/```
-- ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
-- ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
+1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+2. ```https://adaway.org/hosts.txt```
+3. ```https://hosts-file.net/ad_servers.txt```
+4. ```https://1hos.cf/```
+5. ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
+6. ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
@@ -53,16 +53,16 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 
 - Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Bazı sitelerin düzgün çalışması için gereklidir.
 
-- ```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
+1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
 
 ## Eklememeniz gereken listeler (Yutulanlar)
 
 Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olarak kullanmış olursunuz. Endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. Anlayacağınız bunları eklemenize gerek yok.
 
-- ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
-- ```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
-- ```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
-- ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
+1. ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
+2. ```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
+3. ```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
+4. ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
 
 ## Özel Durumlar - Varsayılan Olarak Engelsiz:
 
