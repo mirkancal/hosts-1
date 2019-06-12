@@ -5,7 +5,7 @@
 
 ## Kullanım
 
-Adaway ile kullanınız. Android için tasarlanmıştır.
+AdAway ile kullanınız. Android için tasarlanmıştır.
 
 ## Reklamları Nasıl Engelleyebilirim? - Windows
 
@@ -13,10 +13,11 @@ Adaway ile kullanınız. Android için tasarlanmıştır.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
+- (Windows için beyazliste'yi ekleyemeyeceğiniz için sadece xhosts.txt dosyasını kullanın.)
 
 NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
 
-## Reklamları Nasıl Engelleyebilirim? - Android (AdAway (Root))
+## Reklamları Nasıl Engelleyebilirim? - Android (AdAway (Root)) (Adım 1/2)
 
 Root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmelisiniz. Bu, batarya ve RAM tasarrufu sağlar.
 Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
@@ -26,13 +27,8 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 - Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
-- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt``` adresini kopyalayıp bu kısma yapıştırın ve ekleyin.
-(beyaz listeyle kullanın)
-- Ana menüye dönün, güncellemeleri denetleyip, uygulayın. Cihazınızı yeniden başlatın.
-
-## Listeyi eklemek istiyorum
-
-aşağıdaki bağlantıları aynı şekilde içeri alınız. bunlar önerilerim ve normal kullanıcılar için yeterlidir. ben daha fazla istiyorum diyorsanız [şuraya](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bakabilirsiniz.
+- Aşağıdaki adresini kopyalayıp bu kısma yapıştırın ve ekleyin. (beyaz listeyle birlikte kullanınız.)
+- (Bunlar benim önerilerim ve normal Android kullanıcıları için yeterlidir. Ben daha fazla istiyorum diyorsanız [şuraya](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bakabilirsiniz.)
 
 ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
 
@@ -46,9 +42,17 @@ aşağıdaki bağlantıları aynı şekilde içeri alınız. bunlar önerilerim 
 
 ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 
-## Eklememeniz gereken listeler (yutulanlar)
+- Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
-bu host sağlayıcıyı kullanarak alttaki belirtilen hostları da otomatik kullanmış olursunuz endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. anlayacağınız bunları ayrıyeten eklemenize gerek yok.
+## Beyazliste (AdAway için) (Adım 2/2)
+
+Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Bazı sitelerin düzgün çalışması için gereklidir.
+
+```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
+
+## Eklememeniz gereken listeler (Yutulanlar)
+
+Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olarak kullanmış olursunuz. Endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. Anlayacağınız bunları eklemenize gerek yok.
 
 ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
 
@@ -58,19 +62,14 @@ bu host sağlayıcıyı kullanarak alttaki belirtilen hostları da otomatik kull
 
 ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
 
-## Beyaz liste (Adaway)
+## Özel Durumlar - Varsayılan Olarak Engelsiz:
 
-Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Eklemeseniz de olur ama tavsiyemdir.
-
-```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
-
-## Özel durumlar - 👍 varsayılan olarak engelsiz :
-
-1. **```s.youtube.com```**  : YouTube geçmiş kaydetmesini istemiyorsanız whitelist'ten çıkarın.
+1. **```s.youtube.com```**  : YouTube'un geçmiş kaydetmesini istemiyorsanız beyazliste'den çıkarın.
+1. **```api.pinterest.com```**  : Pinterest'le işim yok nefret ediyorum ben diyorsanız beyazliste'den çıkarın.
 
 ## [Diğer listeler](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
-## Bildir
+## Nasıl Rahastsız Site Bildireceğim?
 
 Engellenmesini uygun gördüğünüz siteleri bildirin ekleyeyim. 
 
@@ -78,13 +77,13 @@ Engellenmesini uygun gördüğünüz siteleri bildirin ekleyeyim.
 
 2. [Posta](mailto:xorcan@yandex.com) ile bildirebilirsiniz.
 
-3. [Anonim posta](https://anonymousemail.me) ile ```xorcan@yandex.com``` adresine bildirebilirsiniz.
+3. [Anonim (girişsiz) posta](https://anonymousemail.me) ile ```xorcan@yandex.com``` adresine bildirebilirsiniz.
 
 4. [Telegram](https://t.me/hostsTR) grubuna bildirebilirsiniz.
 
-## Uyarı - Disclaimer
+## Uyarı
 
-Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz! Bu makaleyi kopyalayabilir, istediğiniz gibi düzenleyip yeniden paylaşabilirsiniz.
+Bu makaledeki uygulamaların gizlilik sözleşmelerini okuyunuz. Eğer ne yaptığınızı bilmiyorsanız bu işlemlerden uzak durun. Her cihazın yapısı farklıdır, oluşabilecek sorunlardan makale editörü sorumlu tutulamaz.
 
 ## License
 
