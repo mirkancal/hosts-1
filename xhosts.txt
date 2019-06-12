@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ türk ad-list
 # Format: Hosts
 # Released: 11.06.2019
-# Entries: 2472
+# Entries: 2471
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -470,7 +470,6 @@
 127.0.0.1 axbet20.com
 127.0.0.1 axbetb.com
 127.0.0.1 axbetb2.com
-127.0.0.1 ayandns.com
 127.0.0.1 azites.info
 127.0.0.1 aziweb.com
 127.0.0.1 b-graph.facebook.com
