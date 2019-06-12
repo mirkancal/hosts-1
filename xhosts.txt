@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
 # Released: 12.06.2019
-# Entries: 2623
+# Entries: 2622
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -1404,7 +1404,6 @@
 127.0.0.1 media.winaffiliates.com
 127.0.0.1 mediapeartree.com
 127.0.0.1 mediaplex.com
-127.0.0.1 medya.ilan.gov.tr
 127.0.0.1 medyaklik.com
 127.0.0.1 medyanetads.com
 127.0.0.1 megpacokjce.bid
