@@ -14,7 +14,6 @@ white ok.ru
 white speed4up.com
 white oload.tv
 white *.onlineanimeizle.com
-white ayandns.com
 white *.eviewporn.com
 white *.vidmo.cc
 white s.youtube.com
