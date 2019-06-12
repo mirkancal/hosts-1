@@ -7,78 +7,77 @@
 
 AdAway ile kullanınız. Android için tasarlanmıştır.
 
-## Reklamları Nasıl Engelleyebilirim? - Windows
+## Windows için Önerilen nedir?
 
-- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt``` adresinden listenin tamamını kopyalayın.
+- İnternet tarayıcınızda [uBlock Origin](https://github.com/gorhill/uBlock) kullanarak etkin bir şekilde element filtrelemesi yapabilirsiniz. Bunun için öncelikle tarayıcınız için olanını edinin:
+- [Chrome için uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) -- 
+[Firefox için uBlock Origin](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/) -- 
+[Opera için uBlock Origin](https://addons.opera.com/tr/extensions/details/ublock/)
+- Ardından uBlock Origin > Kontrol Paneli > Süzgeç Listeleri > İçe Aktar (en altta) bölümünden açılan url ekleme kutusuna şu linki ekleyin:
+- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+- Ardından sağ üstte beliren "Değişiklikleri Kaydet" düğmesine tıklayarak sayfadan çıkabilirsiniz. 
+- Artık ayarlar sayfasına girip "Güncelle" tuşuna basmanıza gerek yok. Liste diğer listelerin yaptığı gibi belli aralıklarla kendini güncelleyecektir. 
+- NOT: Listenin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve birçok durumda bu filtreleme yöntemi yeterli olur.
+
+## Windows için Önerilmeyen nedir?
+
+- Aşağıdaki adrese girerek listenin tamamını kopyalayın:
+- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
-- (Windows için beyazliste'yi ekleyemeyeceğiniz için sadece xhosts.txt dosyasını kullanın.)
+- NOT: Windows için beyazliste'yi ekleyemeyeceğiniz için sadece xhosts.txt dosyasını kullanın.
 
-NOT: Listemizin hosts yapısı nedeniyle tüm reklamları engelleyemeyecektir. Sadece 3. taraflardan gelen reklamları engelleyebiliriz ve aslında birçok durumda bu filtreleme yöntemi yeterli olur. Ancak internet tarayıcınızda reklam engelleyici kullanarak etkin bir şekilde element filtrelemesi de yapabilirsiniz.
-
-## Reklamları Nasıl Engelleyebilirim? - Android (AdAway (Root)) (Adım 1/2)
+## Android için (AdAway (Root)) (Adım 1/2)
 
 Root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmelisiniz. Bu, batarya ve RAM tasarrufu sağlar.
 Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
-- AdAway uygulamasını [buradan](https://f-droid.org/packages/org.adaway/) indirin.
- ("f-droid indir" linkinin altındaki "apk indir" linkine tıklayarak)
+- AdAway uygulamasını [buradan](https://f-droid.org/packages/org.adaway/) indirin. ("f-droid indir" linkinin altındaki "apk indir" linkine tıklayarak)
 - Uygulamayı telefonunuza veya tabletinize kurun.
 - Uygulamayı açın ve uygulama menüsünden "Host kaynakları" sekmesini açın.
 - Sağ üst köşedeki '+' işaretine dokunun. Bir bağlantı girmeniz istenecektir.
 - Aşağıdaki adresini kopyalayıp bu kısma yapıştırın ve ekleyin. (beyaz listeyle birlikte kullanınız.)
 - (Bunlar benim önerilerim ve normal Android kullanıcıları için yeterlidir. Ben daha fazla istiyorum diyorsanız [şuraya](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bakabilirsiniz.)
 
-```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
-
-```https://adaway.org/hosts.txt```
-
-```https://hosts-file.net/ad_servers.txt```
-
-```https://1hos.cf/```
-
-```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
-
-```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
+- ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+- ```https://adaway.org/hosts.txt```
+- ```https://hosts-file.net/ad_servers.txt```
+- ```https://1hos.cf/```
+- ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
+- ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
 ## Beyazliste (AdAway için) (Adım 2/2)
 
-Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Bazı sitelerin düzgün çalışması için gereklidir.
+- Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Bazı sitelerin düzgün çalışması için gereklidir.
 
-```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
+- ```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
 
 ## Eklememeniz gereken listeler (Yutulanlar)
 
 Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olarak kullanmış olursunuz. Endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. Anlayacağınız bunları eklemenize gerek yok.
 
-```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
-
-```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
-
-```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
-
-```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
+- ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
+- ```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
+- ```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
+- ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
 
 ## Özel Durumlar - Varsayılan Olarak Engelsiz:
 
 1. **```s.youtube.com```**  : YouTube'un geçmiş kaydetmesini istemiyorsanız beyazliste'den çıkarın.
-1. **```api.pinterest.com```**  : Pinterest'le işim yok nefret ediyorum ben diyorsanız beyazliste'den çıkarın.
+2. **```api.pinterest.com```**  : Pinterest'le işim yok nefret ediyorum ben diyorsanız beyazliste'den çıkarın.
 
 ## [Diğer listeler](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
 ## Nasıl Rahastsız Site Bildireceğim?
 
-Engellenmesini uygun gördüğünüz siteleri bildirin ekleyeyim. 
+Engellenmesini uygun gördüğünüz siteleri bildirin, listeye ekleyelim ki diğer insanlar bunlarla uğraşmasınlar. 
 
 1. [Hatalar](https://github.com/xorcan/hosts/issues) kısmından bildirebilirsiniz.
-
 2. [Posta](mailto:xorcan@yandex.com) ile bildirebilirsiniz.
-
 3. [Anonim (girişsiz) posta](https://anonymousemail.me) ile ```xorcan@yandex.com``` adresine bildirebilirsiniz.
-
 4. [Telegram](https://t.me/hostsTR) grubuna bildirebilirsiniz.
 
 ## Uyarı
