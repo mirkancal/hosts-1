@@ -71,7 +71,7 @@ Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olara
 
 ## [Diğer listeler](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
-## Nasıl Rahastsız Site Bildireceğim?
+## Rahatsız Siteyi Nasıl Bildireceğim?
 
 Engellenmesini uygun gördüğünüz siteleri bildirin, listeye ekleyelim ki diğer insanlar bunlarla uğraşmasınlar. 
 
