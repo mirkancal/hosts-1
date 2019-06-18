@@ -70,6 +70,12 @@ Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olara
 2. **```api.pinterest.com```**  : Pinterest'le işim yok nefret ediyorum ben diyorsanız beyazliste'den çıkarın.
 3. **```*.picsart.com```**  : PicsArt'la işim yok bir yerde görünmesin diyorsanız beyazliste'den çıkarın.
 
+## Beta Liste
+
+[Buradan](https://github.com/xorcan/hosts/tree/beta) beta liste ağacına ulaşabilirsiniz. Beta Liste liste bazı internet sayfalarında sorun çıkarabilir. Listeye direk erişim için:
+
+1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+
 ## [Diğer listeler](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
 ## Rahatsız Siteyi Nasıl Bildireceğim?
