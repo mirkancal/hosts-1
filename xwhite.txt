@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk beyaz-liste
 # Format: Hosts White-list
-# Released: 17.06.2019
-# Entries: 13
+# Released: 20.06.2019
+# Entries: 0
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt
@@ -9,17 +9,4 @@
 # Copyright 2019 xorcan
 
 # xorcan/hosts başla #
-white *.rapidvideo.com
-white ok.ru
-white speed4up.com
-white oload.tv
-white *.onlineanimeizle.com
-white *.eviewporn.com
-white *.vidmo.cc
-white s.youtube.com
-white taciz.biz
-white yadi.sk
-white api.pinterest.com
-white speeddials.opera.com
-white *.picsart.com
-# xorcan/hosts bitir #
+# xorcan/hosts bitir #
