@@ -26,7 +26,7 @@ AdAway ile kullanınız. Android için tasarlanmıştır.
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
-- NOT: Windows için beyazliste'yi ekleyemeyeceğiniz için sadece xhosts.txt dosyasını kullanın.
+- NOT: Windows için beyazliste'yi ekleyemeyeceğiniz için sadece xhosts.txt dosyasını kullacaksınız.
 
 ## Android için (AdAway (Root)) (Adım 1/2)
 
@@ -43,15 +43,14 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
 2. ```https://adaway.org/hosts.txt```
 3. ```https://hosts-file.net/ad_servers.txt```
-4. ```https://1hos.cf/```
-5. ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
-6. ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
+4. ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
+5. ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
 ## Beyazliste (AdAway için) (Adım 2/2)
 
-- Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Bazı sitelerin düzgün çalışması için gereklidir.
+- Bu listeyi cihazınıza indirerek, "Your lists" bölümünden "Import all" diyerek içeri alacaksınız. Bazı sitelerin düzgün çalışması için gereklidir. Eğer liste başlayıp hemen bitmişse eklemenize gerek yok.
 
 1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xwhite.txt```
 
@@ -63,12 +62,6 @@ Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olara
 2. ```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
 3. ```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
 4. ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
-
-## Özel Durumlar - Varsayılan Olarak Engelsiz:
-
-1. **```s.youtube.com```**  : YouTube'un geçmiş kaydetmesini istemiyorsanız beyazliste'den çıkarın.
-2. **```api.pinterest.com```**  : Pinterest'le işim yok nefret ediyorum ben diyorsanız beyazliste'den çıkarın.
-3. **```*.picsart.com```**  : PicsArt'la işim yok bir yerde görünmesin diyorsanız beyazliste'den çıkarın.
 
 ## Beta Liste
 
