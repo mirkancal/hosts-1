@@ -71,6 +71,17 @@ Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olara
 
 ## [Diğer listeler](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
+## Özel Durumlar
+
+Burada belirtilen durumlar dosyalarda bulunmadığı için manuel olarak ayarlamalıdır. Şu kurallara göre uygulayınız:
+
+- karalisteye eklemek için: "adaway > your" lists alanına girin. altta "blacklist" seçili olduğundan emin olduktan sonra "+ (uçan buton)" işaretine tıklayıp belirtilen kısmı yazın.
+- beyazlisteye eklemek için: "adaway > your" lists alanına girin. altta "whitelist" seçili olduğundan emin olduktan sonra "+ (uçan buton)" işaretine tıklayıp belirtilen kısmı yazın.
+
+### seçmeli karaliste
+
+1. ```ads.facebook.com``` Facebook reklamları için.
+
 ## Rahatsız Siteyi Nasıl Bildireceğim?
 
 Engellenmesini uygun gördüğünüz siteleri bildirin, listeye ekleyelim ki diğer insanlar bunlarla uğraşmasınlar. 
