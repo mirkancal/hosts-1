@@ -20,8 +20,6 @@ bu host listeleri zaten xorcan/hosts ta bulunuyor ve d√ºzenli olarak onlar da g√
 
 #### ```https://adaway.org/hosts.txt```
 
-#### ```https://1hos.cf/```
-
 #### ```https://hosts-file.net/ad_servers.txt```
 
 #### ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
