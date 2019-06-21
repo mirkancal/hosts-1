@@ -1,17 +1,18 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 21.06.2019
-# Entries: 3152
+# Released: 22.06.2019
+# Entries: 3167
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
-#
+
 # Copyright 2019 xorcan
 
 127.0.0.1  localhost
 ::1  localhost
 
 # xorcan/hosts başla #
+
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 07028267-4be2-4a34-98e3-c2010972db69.snippet.antillephone.com
@@ -711,6 +712,8 @@
 127.0.0.1 berkyilmaz.com.tr
 127.0.0.1 bervin.com.tr
 127.0.0.1 best.hot-blogs.info
+127.0.0.1 best.hot-blogs.xyz
+127.0.0.1 best2019games.com
 127.0.0.1 bestadbid.com
 127.0.0.1 bestpa.com.tr
 127.0.0.1 betasus123.com
@@ -771,6 +774,7 @@
 127.0.0.1 bizographics.com
 127.0.0.1 bkrtx.com
 127.0.0.1 bla.blok.link
+127.0.0.1 blaa.blok.link
 127.0.0.1 block.s2block.com
 127.0.0.1 blog.jet-istanbul.com
 127.0.0.1 blok.link
@@ -962,6 +966,7 @@
 127.0.0.1 clck.yandex.com.tr
 127.0.0.1 clcknads.pro
 127.0.0.1 clearonclick.com
+127.0.0.1 click-and.win
 127.0.0.1 click.amazingmobi.com
 127.0.0.1 click.i.hepsiburada.com
 127.0.0.1 click.newsfeed.support
@@ -1289,6 +1294,7 @@
 127.0.0.1 farukyilmaz.com.tr
 127.0.0.1 fast.samsungturkey.demdex.net
 127.0.0.1 fast.vodafoneturkey.demdex.net
+127.0.0.1 fastjumbo.live
 127.0.0.1 fbe.trakya.edu.tr
 127.0.0.1 fbs-turk.trade
 127.0.0.1 fedgha.com
@@ -1408,6 +1414,7 @@
 127.0.0.1 gonenyapi.com.tr
 127.0.0.1 gooddrink.com.tr
 127.0.0.1 goooogle.download
+127.0.0.1 goplay4.com
 127.0.0.1 gorselcdn.com
 127.0.0.1 gorselpanel.com
 127.0.0.1 grafit.com.tr
@@ -1425,6 +1432,7 @@
 127.0.0.1 grifa.com.tr
 127.0.0.1 grimex.net
 127.0.0.1 grldrdr.thedragonbahis.com
+127.0.0.1 gtarcade.com
 127.0.0.1 gtaturkcomv10.ourtoolbar.com
 127.0.0.1 gtaturkmania.mytowntoolbar.com
 127.0.0.1 gtssl2-ocsp.geotrust.com
@@ -1643,6 +1651,7 @@
 127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.milliyet.com.tr
 127.0.0.1 istatistik.skorer.tv
+127.0.0.1 istbagcilr.com
 127.0.0.1 istekemlak.com.tr
 127.0.0.1 isuk.org.tr
 127.0.0.1 itocpl.k12.tr
@@ -2030,6 +2039,7 @@
 127.0.0.1 network.liktzor.com
 127.0.0.1 networkad.net
 127.0.0.1 nevzatsolmazinsaat.com
+127.0.0.1 newaprads.com
 127.0.0.1 newrelic.com
 127.0.0.1 news-pro.today
 127.0.0.1 news-tap.com
@@ -2268,6 +2278,7 @@
 127.0.0.1 prfrvs.click
 127.0.0.1 prizmasigorta.com
 127.0.0.1 prlx.thedragonbahis.com
+127.0.0.1 prmtracking.com
 127.0.0.1 pro-market.net
 127.0.0.1 pro-news.net
 127.0.0.1 proarsiv.net
@@ -2328,6 +2339,7 @@
 127.0.0.1 rd3.indir.blue
 127.0.0.1 rd4.indir.blue
 127.0.0.1 rd5.indir.blue
+127.0.0.1 rdr3.xyz
 127.0.0.1 rdrtr.com
 127.0.0.1 readvasturked.pro
 127.0.0.1 realcenter-mobileapps2.com
@@ -2504,6 +2516,7 @@
 127.0.0.1 scarabresearch.com
 127.0.0.1 scfkfridulshkd.com
 127.0.0.1 scheme.mobpowertech.com
+127.0.0.1 schnson-honald.com
 127.0.0.1 scopriteistanbul.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 script.hotjar.com
@@ -2747,6 +2760,7 @@
 127.0.0.1 teksend.com.tr
 127.0.0.1 telemetry.malwarebytes.com
 127.0.0.1 telemetry.tradingview.com
+127.0.0.1 telreh.com
 127.0.0.1 tema.marasyurtdernegi.org
 127.0.0.1 tempobanners.com
 127.0.0.1 tepetaklakmiyizx.com
@@ -2818,6 +2832,7 @@
 127.0.0.1 trackocean.com
 127.0.0.1 tracksbooster.com
 127.0.0.1 tradeadexchange.com
+127.0.0.1 traffic-c.com
 127.0.0.1 traffic-follow.com
 127.0.0.1 traffic.tc-clicks.com
 127.0.0.1 trafficacademy.club
