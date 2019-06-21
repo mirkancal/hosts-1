@@ -65,7 +65,7 @@ Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olara
 
 ## Beta Liste
 
-[Buradan](https://github.com/xorcan/hosts/tree/beta) beta liste ağacına ulaşabilirsiniz. Beta Liste liste bazı internet sayfalarında sorun çıkarabilir. Listeye direk erişim için:
+[Buradan](https://github.com/xorcan/hosts/tree/beta) beta liste ağacına ulaşabilirsiniz. Beta Liste bazı internet sayfalarında sorun çıkarabilir. Listeye direk erişim için:
 
 1. ```https://raw.githubusercontent.com/xorcan/hosts/beta/xhosts.txt```
 
