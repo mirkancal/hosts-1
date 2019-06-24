@@ -45,6 +45,7 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 3. ```https://hosts-file.net/ad_servers.txt```
 4. ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
 5. ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
+6. ```https://someonewhocares.org/hosts/hosts```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
