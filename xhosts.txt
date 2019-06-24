@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 22.06.2019
-# Entries: 3167
+# Released: 24.06.2019
+# Entries: 3216
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -12,7 +12,6 @@
 ::1  localhost
 
 # xorcan/hosts başla #
-
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 07028267-4be2-4a34-98e3-c2010972db69.snippet.antillephone.com
@@ -1963,8 +1962,58 @@
 127.0.0.1 mobileantivirus.review
 127.0.0.1 mobileapptracking.com
 127.0.0.1 mobilehero3s.com
+127.0.0.1 mobileoffers-aa-download.com
+127.0.0.1 mobileoffers-ab-download.com
+127.0.0.1 mobileoffers-ac-download.com
+127.0.0.1 mobileoffers-ad-download.com
+127.0.0.1 mobileoffers-ae-download.com
+127.0.0.1 mobileoffers-af-download.com
+127.0.0.1 mobileoffers-ag-download.com
+127.0.0.1 mobileoffers-ah-download.com
+127.0.0.1 mobileoffers-ai-download.com
+127.0.0.1 mobileoffers-aj-download.com
+127.0.0.1 mobileoffers-ak-download.com
+127.0.0.1 mobileoffers-al-download.com
+127.0.0.1 mobileoffers-am-download.com
+127.0.0.1 mobileoffers-an-download.com
+127.0.0.1 mobileoffers-ao-download.com
+127.0.0.1 mobileoffers-ap-download.com
+127.0.0.1 mobileoffers-aq-download.com
+127.0.0.1 mobileoffers-ar-download.com
+127.0.0.1 mobileoffers-as-download.com
+127.0.0.1 mobileoffers-at-download.com
+127.0.0.1 mobileoffers-au-download.com
+127.0.0.1 mobileoffers-av-download.com
+127.0.0.1 mobileoffers-aw-download.com
+127.0.0.1 mobileoffers-ax-download.com
+127.0.0.1 mobileoffers-ay-download.com
+127.0.0.1 mobileoffers-az-download.com
+127.0.0.1 mobileoffers-ba-download.com
+127.0.0.1 mobileoffers-bb-download.com
+127.0.0.1 mobileoffers-bc-download.com
+127.0.0.1 mobileoffers-bd-download.com
+127.0.0.1 mobileoffers-be-download.com
+127.0.0.1 mobileoffers-bf-download.com
+127.0.0.1 mobileoffers-bg-download.com
+127.0.0.1 mobileoffers-bh-download.com
+127.0.0.1 mobileoffers-bi-download.com
 127.0.0.1 mobileoffers-bj-download.com
+127.0.0.1 mobileoffers-bk-download.com
+127.0.0.1 mobileoffers-bl-download.com
+127.0.0.1 mobileoffers-bm-download.com
+127.0.0.1 mobileoffers-bn-download.com
+127.0.0.1 mobileoffers-bo-download.com
+127.0.0.1 mobileoffers-bp-download.com
+127.0.0.1 mobileoffers-bq-download.com
+127.0.0.1 mobileoffers-br-download.com
 127.0.0.1 mobileoffers-bs-download.com
+127.0.0.1 mobileoffers-bt-download.com
+127.0.0.1 mobileoffers-bu-download.com
+127.0.0.1 mobileoffers-bv-download.com
+127.0.0.1 mobileoffers-bw-download.com
+127.0.0.1 mobileoffers-bx-download.com
+127.0.0.1 mobileoffers-by-download.com
+127.0.0.1 mobileoffers-bz-download.com
 127.0.0.1 mobileplay.mobi
 127.0.0.1 mobilpop.com
 127.0.0.1 mobilup.com
