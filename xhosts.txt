@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
 # Released: 24.06.2019
-# Entries: 3216
+# Entries: 3206
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -193,7 +193,6 @@
 127.0.0.1 addtoany.com
 127.0.0.1 addwords.com.tr
 127.0.0.1 adeko.mobi
-127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
 127.0.0.1 adfox.ru
@@ -246,7 +245,6 @@
 127.0.0.1 adrecover.com
 127.0.0.1 adroll.com
 127.0.0.1 adrttt.com
-127.0.0.1 ads-fa.spotify.com
 127.0.0.1 ads-hl.noktamedya.com.tr
 127.0.0.1 ads-rouge.haber7.com
 127.0.0.1 ads-twitter.com
@@ -475,7 +473,6 @@
 127.0.0.1 analytics.olay.com.tr
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.rayjump.com
-127.0.0.1 analytics.spotify.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics.yeniakit.com.tr
 127.0.0.1 anarotomotiv.com.tr
@@ -603,7 +600,6 @@
 127.0.0.1 atomictrivia.ru
 127.0.0.1 aturkantorku.com
 127.0.0.1 auction.unityads.unity3d.com
-127.0.0.1 audio2.spotify.com
 127.0.0.1 autolinkmaker.itunes.apple.com
 127.0.0.1 avcilarescortking.com
 127.0.0.1 avcilarliman.com
@@ -1028,7 +1024,6 @@
 127.0.0.1 cpdafetdjtdsy.com
 127.0.0.1 cpi-istanbul.com
 127.0.0.1 cqaiylftp.com
-127.0.0.1 crashdump.spotify.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crazyegg.com
 127.0.0.1 creative.wwwpromoter.com
@@ -1109,7 +1104,6 @@
 127.0.0.1 derinsunakliyat.com
 127.0.0.1 dertbeats.com
 127.0.0.1 designgroup.com.tr
-127.0.0.1 desktop.spotify.com
 127.0.0.1 detect.rayjump.com
 127.0.0.1 devas.com.tr
 127.0.0.1 device-metrics-us-2.amazon.com
@@ -1812,7 +1806,6 @@
 127.0.0.1 log.mobpowertech.com
 127.0.0.1 log.pinterest.com
 127.0.0.1 log.quora.com
-127.0.0.1 log.spotify.com
 127.0.0.1 log.trendingnow.video
 127.0.0.1 log.user-grey.com
 127.0.0.1 logger-01.vty.dailymotion.com
@@ -2163,7 +2156,6 @@
 127.0.0.1 onthe.io
 127.0.0.1 onurcanemlak.com
 127.0.0.1 opelservisibodrum.com
-127.0.0.1 open.spotify.com
 127.0.0.1 openamp-error-reporting.appspot.com
 127.0.0.1 openx.net
 127.0.0.1 openx2-match.dotomi.com
@@ -2687,7 +2679,6 @@
 127.0.0.1 sonobi.com
 127.0.0.1 soprano.newsfeed.support
 127.0.0.1 soyyigit.com.tr
-127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 speeder.biz
 127.0.0.1 speednetwork14.com
 127.0.0.1 spilaggroved.xyz
@@ -3050,7 +3041,6 @@
 127.0.0.1 web.redhelper.ru
 127.0.0.1 webanalyzer.bussion.com
 127.0.0.1 webinstats.com
-127.0.0.1 weblb-wg.gslb.spotify.com
 127.0.0.1 webservis.gen.tr
 127.0.0.1 webspectator.com
 127.0.0.1 webtemsilcisi.com
