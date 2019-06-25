@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 24.06.2019
-# Entries: 3206
+# Released: 25.06.2019
+# Entries: 3082
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -14,13 +14,9 @@
 # xorcan/hosts başla #
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
-127.0.0.1 07028267-4be2-4a34-98e3-c2010972db69.snippet.antillephone.com
-127.0.0.1 0l19.daspearstreet.com
-127.0.0.1 0wu4.looksslike.com
 127.0.0.1 109.73.75.29
 127.0.0.1 109.73.75.3
 127.0.0.1 11820.com.tr
-127.0.0.1 15.taboola.com
 127.0.0.1 15elon9.zgnkwfb.com
 127.0.0.1 15minutemanifestation-tr.com
 127.0.0.1 165.22.200.68
@@ -29,7 +25,6 @@
 127.0.0.1 16yp1ji92a.com
 127.0.0.1 176.55.252.4
 127.0.0.1 197.25.189.78.static.turktelekom.com.tr
-127.0.0.1 197649.offinator.com
 127.0.0.1 1sana1bana.estepeta.com.tr
 127.0.0.1 1virusyakalandi.xyz
 127.0.0.1 1xbahiseank.com
@@ -44,42 +39,30 @@
 127.0.0.1 2436.net
 127.0.0.1 24ankara.com
 127.0.0.1 267bets10.com
-127.0.0.1 28pe.dayagainst.com
 127.0.0.1 2clicks.xyz
-127.0.0.1 2frt.daspearstreet.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
 127.0.0.1 3.hdxvipizle.net
 127.0.0.1 321oyna.com
-127.0.0.1 3byo.dayagainst.com
 127.0.0.1 3efetarim.com
 127.0.0.1 41df76c67812005c.com
 127.0.0.1 427996.catchtheclick.com
 127.0.0.1 43puq.formens.pro
 127.0.0.1 4club.com
-127.0.0.1 4k2w.looksslike.com
 127.0.0.1 4turka.com
 127.0.0.1 50bahisnow.com
-127.0.0.1 518331.offinator.com
 127.0.0.1 518580904.log.optimizely.com
-127.0.0.1 55b75c9932ebe71db085bf45.tracker.bannerflow.com
 127.0.0.1 602d76e204c032.com
 127.0.0.1 62m33.x.incapdns.net
 127.0.0.1 65vk1fba34.com
 127.0.0.1 66427-802405-raikfcquaxqncofqfm.stackpathdns.com
-127.0.0.1 680748.offinator.com
-127.0.0.1 6s25.looksslike.com
 127.0.0.1 6uwehz1xp4.com
-127.0.0.1 791115.offinator.com
-127.0.0.1 7tg6.looksslike.com
 127.0.0.1 7wuvias.website
 127.0.0.1 82o9v830.com
 127.0.0.1 88.255.216.16
 127.0.0.1 8a8cq8c8yyqjs2xr.pro
 127.0.0.1 8baa6f385c8982067bae766e6eb7a65e.api.appsee.com
 127.0.0.1 8digits.com
-127.0.0.1 8drl.daspearstreet.com
-127.0.0.1 8n21.daspearstreet.com
 127.0.0.1 9a24a1b3dcd5f4.com
 127.0.0.1 a-v2.presage.io
 127.0.0.1 a.adnium.com
@@ -96,7 +79,6 @@
 127.0.0.1 a1.mzstatic.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 aadserving.com
-127.0.0.1 aald.looksslike.com
 127.0.0.1 aaslmqzce.bid
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
@@ -152,7 +134,6 @@
 127.0.0.1 ad.sacitaslan.com
 127.0.0.1 ad.setrowid.com
 127.0.0.1 ad.turn.com
-127.0.0.1 ad.webservis.gen.tr
 127.0.0.1 ad.wslinx.com
 127.0.0.1 ad.yemeksepeti.com
 127.0.0.1 ad.zaman.com.tr
@@ -316,6 +297,7 @@
 127.0.0.1 ads4.admatic.com.tr
 127.0.0.1 ads5.admatic.com.tr
 127.0.0.1 ads5.sabah.com.tr
+127.0.0.1 adsafeprotected.com
 127.0.0.1 adsbetkoy.com
 127.0.0.1 adsblok.com
 127.0.0.1 adscale.de
@@ -466,7 +448,6 @@
 127.0.0.1 analytics.cervellio.com
 127.0.0.1 analytics.edgekey.net
 127.0.0.1 analytics.edgesuite.net
-127.0.0.1 analytics.liftoff.io
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mobile.walmart.com
 127.0.0.1 analytics.mopub.com
@@ -521,7 +502,6 @@
 127.0.0.1 api.appodeal.com
 127.0.0.1 api.appodealx.com
 127.0.0.1 api.binomo.com
-127.0.0.1 api.c.avazunativeads.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.mobpowertech.com
 127.0.0.1 api.opencandy.com
@@ -601,6 +581,7 @@
 127.0.0.1 aturkantorku.com
 127.0.0.1 auction.unityads.unity3d.com
 127.0.0.1 autolinkmaker.itunes.apple.com
+127.0.0.1 avazunativeads.com
 127.0.0.1 avcilarescortking.com
 127.0.0.1 avcilarliman.com
 127.0.0.1 avrupajumbo.live
@@ -628,7 +609,6 @@
 127.0.0.1 b.cdn.md
 127.0.0.1 b.misslk.com
 127.0.0.1 b.scorecardresearch.com
-127.0.0.1 b5lo.daspearstreet.com
 127.0.0.1 b6roqgi.com
 127.0.0.1 babaeskiziraatodasi.org
 127.0.0.1 bahcesehirevleri.com
@@ -808,7 +788,6 @@
 127.0.0.1 btcturki.com
 127.0.0.1 bttrack.com
 127.0.0.1 bugradanismanlik.com
-127.0.0.1 build-cdn.liftoff.io
 127.0.0.1 building.com.tr
 127.0.0.1 bumerang.hurriyet.com.tr
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
@@ -840,7 +819,6 @@
 127.0.0.1 c1.popads.net
 127.0.0.1 c2.popads.net
 127.0.0.1 ca.clcknads.pro
-127.0.0.1 caej.daspearstreet.com
 127.0.0.1 cafesalvador-tr.com
 127.0.0.1 caglarturizm.com.tr
 127.0.0.1 cagriinsaat.net
@@ -853,8 +831,6 @@
 127.0.0.1 canpazari.com
 127.0.0.1 cansesiasknefesi.com
 127.0.0.1 capcanlisohbet.site
-127.0.0.1 capital.newsfeed.support
-127.0.0.1 carr.dayagainst.com
 127.0.0.1 casalemedia.com
 127.0.0.1 catchtheclick.com
 127.0.0.1 caydegirmeni.bel.tr
@@ -895,7 +871,6 @@
 127.0.0.1 cdn.insta.playbryte.com
 127.0.0.1 cdn.jsdelivr.net
 127.0.0.1 cdn.klasseo.com
-127.0.0.1 cdn.liftoff.io
 127.0.0.1 cdn.livechatinc.com
 127.0.0.1 cdn.llogetfastcach.us
 127.0.0.1 cdn.madanate.com
@@ -920,7 +895,6 @@
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 cdn.solimba.com
 127.0.0.1 cdn.sportdigi.com
-127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.teads.tv
 127.0.0.1 cdn.tuto4pc.com
 127.0.0.1 cdn.unityads.unity3d.com
@@ -933,7 +907,6 @@
 127.0.0.1 cdn6.admatic.com.tr
 127.0.0.1 cdnap.airpush.com
 127.0.0.1 cdnarsiv.com
-127.0.0.1 cds-eu-1.taboola.com
 127.0.0.1 ceda.com.tr
 127.0.0.1 cedexis.com
 127.0.0.1 cel-kon.com.tr
@@ -957,16 +930,13 @@
 127.0.0.1 civciv.com.tr
 127.0.0.1 cizyix.gxxcbj.com
 127.0.0.1 cjl58f3agc.com
-127.0.0.1 clarify.newsfeed.support
 127.0.0.1 clck.yandex.com.tr
 127.0.0.1 clcknads.pro
 127.0.0.1 clearonclick.com
 127.0.0.1 click-and.win
 127.0.0.1 click.amazingmobi.com
 127.0.0.1 click.i.hepsiburada.com
-127.0.0.1 click.newsfeed.support
 127.0.0.1 click.sender.yandex.ru
-127.0.0.1 click.startappservice.com
 127.0.0.1 click2ckick.com
 127.0.0.1 clickmerkez.com
 127.0.0.1 clickpapa.com
@@ -1009,7 +979,6 @@
 127.0.0.1 content.bitsontherun.com
 127.0.0.1 contextweb.com
 127.0.0.1 continuum.dds.microsoft.com
-127.0.0.1 convammp.taboola.com
 127.0.0.1 coogle-prefeeds.com
 127.0.0.1 cookiebot.com
 127.0.0.1 coolthingstofind.xyz
@@ -1017,7 +986,6 @@
 127.0.0.1 coremetrics.com
 127.0.0.1 cotads.adscale.de
 127.0.0.1 counter.kingsoft.com
-127.0.0.1 counter.webservis.gen.tr
 127.0.0.1 counter.yadro.ru
 127.0.0.1 cp.pushwoosh.com
 127.0.0.1 cpatrendreklam.com
@@ -1097,7 +1065,6 @@
 127.0.0.1 demdex.net
 127.0.0.1 denizemlak06.com
 127.0.0.1 denkagida.com.tr
-127.0.0.1 dentist.newsfeed.support
 127.0.0.1 dentopia.com.tr
 127.0.0.1 depo.indirbir.com
 127.0.0.1 depo.realist.gen.tr
@@ -1138,15 +1105,12 @@
 127.0.0.1 downturk.biz
 127.0.0.1 downturk.info
 127.0.0.1 downturk.us
-127.0.0.1 dpm.demdex.net
 127.0.0.1 dreamboxturk.com
 127.0.0.1 drturkiye.com
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 dskfv.de
 127.0.0.1 dspmulti.com
-127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtnzlmwgujhgmj.bid
-127.0.0.1 dts.startappservice.com
 127.0.0.1 dtscout.com
 127.0.0.1 duginamis.com
 127.0.0.1 duldoparty.club
@@ -1208,7 +1172,6 @@
 127.0.0.1 eokul-meb.com
 127.0.0.1 eokulegitim.com
 127.0.0.1 eotech-yoqblou5gqrdrn.netdna-ssl.com
-127.0.0.1 ep9o.looksslike.com
 127.0.0.1 epoksizeminankara.com
 127.0.0.1 eptwulil.com
 127.0.0.1 eqads.com
@@ -1261,7 +1224,6 @@
 127.0.0.1 event.ksosoft.com
 127.0.0.1 eventpark.com.tr
 127.0.0.1 events.appsflyer.com
-127.0.0.1 events.startappservice.com
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 evkurnakliyat.com.tr
@@ -1273,11 +1235,9 @@
 127.0.0.1 exoclick.com
 127.0.0.1 exodor.com.tr
 127.0.0.1 exploore.yas-tr.com
-127.0.0.1 extreme.newsfeed.support
 127.0.0.1 extremefreegames.com
 127.0.0.1 eyeviewads.com
 127.0.0.1 eyh.org.tr
-127.0.0.1 f5ja.looksslike.com
 127.0.0.1 facebook.com.hocalihaber.com
 127.0.0.1 faggrim.com
 127.0.0.1 faktoryapi.com.tr
@@ -1285,8 +1245,6 @@
 127.0.0.1 faradaymuhendislik.com
 127.0.0.1 farukaksoy.com.tr
 127.0.0.1 farukyilmaz.com.tr
-127.0.0.1 fast.samsungturkey.demdex.net
-127.0.0.1 fast.vodafoneturkey.demdex.net
 127.0.0.1 fastjumbo.live
 127.0.0.1 fbe.trakya.edu.tr
 127.0.0.1 fbs-turk.trade
@@ -1363,7 +1321,6 @@
 127.0.0.1 gem.gbc.criteo.com
 127.0.0.1 gemius.pl
 127.0.0.1 genelajans.com
-127.0.0.1 general.newsfeed.support
 127.0.0.1 genesis-tr.com
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.performgroup.com
@@ -1383,8 +1340,6 @@
 127.0.0.1 git.emarketing724.com
 127.0.0.1 giydirmeoyunlari.oyunmemo.com
 127.0.0.1 gjikkwtrstaku.com
-127.0.0.1 glasses.newsfeed.support
-127.0.0.1 glimpse.newsfeed.support
 127.0.0.1 global.appnext.com
 127.0.0.1 global.msads.net
 127.0.0.1 go-mpulse.net
@@ -1439,7 +1394,6 @@
 127.0.0.1 guzelsanatlar.trakya.edu.tr
 127.0.0.1 gxkwwbqzsg.com
 127.0.0.1 gxxcbj.com
-127.0.0.1 h.online-metrix.net
 127.0.0.1 haber-ankara.net
 127.0.0.1 haberekw.cba.pl
 127.0.0.1 haberkern-online.de
@@ -1449,19 +1403,6 @@
 127.0.0.1 hacisakirinsaat.com.tr
 127.0.0.1 hacklnk.in
 127.0.0.1 hadaticaret.com.tr
-127.0.0.1 haggler-mopub609-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub611-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub618-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub621-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub630-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub636-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub637-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub649-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub651-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub652-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub664-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub670-us-e-ec2.liftoff.io
-127.0.0.1 haggler-mopub686-us-e-ec2.liftoff.io
 127.0.0.1 hakronteknoloji.com
 127.0.0.1 halicistanbulemlak.net
 127.0.0.1 halimofset.com.tr
@@ -1516,7 +1457,6 @@
 127.0.0.1 huzursuz.info
 127.0.0.1 hxuasnwokh.com
 127.0.0.1 hygienix.com.tr
-127.0.0.1 hyoo.looksslike.com
 127.0.0.1 hyprshr.com
 127.0.0.1 i-tmgrup-com-tr.cdn.ampproject.org
 127.0.0.1 i.kissmetrics.com
@@ -1547,8 +1487,6 @@
 127.0.0.1 ilke.org.tr
 127.0.0.1 ilkhaberadana.com
 127.0.0.1 image6.pubmatic.com
-127.0.0.1 images.startappservice.com
-127.0.0.1 images.taboola.com
 127.0.0.1 images.turkeyvisit.ru
 127.0.0.1 images9.engageya.com
 127.0.0.1 imeco-tr.com
@@ -1559,9 +1497,6 @@
 127.0.0.1 img2.zamunda.se
 127.0.0.1 imgg-cdn.steepto.com
 127.0.0.1 imho2.ru
-127.0.0.1 imp.startappservice.com
-127.0.0.1 imprammp.taboola.com
-127.0.0.1 impress.newsfeed.support
 127.0.0.1 in.tubecorporate.com
 127.0.0.1 incipeynircilik.com
 127.0.0.1 indextrck.com
@@ -1581,12 +1516,10 @@
 127.0.0.1 indirson.com
 127.0.0.1 indisancal.com
 127.0.0.1 inegolreklam.net
-127.0.0.1 info.static.startappservice.com
 127.0.0.1 infolinks.com
 127.0.0.1 infovas.com.tr
 127.0.0.1 ingturkey.tt.omtrdc.net
 127.0.0.1 init.startappexchange.com
-127.0.0.1 init.startappservice.com
 127.0.0.1 init.supersonicads.com
 127.0.0.1 initiatefresh.com
 127.0.0.1 inkasoft.com.tr
@@ -1651,7 +1584,6 @@
 127.0.0.1 iuwniunver.site
 127.0.0.1 ivr.com.tr
 127.0.0.1 ivreprsident.tk
-127.0.0.1 ivsj.dayagainst.com
 127.0.0.1 izmiran.nw.ru
 127.0.0.1 izmiraol.mycollegetoolbar.com
 127.0.0.1 izmirelbisecilerodasi.org
@@ -1780,6 +1712,7 @@
 127.0.0.1 liadm.com
 127.0.0.1 lidersahtebalik.com.tr
 127.0.0.1 liftdna.com
+127.0.0.1 liftoff.io
 127.0.0.1 ligadx.com
 127.0.0.1 ligatus.com
 127.0.0.1 lijit.com
@@ -1795,14 +1728,12 @@
 127.0.0.1 livechatinc.com
 127.0.0.1 liveinternet.ru
 127.0.0.1 liverail.com
-127.0.0.1 llso.looksslike.com
 127.0.0.1 ln1.bcvcrdr.space
 127.0.0.1 load.sumome.com
 127.0.0.1 load77.exelator.com
 127.0.0.1 loadm.exelator.com
 127.0.0.1 localgirldating.com
 127.0.0.1 localytics.com
-127.0.0.1 log.apk.v-mate.mobi
 127.0.0.1 log.mobpowertech.com
 127.0.0.1 log.pinterest.com
 127.0.0.1 log.quora.com
@@ -1818,7 +1749,6 @@
 127.0.0.1 logger-08.vty.dailymotion.com
 127.0.0.1 logger-09.vty.dailymotion.com
 127.0.0.1 logger.virgul.com
-127.0.0.1 logo.webservis.gen.tr
 127.0.0.1 lois.mediaglb.com
 127.0.0.1 lomapornotube.com
 127.0.0.1 london-asian-escorts.com
@@ -1826,22 +1756,10 @@
 127.0.0.1 looksslike.com
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 ls.hit.gemius.pl
-127.0.0.1 lt95.dayagainst.com
 127.0.0.1 lubitpiva.jdevcloud.com
 127.0.0.1 luleburgazzob.org.tr
 127.0.0.1 lvodomi.info
 127.0.0.1 lxcfaekywx.com
-127.0.0.1 m.1xbahisjhgc.com
-127.0.0.1 m.1xbahisnuul.com
-127.0.0.1 m.267bets10.com
-127.0.0.1 m.adnxs.com
-127.0.0.1 m.betasus123.com
-127.0.0.1 m.betpas278.com
-127.0.0.1 m.hepsibahis94.com
-127.0.0.1 m.melbet5.com
-127.0.0.1 m.servedby-buysellads.com
-127.0.0.1 m.toolbartr.mobi
-127.0.0.1 m.trend-tech.net
 127.0.0.1 m6c8a.mobzaz.com
 127.0.0.1 m6r.eu
 127.0.0.1 mading-calipprox.com
@@ -1876,7 +1794,6 @@
 127.0.0.1 match.prod.bidr.io
 127.0.0.1 match.sharethrough.com
 127.0.0.1 match.sync.ad.cpe.dotomi.com
-127.0.0.1 match.taboola.com
 127.0.0.1 match.zorosrv.com
 127.0.0.1 mavibilisim.com.tr
 127.0.0.1 mavidost.com
@@ -1935,7 +1852,6 @@
 127.0.0.1 milanobet158.com
 127.0.0.1 millionaire-club.perrlqnm9t.top
 127.0.0.1 minently.com
-127.0.0.1 minimum.newsfeed.support
 127.0.0.1 minireklam.com
 127.0.0.1 miplus.com.tr
 127.0.0.1 mircindir.net
@@ -2108,28 +2024,21 @@
 127.0.0.1 noxaffiliates.com
 127.0.0.1 nr-data.net
 127.0.0.1 nrcapi.ssl2.duapps.com
-127.0.0.1 nrxl.dayagainst.com
 127.0.0.1 nsis.bisrv.com
 127.0.0.1 nuggad.net
 127.0.0.1 numarabiz.com
 127.0.0.1 numarapaneli.com
 127.0.0.1 numbertrck.com
-127.0.0.1 nuus.dayagainst.com
-127.0.0.1 nw87.looksslike.com
 127.0.0.1 nxctrk.com
 127.0.0.1 nym2-tr.adnxs.com
-127.0.0.1 nzpc.dayagainst.com
 127.0.0.1 o.skimresources.com
-127.0.0.1 o52x.daspearstreet.com
 127.0.0.1 oclaserver.com
 127.0.0.1 oclasrv.com
 127.0.0.1 odin.pronetgaming.eu
 127.0.0.1 odr.mookie1.com
 127.0.0.1 offergold.online
-127.0.0.1 officer.newsfeed.support
 127.0.0.1 offinator.com
 127.0.0.1 oix.net
-127.0.0.1 oknc.looksslike.com
 127.0.0.1 oksmi.site
 127.0.0.1 okvfijgdmqton.bid
 127.0.0.1 okwljypglchl.com
@@ -2148,6 +2057,7 @@
 127.0.0.1 onclicksuper.com
 127.0.0.1 ondokuzmuoldu.com
 127.0.0.1 onedmp.com
+127.0.0.1 online-metrix.net
 127.0.0.1 onlinewebstat.com
 127.0.0.1 onlinewebstats.com
 127.0.0.1 onroll.com
@@ -2268,7 +2178,6 @@
 127.0.0.1 pixel-a.sitescout.com
 127.0.0.1 pixel-sync.sitescout.com
 127.0.0.1 pixel.admobclick.com
-127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.bethepresharthe.info
 127.0.0.1 pixel.everesttech.net
@@ -2348,7 +2257,6 @@
 127.0.0.1 purplle.com
 127.0.0.1 push-checking.com
 127.0.0.1 push-time.com
-127.0.0.1 push.offinator.com
 127.0.0.1 pushance.com
 127.0.0.1 pushcrew.com
 127.0.0.1 pushlat.com
@@ -2363,7 +2271,6 @@
 127.0.0.1 pzkqiwezugsucg.com
 127.0.0.1 qregation.info
 127.0.0.1 qservz.com
-127.0.0.1 qualify.newsfeed.support
 127.0.0.1 quantserve.com
 127.0.0.1 qwepop.site
 127.0.0.1 r.remarketingpixel.com
@@ -2374,7 +2281,6 @@
 127.0.0.1 raginhard-sva.com
 127.0.0.1 raiden.com.tr
 127.0.0.1 rampagida.com.tr
-127.0.0.1 rbak.daspearstreet.com
 127.0.0.1 rd1.indir.blue
 127.0.0.1 rd2.indir.blue
 127.0.0.1 rd3.indir.blue
@@ -2389,7 +2295,6 @@
 127.0.0.1 realist.gen.tr
 127.0.0.1 realistikbayi.live
 127.0.0.1 reallygoodlink.extremefreegames.com
-127.0.0.1 recommend.apk.v-mate.mobi
 127.0.0.1 recs.engageya.com
 127.0.0.1 red.blok.link
 127.0.0.1 redirect.privateadtracking.com
@@ -2452,7 +2357,6 @@
 127.0.0.1 remas-tr.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 reports.crashlytics.com
-127.0.0.1 req.startappservice.com
 127.0.0.1 rereegny.net
 127.0.0.1 res.cloudinary.com
 127.0.0.1 res1.applovin.com
@@ -2476,8 +2380,6 @@
 127.0.0.1 rpc.tapjoy.com
 127.0.0.1 rqsndrkezz.com
 127.0.0.1 rrtcfwmvhs.com
-127.0.0.1 rrx68giz-06777725bc636d43e50625eef1c38c822ba0ceea-mob.d.aa.online-metrix.net
-127.0.0.1 rrx68giz-474f4415ad616d50d5fca57649d097ad94f4f069-mob.d.aa.online-metrix.net
 127.0.0.1 rs.chip.com.tr
 127.0.0.1 rss.tmgrup.com.tr
 127.0.0.1 rsturk.net
@@ -2487,7 +2389,6 @@
 127.0.0.1 rtb.adx1.com
 127.0.0.1 rtb.exoclick.com
 127.0.0.1 rtb.mfadsrvr.com
-127.0.0.1 rtb.nativeads.com
 127.0.0.1 rtb.openx.net
 127.0.0.1 rtwvnrgn.com
 127.0.0.1 ruberu.com.tr
@@ -2510,7 +2411,6 @@
 127.0.0.1 s.pubmine.com
 127.0.0.1 s.skimresources.com
 127.0.0.1 s.webtrends.com
-127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.adform.net
 127.0.0.1 s1.promoviral.com
 127.0.0.1 s3.adbers.com
@@ -2530,7 +2430,6 @@
 127.0.0.1 saltidanismanlik.com
 127.0.0.1 samandaghaberler.com
 127.0.0.1 samli.com.tr
-127.0.0.1 samsungturkey.demdex.net
 127.0.0.1 samurmakina.com.tr
 127.0.0.1 sanalalanya.com
 127.0.0.1 sarayciftligi.com.tr
@@ -2553,7 +2452,6 @@
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 sc-analytics.appshot.com
 127.0.0.1 sc-analytics.appspot.com
-127.0.0.1 scandal.newsfeed.support
 127.0.0.1 scarabresearch.com
 127.0.0.1 scfkfridulshkd.com
 127.0.0.1 scheme.mobpowertech.com
@@ -2591,6 +2489,7 @@
 127.0.0.1 serumx.com.tr
 127.0.0.1 serve-sys.com
 127.0.0.1 serve.popads.net
+127.0.0.1 servedby-buysellads.com
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 service-api.kingsoft-office-service.com
 127.0.0.1 servicer.mgid.com
@@ -2615,7 +2514,6 @@
 127.0.0.1 sibtel.adriver.ru
 127.0.0.1 sigaramakinesi.gen.tr
 127.0.0.1 sigortaline.com.tr
-127.0.0.1 silence.newsfeed.support
 127.0.0.1 sileoturkiye.com
 127.0.0.1 silverstatic.com.tr
 127.0.0.1 simsek.gen.tr
@@ -2657,9 +2555,7 @@
 127.0.0.1 smrtbnr.top
 127.0.0.1 smrtbnr.xyz
 127.0.0.1 smrtcdn.club
-127.0.0.1 snippet.antillephone.com
 127.0.0.1 sociomantic.com
-127.0.0.1 soda.startappservice.com
 127.0.0.1 softorsholitthis.info
 127.0.0.1 softreklam.com
 127.0.0.1 softwarer.us
@@ -2677,7 +2573,6 @@
 127.0.0.1 songursigorta.com
 127.0.0.1 sonic.maltoka.com
 127.0.0.1 sonobi.com
-127.0.0.1 soprano.newsfeed.support
 127.0.0.1 soyyigit.com.tr
 127.0.0.1 speeder.biz
 127.0.0.1 speednetwork14.com
@@ -2686,7 +2581,6 @@
 127.0.0.1 spklmis.com
 127.0.0.1 spoods.rce.veeseo.com
 127.0.0.1 sportdigi.com
-127.0.0.1 sportingbe-superbahis.bannerflow.com
 127.0.0.1 sportpelli.com
 127.0.0.1 srv.buysellads.com
 127.0.0.1 srv.sayyac.net
@@ -2705,12 +2599,12 @@
 127.0.0.1 stantonchase.com.tr
 127.0.0.1 starlader.host
 127.0.0.1 startappexchange.com
+127.0.0.1 startappservice.com
 127.0.0.1 statcounter.com
 127.0.0.1 stathat.com
 127.0.0.1 static-addtoany-com.cdn.ampproject.org
 127.0.0.1 static-ads.akamaized.net
 127.0.0.1 static.addtoany.com
-127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.adxadserv.com
 127.0.0.1 static.clicktripz.com
 127.0.0.1 static.criteo.net
@@ -2742,7 +2636,6 @@
 127.0.0.1 sumer.gen.tr
 127.0.0.1 sunstep.org
 127.0.0.1 sunucu7.com
-127.0.0.1 superbahis-affiliate.host.bannerflow.com
 127.0.0.1 superbahis542.com
 127.0.0.1 superbahis681.com
 127.0.0.1 supercell.net
@@ -2775,6 +2668,7 @@
 127.0.0.1 t1.clipkit.com
 127.0.0.1 tabanway.com.tr
 127.0.0.1 taberei.services
+127.0.0.1 taboola.com
 127.0.0.1 tagon.co
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.rd.linksynergy.com
@@ -2807,12 +2701,9 @@
 127.0.0.1 tergideyemek.com
 127.0.0.1 terraclicks.com
 127.0.0.1 testcenter.com.tr
-127.0.0.1 testify.newsfeed.support
 127.0.0.1 theadx.com
-127.0.0.1 theater.newsfeed.support
 127.0.0.1 thedragonbahis.com
 127.0.0.1 themediamove.com
-127.0.0.1 thinker.newsfeed.support
 127.0.0.1 thogethoffic.co
 127.0.0.1 tibletinaminakodumunackopekleri.xyz
 127.0.0.1 tiktokweb.org
@@ -2843,7 +2734,6 @@
 127.0.0.1 tr.bannersdf.com
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 tr3reklam.com
-127.0.0.1 tr43.daspearstreet.com
 127.0.0.1 track-west.mobileadtrading.com
 127.0.0.1 track.actualitesurinternet.info
 127.0.0.1 track.adform.net
@@ -2853,7 +2743,6 @@
 127.0.0.1 track.theagencyone.com
 127.0.0.1 track.vitringez.com
 127.0.0.1 tracker-pm2.erosaffiliates.com
-127.0.0.1 tracker.bannerflow.com
 127.0.0.1 trackers.voodoo-analytics.io
 127.0.0.1 tracking-rce.veeseo.com
 127.0.0.1 tracking-server-prod-1.zenmxapps.com
@@ -2879,7 +2768,6 @@
 127.0.0.1 trafficfactory.biz
 127.0.0.1 trafyield.com
 127.0.0.1 trbetmedia.com
-127.0.0.1 trc.taboola.com
 127.0.0.1 trecurlik.com
 127.0.0.1 trend-tech.net
 127.0.0.1 trgde.adocean.pl
@@ -2947,7 +2835,6 @@
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 uptopopunder.com
-127.0.0.1 urgency.newsfeed.support
 127.0.0.1 us.xmlppcbuzz.com
 127.0.0.1 usabilla.com
 127.0.0.1 uscsigorta.com
@@ -2965,15 +2852,14 @@
 127.0.0.1 uzmanfren.com.tr
 127.0.0.1 uzmanreklam.com
 127.0.0.1 uzreklam.com
+127.0.0.1 v-mate.mobi
 127.0.0.1 v.actionteaser.ru
 127.0.0.1 v.jwpcdn.com
 127.0.0.1 v1.push-checking.com
 127.0.0.1 v2.pronetcdn.com
 127.0.0.1 v3.pronetstatic.com
 127.0.0.1 v3.push-checking.com
-127.0.0.1 va.origin.startappservice.com
 127.0.0.1 valeriaguzellik.com.tr
-127.0.0.1 vapi.apk.v-mate.mobi
 127.0.0.1 vapi.apk.vidmate.net
 127.0.0.1 varimed.com.tr
 127.0.0.1 vars.hotjar.com
@@ -2991,7 +2877,6 @@
 127.0.0.1 vexacion.com
 127.0.0.1 vfsmtbtqducat.com
 127.0.0.1 vhsd.org.tr
-127.0.0.1 viacom.trc.taboola.com
 127.0.0.1 viagra-e.net
 127.0.0.1 viagra-exchange.com
 127.0.0.1 viagra2price.com
@@ -2999,11 +2884,9 @@
 127.0.0.1 viagraul.net
 127.0.0.1 viagrawins.com
 127.0.0.1 vid.applovin.com
-127.0.0.1 video.startappservice.com
 127.0.0.1 videoskor.net
 127.0.0.1 videoustu.com
 127.0.0.1 vidfaebeia.pornmsc.com
-127.0.0.1 vidstat.taboola.com
 127.0.0.1 view.adjust.com
 127.0.0.1 viglink.com
 127.0.0.1 vip-flirtbooks.com
@@ -3017,18 +2900,15 @@
 127.0.0.1 vmedya.com.tr
 127.0.0.1 vodafoneturkey.tt.omtrdc.net
 127.0.0.1 volleyhotelistanbul.com
-127.0.0.1 voucher.newsfeed.support
 127.0.0.1 vovsigorta.com
 127.0.0.1 vpshsuvlh.bid
 127.0.0.1 vugtrack.top
 127.0.0.1 vungle.com
 127.0.0.1 vvhatsappsohbet.site
-127.0.0.1 vyuz.dayagainst.com
 127.0.0.1 wagonistanbul.com
 127.0.0.1 wampum.com.tr
 127.0.0.1 wap.trend-tech.net
 127.0.0.1 wapkalip.tk
-127.0.0.1 warning.newsfeed.support
 127.0.0.1 watchmygirlfriend.tv
 127.0.0.1 watergreen.com.tr
 127.0.0.1 waust.at
@@ -3048,7 +2928,6 @@
 127.0.0.1 webuny.com
 127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 westmente.info
-127.0.0.1 wf.taboola.com
 127.0.0.1 whatsap.club
 127.0.0.1 whatsapp-chat.xyz
 127.0.0.1 whatsappaff.club
@@ -3077,7 +2956,6 @@
 127.0.0.1 wlsuperbahis.adsrv.eacdn.com
 127.0.0.1 wlsuperbahis.eacdn.com
 127.0.0.1 wlthebetend.adsrv.eacdn.com
-127.0.0.1 wnqc.looksslike.com
 127.0.0.1 wolve.pro
 127.0.0.1 workflowboard.com
 127.0.0.1 workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
@@ -3093,7 +2971,6 @@
 127.0.0.1 x.bidswitch.net
 127.0.0.1 x.ligatus.com
 127.0.0.1 x.skimresources.com
-127.0.0.1 xapi.apk.v-mate.mobi
 127.0.0.1 xaqbpvojgi.com
 127.0.0.1 xbtitfm.com
 127.0.0.1 xeroxyaziciservisi.istanbul
@@ -3210,7 +3087,6 @@
 127.0.0.1 zjczref.kentli.org
 127.0.0.1 zlfpmrmkr.com
 127.0.0.1 zlkrhsbkdf.bid
-127.0.0.1 zlm2.daspearstreet.com
 127.0.0.1 znnmzggbw.com
 127.0.0.1 zonguldakescortbu.xyz
 127.0.0.1 zqseasmu.com
