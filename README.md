@@ -46,7 +46,7 @@ Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host 
 4. ```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
 5. ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 6. ```https://someonewhocares.org/hosts/hosts```
-7. ```https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt```
+7. ```https://raw.githubusercontent.com/xorcan/disconnect.me-lists/master/simple_malvertising.txt```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
