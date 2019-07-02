@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
 # Released: 27.06.2019
-# Entries: 3172
+# Entries: 3175
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -85,6 +85,7 @@
 127.0.0.1 a.optnmstr.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.volvelle.tech
+127.0.0.1 a.xfreeservice.com
 127.0.0.1 a1.mzstatic.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 aadserving.com
@@ -947,6 +948,7 @@
 127.0.0.1 citireklam.com
 127.0.0.1 cittaslowturkiye.org
 127.0.0.1 citycollection.com.tr
+127.0.0.1 ciuvo.com
 127.0.0.1 civciv.com.tr
 127.0.0.1 cizyix.gxxcbj.com
 127.0.0.1 cjl58f3agc.com
@@ -967,6 +969,7 @@
 127.0.0.1 client-event-reporter.twitch.tv
 127.0.0.1 clixco.in
 127.0.0.1 clkn.adzopa.com
+127.0.0.1 clksite.com
 127.0.0.1 clnyourpc.com
 127.0.0.1 clotezar.com
 127.0.0.1 cloudservice14.kingsoft-office-service.com
@@ -1457,6 +1460,7 @@
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 heran.com.tr
 127.0.0.1 hey.hellobar.com
+127.0.0.1 hibids10.com
 127.0.0.1 hicpm10.com
 127.0.0.1 highertpushs.com
 127.0.0.1 histats.com
@@ -1871,7 +1875,6 @@
 127.0.0.1 megpacokjce.bid
 127.0.0.1 melbet5.com
 127.0.0.1 melispastakalipcisi.com
-127.0.0.1 meraklikadin.com
 127.0.0.1 mersindermatoloji.org.tr
 127.0.0.1 mersinses.com
 127.0.0.1 merturk.com.tr
@@ -1985,6 +1988,7 @@
 127.0.0.1 modelankara.com
 127.0.0.1 modulepush.com
 127.0.0.1 mokmhp.com
+127.0.0.1 moneymakercdn.com
 127.0.0.1 monitornotifyfriends.info
 127.0.0.1 mookie1.com
 127.0.0.1 moolahmedia.com
@@ -2468,7 +2472,6 @@
 127.0.0.1 rudy.adsnative.com
 127.0.0.1 rugipis.com
 127.0.0.1 runative-syndicate.com
-127.0.0.1 rutubet.info
 127.0.0.1 rvvslhmmbor.com
 127.0.0.1 ryonromlittwit.pro
 127.0.0.1 ryrs2.x.incapdns.net
