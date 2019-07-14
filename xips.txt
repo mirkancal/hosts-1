@@ -1,0 +1,21 @@
+# Title: ❤xorcan❤ Türk ip-list
+# Format: IP List
+# Released: 14.07.2019
+# Entries: 9
+# Details: https://github.com/xorcan/hosts/
+# Issues: https://github.com/xorcan/hosts/issues
+# Source: https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt
+
+# Copyright 2019 xorcan
+
+# xorcan/hosts başla #
+109.73.75.29
+109.73.75.3
+165.22.200.68
+176.55.252.4
+217.195.197.45
+23.107.57.2
+35.194.16.41
+88.255.216.16
+95.169.17.121
+# xorcan/hosts bitir #
