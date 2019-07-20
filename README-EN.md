@@ -65,12 +65,6 @@ By using this list provider, you automatically use the lists listed below. Don't
 3. ```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
 4. ```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
 
-## Beta List
-
-[Here](https://github.com/xorcan/hosts/tree/beta) you can access the beta list tree. Beta List may cause problems on some internet pages. For direct access to the list:
-
-1. ```https://raw.githubusercontent.com/xorcan/hosts/beta/xhosts.txt```
-
 ## [Other lists](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
 ## Exceptions
