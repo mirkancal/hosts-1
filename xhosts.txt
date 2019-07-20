@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 19.07.2019
-# Entries: 3183
+# Released: 20.07.2019
+# Entries: 3182
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -1136,7 +1136,6 @@
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 dodem.com.tr
-127.0.0.1 dogannet.tv
 127.0.0.1 dogirontek.com
 127.0.0.1 dogitur.com.tr
 127.0.0.1 dogus-ads-cdn.dygdigital.com
