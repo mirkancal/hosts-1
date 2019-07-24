@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
 # Released: 24.07.2019
-# Entries: 3202
+# Entries: 3184
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -367,13 +367,11 @@
 127.0.0.1 adworldmedia.com
 127.0.0.1 adx.adform.net
 127.0.0.1 adx.adnxs.com
-127.0.0.1 adx.ligadx.com
 127.0.0.1 adxpremium.com
 127.0.0.1 adzbaba.com
 127.0.0.1 adzerk.net
 127.0.0.1 adzopa.com
 127.0.0.1 aeckcjy.com
-127.0.0.1 afec.betconstruct.com
 127.0.0.1 aff-online.com
 127.0.0.1 aff.indirdik.com
 127.0.0.1 aff.tamvakti.com
@@ -385,7 +383,6 @@
 127.0.0.1 affiliate.funsmobi.com
 127.0.0.1 affiliatenetworkhq.com
 127.0.0.1 affiliates.babylon.com
-127.0.0.1 affiliates.scorbet12.com
 127.0.0.1 affiliateserver.hangikredi.com
 127.0.0.1 affsnetwork.com
 127.0.0.1 afftraf.co
@@ -919,7 +916,6 @@
 127.0.0.1 cdn.livechatinc.com
 127.0.0.1 cdn.llogetfastcach.us
 127.0.0.1 cdn.madanate.com
-127.0.0.1 cdn.makrobetcdn.com
 127.0.0.1 cdn.marjmedya.com
 127.0.0.1 cdn.montiera.com
 127.0.0.1 cdn.mouseflow.com
@@ -1005,7 +1001,6 @@
 127.0.0.1 clotezar.com
 127.0.0.1 cm.steepto.com
 127.0.0.1 cms.quantserve.com
-127.0.0.1 cmsbetconstruct.com
 127.0.0.1 cmsservice.sportdigi.com
 127.0.0.1 cmt.setrowid.com
 127.0.0.1 cnm008.com
@@ -1052,7 +1047,6 @@
 127.0.0.1 crrepo.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 csi.gstatic.com
-127.0.0.1 csm.fr.eu.criteo.net
 127.0.0.1 ctemall.com
 127.0.0.1 ctteknik.com.tr
 127.0.0.1 cuneytugur.com.tr
@@ -1273,7 +1267,6 @@
 127.0.0.1 etstemizlik.com
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 eturkey.ru
-127.0.0.1 eu-swarm-ws.betcoswarm.com
 127.0.0.1 eu.dspmulti.com
 127.0.0.1 eu.xxxfilm-5.ru
 127.0.0.1 eub.echo-ice.com
@@ -1381,7 +1374,6 @@
 127.0.0.1 gemius.pl
 127.0.0.1 genelajans.com
 127.0.0.1 genesis-tr.com
-127.0.0.1 geoapi.bcapps.org
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.performgroup.com
 127.0.0.1 gerstenhaber.org
@@ -1583,8 +1575,6 @@
 127.0.0.1 inegolreklam.net
 127.0.0.1 infolinks.com
 127.0.0.1 infovas.com.tr
-127.0.0.1 ingturkey.tt.omtrdc.net
-127.0.0.1 init-ec.betconstruct.com
 127.0.0.1 init.startappexchange.com
 127.0.0.1 init.supersonicads.com
 127.0.0.1 initiatefresh.com
@@ -1799,7 +1789,6 @@
 127.0.0.1 linkz.net
 127.0.0.1 live.rezync.com
 127.0.0.1 liveadexchanger.com
-127.0.0.1 livechat.mrticketyardim.com
 127.0.0.1 livechatinc.com
 127.0.0.1 liveinternet.ru
 127.0.0.1 liverail.com
@@ -2102,7 +2091,6 @@
 127.0.0.1 nizamogluevdenevenakliyat.com
 127.0.0.1 nizansigorta.com
 127.0.0.1 nlwy0.com
-127.0.0.1 nodelds.5handikap.com
 127.0.0.1 noktapc.com.tr
 127.0.0.1 nolipz.com
 127.0.0.1 notabenemessage.com
@@ -2504,7 +2492,6 @@
 127.0.0.1 s3.adbers.com
 127.0.0.1 s3vby.x.incapdns.net
 127.0.0.1 s6.chatango.com
-127.0.0.1 s6938.chomikuj.pl
 127.0.0.1 sabasanat.com.tr
 127.0.0.1 sadecereklam.net
 127.0.0.1 safariinsaat.com.tr
@@ -2546,6 +2533,7 @@
 127.0.0.1 scheme.mobpowertech.com
 127.0.0.1 schnson-honald.com
 127.0.0.1 scopriteistanbul.com
+127.0.0.1 scorbet12.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 script.hotjar.com
 127.0.0.1 scripts.sophus3.com
@@ -2690,7 +2678,6 @@
 127.0.0.1 st.tmgrup.com.tr
 127.0.0.1 sta.com.tr
 127.0.0.1 stage-assets.applovin.com
-127.0.0.1 stags.bluekai.com
 127.0.0.1 stampshire.info
 127.0.0.1 stantonchase.com.tr
 127.0.0.1 starlader.host
@@ -2701,15 +2688,12 @@
 127.0.0.1 static-addtoany-com.cdn.ampproject.org
 127.0.0.1 static-ads.akamaized.net
 127.0.0.1 static.adxadserv.com
-127.0.0.1 static.clicktripz.com
-127.0.0.1 static.criteo.net
 127.0.0.1 static.everyplay.com
 127.0.0.1 static.exosrv.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.indirveoyna.com
 127.0.0.1 statictbk.com
 127.0.0.1 stationsoft.com.tr
-127.0.0.1 statistics.bcapps.org
 127.0.0.1 stats.acunn.com
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.pagefair.com
@@ -2770,7 +2754,6 @@
 127.0.0.1 taberei.services
 127.0.0.1 taboola.com
 127.0.0.1 tagon.co
-127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.rd.linksynergy.com
 127.0.0.1 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 127.0.0.1 tahinlim.com.tr
@@ -3013,7 +2996,6 @@
 127.0.0.1 visit.hepsiburada.com
 127.0.0.1 vknrfwwxhxaxupqp.pro
 127.0.0.1 vmedya.com.tr
-127.0.0.1 vodafoneturkey.tt.omtrdc.net
 127.0.0.1 volleyhotelistanbul.com
 127.0.0.1 vovsigorta.com
 127.0.0.1 vpshsuvlh.bid
