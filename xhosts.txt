@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 20.07.2019
-# Entries: 3182
+# Released: 24.07.2019
+# Entries: 3202
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -24,6 +24,7 @@
 127.0.0.1 168logger.com
 127.0.0.1 16yp1ji92a.com
 127.0.0.1 197.25.189.78.static.turktelekom.com.tr
+127.0.0.1 1makrobetmedya.com
 127.0.0.1 1sana1bana.estepeta.com.tr
 127.0.0.1 1virusyakalandi.xyz
 127.0.0.1 1x-bet.mobi
@@ -68,6 +69,7 @@
 127.0.0.1 50bahisnow.com
 127.0.0.1 518580904.log.optimizely.com
 127.0.0.1 5588389.com
+127.0.0.1 5handikap.com
 127.0.0.1 600bets10.com
 127.0.0.1 602d76e204c032.com
 127.0.0.1 62m33.x.incapdns.net
@@ -798,6 +800,7 @@
 127.0.0.1 bnc.lt
 127.0.0.1 bnewsblite.me
 127.0.0.1 bnsjb1ab1e.com
+127.0.0.1 bnwaff.com
 127.0.0.1 bo.facesbet.com
 127.0.0.1 bocekilaclama.gen.tr
 127.0.0.1 bocekilaclamazeytinburnu.net
@@ -876,6 +879,7 @@
 127.0.0.1 cansesiasknefesi.com
 127.0.0.1 capcanlisohbet.site
 127.0.0.1 casalemedia.com
+127.0.0.1 casinoslot81.com
 127.0.0.1 catchtheclick.com
 127.0.0.1 caydegirmeni.bel.tr
 127.0.0.1 cayturnakliyat.com
@@ -915,6 +919,7 @@
 127.0.0.1 cdn.livechatinc.com
 127.0.0.1 cdn.llogetfastcach.us
 127.0.0.1 cdn.madanate.com
+127.0.0.1 cdn.makrobetcdn.com
 127.0.0.1 cdn.marjmedya.com
 127.0.0.1 cdn.montiera.com
 127.0.0.1 cdn.mouseflow.com
@@ -962,8 +967,10 @@
 127.0.0.1 cheapcialisnow.net
 127.0.0.1 cheprihel.host
 127.0.0.1 chnghl.space
+127.0.0.1 chomikuj.pl
 127.0.0.1 chuckyluck.com
 127.0.0.1 ci-mpsnare.iovation.com
+127.0.0.1 cidimesaun.pro
 127.0.0.1 cinarlastik.com.tr
 127.0.0.1 cinealanya.com
 127.0.0.1 cinerreklam.com.tr
@@ -1266,6 +1273,7 @@
 127.0.0.1 etstemizlik.com
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 eturkey.ru
+127.0.0.1 eu-swarm-ws.betcoswarm.com
 127.0.0.1 eu.dspmulti.com
 127.0.0.1 eu.xxxfilm-5.ru
 127.0.0.1 eub.echo-ice.com
@@ -1576,6 +1584,7 @@
 127.0.0.1 infolinks.com
 127.0.0.1 infovas.com.tr
 127.0.0.1 ingturkey.tt.omtrdc.net
+127.0.0.1 init-ec.betconstruct.com
 127.0.0.1 init.startappexchange.com
 127.0.0.1 init.supersonicads.com
 127.0.0.1 initiatefresh.com
@@ -1790,6 +1799,7 @@
 127.0.0.1 linkz.net
 127.0.0.1 live.rezync.com
 127.0.0.1 liveadexchanger.com
+127.0.0.1 livechat.mrticketyardim.com
 127.0.0.1 livechatinc.com
 127.0.0.1 liveinternet.ru
 127.0.0.1 liverail.com
@@ -1863,6 +1873,7 @@
 127.0.0.1 mbsankaranakliyat.com
 127.0.0.1 mc.admetrica.ru
 127.0.0.1 mc.webvisor.org
+127.0.0.1 mc.yandex.ru
 127.0.0.1 med-api.admost.com
 127.0.0.1 med.heyzap.com
 127.0.0.1 med4ad.com
@@ -2091,6 +2102,7 @@
 127.0.0.1 nizamogluevdenevenakliyat.com
 127.0.0.1 nizansigorta.com
 127.0.0.1 nlwy0.com
+127.0.0.1 nodelds.5handikap.com
 127.0.0.1 noktapc.com.tr
 127.0.0.1 nolipz.com
 127.0.0.1 notabenemessage.com
@@ -2492,6 +2504,7 @@
 127.0.0.1 s3.adbers.com
 127.0.0.1 s3vby.x.incapdns.net
 127.0.0.1 s6.chatango.com
+127.0.0.1 s6938.chomikuj.pl
 127.0.0.1 sabasanat.com.tr
 127.0.0.1 sadecereklam.net
 127.0.0.1 safariinsaat.com.tr
@@ -2613,6 +2626,7 @@
 127.0.0.1 skycloud.biz
 127.0.0.1 skyhorse.site
 127.0.0.1 skypidar.club
+127.0.0.1 slotbar17.com
 127.0.0.1 smaclick.com
 127.0.0.1 smart.ncdn.pw
 127.0.0.1 smart.tinyhoneybee.com
@@ -2695,6 +2709,7 @@
 127.0.0.1 static.indirveoyna.com
 127.0.0.1 statictbk.com
 127.0.0.1 stationsoft.com.tr
+127.0.0.1 statistics.bcapps.org
 127.0.0.1 stats.acunn.com
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.pagefair.com
@@ -2717,6 +2732,8 @@
 127.0.0.1 studads.com
 127.0.0.1 su.addthis.com
 127.0.0.1 subehalkbank-tr.com
+127.0.0.1 sultanbet213.com
+127.0.0.1 sultanpromo.com
 127.0.0.1 sumer.gen.tr
 127.0.0.1 sunstep.org
 127.0.0.1 sunucu7.com
@@ -2869,6 +2886,7 @@
 127.0.0.1 tt1.openload.co
 127.0.0.1 ttnet.yandex.com.tr
 127.0.0.1 tuerks-tr.com
+127.0.0.1 tulipbet102.com
 127.0.0.1 tuminsaat.com
 127.0.0.1 tunca.bel.tr
 127.0.0.1 turbofileindir.com
@@ -2953,6 +2971,7 @@
 127.0.0.1 v2.pronetcdn.com
 127.0.0.1 v3.pronetstatic.com
 127.0.0.1 v3.push-checking.com
+127.0.0.1 vajubhai.com
 127.0.0.1 valeriaguzellik.com.tr
 127.0.0.1 vapi.apk.vidmate.net
 127.0.0.1 varimed.com.tr
@@ -3029,6 +3048,7 @@
 127.0.0.1 whatsapp-chat.xyz
 127.0.0.1 whatsappaff.club
 127.0.0.1 whatsappsohbet.site
+127.0.0.1 whatsappsohbet.top
 127.0.0.1 whatsappsohbetet.com
 127.0.0.1 whatsappsohbetim.net
 127.0.0.1 whatshelp.io
