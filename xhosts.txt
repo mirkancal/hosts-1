@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
 # Released: 25.07.2019
-# Entries: 3131
+# Entries: 3129
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -1785,11 +1785,9 @@
 127.0.0.1 lordspalacebet3.com
 127.0.0.1 lordspalacebet4.com
 127.0.0.1 lordspalacebet5.com
-127.0.0.1 lordspalacebet5.com
 127.0.0.1 lordspalacebet6.com
 127.0.0.1 lordspalacebet7.com
 127.0.0.1 lordspalacebet8.com
-127.0.0.1 lordspalacebet9.com
 127.0.0.1 lordspalacebet9.com
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 lubitpiva.jdevcloud.com
