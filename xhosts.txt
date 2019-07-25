@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 24.07.2019
-# Entries: 3184
+# Released: 25.07.2019
+# Entries: 3131
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -121,7 +121,6 @@
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad.1serve-sys.com
 127.0.0.1 ad.360yield.com
-127.0.0.1 ad.admitad.com
 127.0.0.1 ad.afftrck.com
 127.0.0.1 ad.antventure.com
 127.0.0.1 ad.api.kaffnet.com
@@ -339,7 +338,6 @@
 127.0.0.1 adsonwest.com
 127.0.0.1 adsp.ciner.com.tr
 127.0.0.1 adsp.haberturk.com
-127.0.0.1 adspaces.ero-advertising.com
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsupp.network
 127.0.0.1 adsymptotic.com
@@ -388,7 +386,6 @@
 127.0.0.1 afftraf.co
 127.0.0.1 afge.info
 127.0.0.1 afriflatry.co
-127.0.0.1 afyontso.org.tr
 127.0.0.1 afyonturkreklam.com
 127.0.0.1 ag.innovid.com
 127.0.0.1 ag88xx974443xxrw48356458vs3.website
@@ -583,9 +580,7 @@
 127.0.0.1 asturkgrup.com
 127.0.0.1 asturkkimya.com
 127.0.0.1 asturkmadencilik.com
-127.0.0.1 asuder.org.tr
 127.0.0.1 at.ncmdph.com
-127.0.0.1 atabey.k12.tr
 127.0.0.1 ataglobal.com.tr
 127.0.0.1 atakantarimci.com.tr
 127.0.0.1 atakoyescort.com
@@ -654,7 +649,6 @@
 127.0.0.1 bap.com.tr
 127.0.0.1 barbieoyunlari.oyunmemo.com
 127.0.0.1 bashirian.biz
-127.0.0.1 baskale.bel.tr
 127.0.0.1 baspinarlartulumpeyniri.com
 127.0.0.1 basvuruformu.ml
 127.0.0.1 basvuruformu1.ml
@@ -770,7 +764,6 @@
 127.0.0.1 bircansigorta.com
 127.0.0.1 birebirpazar.com
 127.0.0.1 bireysel-sube--giris-tr.com
-127.0.0.1 birfidanbirumut.org.tr
 127.0.0.1 birkaetiket.com.tr
 127.0.0.1 birlesikbir.com.tr
 127.0.0.1 birlikbilisim.com.tr
@@ -785,8 +778,6 @@
 127.0.0.1 bk1x.mobi
 127.0.0.1 bk1xbet.mobi
 127.0.0.1 bkrtx.com
-127.0.0.1 bla.blok.link
-127.0.0.1 blaa.blok.link
 127.0.0.1 block.s2block.com
 127.0.0.1 blog.jet-istanbul.com
 127.0.0.1 blok.link
@@ -838,7 +829,6 @@
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 bundle-adee4.firebaseio.com
 127.0.0.1 burcelik.com.tr
-127.0.0.1 burdur-bld.gov.tr
 127.0.0.1 burningpush.info
 127.0.0.1 bursabesevlernakliyat.com
 127.0.0.1 bursakombiservisi.web.tr
@@ -856,7 +846,6 @@
 127.0.0.1 bysound.com.tr
 127.0.0.1 byteknik.com.tr.ht
 127.0.0.1 c.amazon-adsystem.com
-127.0.0.1 c.blok.link
 127.0.0.1 c.gazetevatan.com
 127.0.0.1 c.pub.network
 127.0.0.1 c1.adform.net
@@ -878,7 +867,6 @@
 127.0.0.1 casalemedia.com
 127.0.0.1 casinoslot81.com
 127.0.0.1 catchtheclick.com
-127.0.0.1 caydegirmeni.bel.tr
 127.0.0.1 cayturnakliyat.com
 127.0.0.1 cbsturk.com
 127.0.0.1 cdn-adn.rayjump.com
@@ -1131,7 +1119,6 @@
 127.0.0.1 districtm-match.dotomi.com
 127.0.0.1 divatraffic.bid
 127.0.0.1 diyetyemek.com.tr
-127.0.0.1 dkib.org.tr
 127.0.0.1 dlyads.adk2x.com
 127.0.0.1 dmgkagit.com.tr
 127.0.0.1 dmp.adform.net
@@ -1241,7 +1228,6 @@
 127.0.0.1 ersankaravan.com
 127.0.0.1 ersbaca.com.tr
 127.0.0.1 eryunhali.com.tr
-127.0.0.1 erzincansydv.gov.tr
 127.0.0.1 escinteractive.com
 127.0.0.1 escort-russian.com
 127.0.0.1 escort.gecekuluplerikibris.com
@@ -1254,7 +1240,6 @@
 127.0.0.1 eslitrezo.com
 127.0.0.1 essedaccur.info
 127.0.0.1 essem.com.tr
-127.0.0.1 estab.org.tr
 127.0.0.1 esteticaretiro.com
 127.0.0.1 esvtrn.me
 127.0.0.1 etcodes.com
@@ -1275,7 +1260,6 @@
 127.0.0.1 event.demirorenteknoloji.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 eventpark.com.tr
-127.0.0.1 events.appsflyer.com
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 evkurnakliyat.com.tr
@@ -1289,7 +1273,6 @@
 127.0.0.1 exploore.yas-tr.com
 127.0.0.1 extremefreegames.com
 127.0.0.1 eyeviewads.com
-127.0.0.1 eyh.org.tr
 127.0.0.1 facebook.com.hocalihaber.com
 127.0.0.1 faggrim.com
 127.0.0.1 faktoryapi.com.tr
@@ -1353,7 +1336,6 @@
 127.0.0.1 garantiinsaat.net
 127.0.0.1 garantiy.com
 127.0.0.1 gate.hockeyapp.net
-127.0.0.1 gatr.hit.gemius.pl
 127.0.0.1 gazeteankara.net
 127.0.0.1 gazeteoku.gen.tr
 127.0.0.1 gaziantepbalon.net
@@ -1364,7 +1346,6 @@
 127.0.0.1 gazianteptesisat.com
 127.0.0.1 gazianteptuhafiye.com
 127.0.0.1 gbf2016.medipol.edu.tr
-127.0.0.1 gdetr.hit.gemius.pl
 127.0.0.1 gdmconvtrck.com
 127.0.0.1 geacugl.jwmyba.biz
 127.0.0.1 gebadu.com
@@ -1387,7 +1368,6 @@
 127.0.0.1 ggdbdnll.bidforthis.com
 127.0.0.1 ghoto-12.win
 127.0.0.1 gigya.com
-127.0.0.1 giresuneczaciodasi.org.tr
 127.0.0.1 giresunhaberi.com
 127.0.0.1 git.emarketing724.com
 127.0.0.1 giydirmeoyunlari.oyunmemo.com
@@ -1397,7 +1377,6 @@
 127.0.0.1 go-mpulse.net
 127.0.0.1 go.admost.com
 127.0.0.1 go.coolthingstofind.xyz
-127.0.0.1 go.ero-advertising.com
 127.0.0.1 go.hepsibahis94.com
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go.padstm.com
@@ -1457,7 +1436,6 @@
 127.0.0.1 halicistanbulemlak.net
 127.0.0.1 halimofset.com.tr
 127.0.0.1 halkalitokievleri.com
-127.0.0.1 hamamozu.gov.tr
 127.0.0.1 happilyswitching.net
 127.0.0.1 hasatvet.com.tr
 127.0.0.1 hasekimuhendislik.com
@@ -1484,7 +1462,6 @@
 127.0.0.1 histats.com
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.dogannet.tv
-127.0.0.1 hit.gemius.pl
 127.0.0.1 hit.mynet.com
 127.0.0.1 hitcpm.com
 127.0.0.1 hitgelsin.com
@@ -1540,7 +1517,6 @@
 127.0.0.1 ilan006.gq
 127.0.0.1 ilhankuyumculuk.com.tr
 127.0.0.1 ilividnewtab.com
-127.0.0.1 ilke.org.tr
 127.0.0.1 ilkhaberadana.com
 127.0.0.1 iloacmoam.com
 127.0.0.1 image6.pubmatic.com
@@ -1637,8 +1613,6 @@
 127.0.0.1 istbagcilr.com
 127.0.0.1 istekemlak.com.tr
 127.0.0.1 istepuleto.com
-127.0.0.1 isuk.org.tr
-127.0.0.1 itocpl.k12.tr
 127.0.0.1 iuwniunver.site
 127.0.0.1 ivr.com.tr
 127.0.0.1 ivreprsident.tk
@@ -1715,7 +1689,6 @@
 127.0.0.1 kayserihabertoolbar.media-toolbar.com
 127.0.0.1 kayserimodern.com
 127.0.0.1 kazannakliyat.com
-127.0.0.1 kazimkarabekirtarim.gov.tr
 127.0.0.1 kelebek.gen.tr
 127.0.0.1 kentli.org
 127.0.0.1 kewkr.lovechats.org
@@ -1726,7 +1699,6 @@
 127.0.0.1 kinonew.pro
 127.0.0.1 kiosked.com
 127.0.0.1 kirikkalemuhendislik.com
-127.0.0.1 kirkagac.bel.tr
 127.0.0.1 kirlioglumuhendislik.com
 127.0.0.1 kisaltma.link
 127.0.0.1 kissmetrics.com
@@ -1738,7 +1710,6 @@
 127.0.0.1 komsupeynirdukkani.com
 127.0.0.1 konjacteaturkiye.com
 127.0.0.1 konlas.com.tr
-127.0.0.1 konya.bel.tr
 127.0.0.1 konyaescortlar.me
 127.0.0.1 konyavakfi.nl
 127.0.0.1 kos.interseek.si
@@ -1748,7 +1719,6 @@
 127.0.0.1 ksu.com.tr
 127.0.0.1 kuaforpazari.com
 127.0.0.1 kulaksizlar.com
-127.0.0.1 kuplu.bel.tr
 127.0.0.1 kurlipush.com
 127.0.0.1 kurtkoyays.com
 127.0.0.1 kurulum.xyz
@@ -1807,12 +1777,22 @@
 127.0.0.1 london-asian-escorts.com
 127.0.0.1 longline.com.tr
 127.0.0.1 looksslike.com
+127.0.0.1 lordspalacebet.com
+127.0.0.1 lordspalacebet0.com
+127.0.0.1 lordspalacebet1.com
+127.0.0.1 lordspalacebet10.com
+127.0.0.1 lordspalacebet2.com
+127.0.0.1 lordspalacebet3.com
+127.0.0.1 lordspalacebet4.com
 127.0.0.1 lordspalacebet5.com
+127.0.0.1 lordspalacebet5.com
+127.0.0.1 lordspalacebet6.com
+127.0.0.1 lordspalacebet7.com
+127.0.0.1 lordspalacebet8.com
+127.0.0.1 lordspalacebet9.com
 127.0.0.1 lordspalacebet9.com
 127.0.0.1 lptag.liveperson.net
-127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 lubitpiva.jdevcloud.com
-127.0.0.1 luleburgazzob.org.tr
 127.0.0.1 lvodomi.info
 127.0.0.1 lxcfaekywx.com
 127.0.0.1 m6c8a.mobzaz.com
@@ -1887,13 +1867,11 @@
 127.0.0.1 melbet5.com
 127.0.0.1 melispastakalipcisi.com
 127.0.0.1 meritroyal200.bet
-127.0.0.1 mersindermatoloji.org.tr
 127.0.0.1 mersinses.com
 127.0.0.1 merturk.com.tr
 127.0.0.1 mervecapas.com.tr
 127.0.0.1 mervereklam.com.tr
 127.0.0.1 mervinsaat.com.tr
-127.0.0.1 mesaj-geldi.blok.link
 127.0.0.1 mesamed.com.tr
 127.0.0.1 mesanasansor.com.tr
 127.0.0.1 mesmobil.com.tr
@@ -2369,7 +2347,6 @@
 127.0.0.1 realistikbayi.live
 127.0.0.1 reallygoodlink.extremefreegames.com
 127.0.0.1 recs.engageya.com
-127.0.0.1 red.blok.link
 127.0.0.1 redirect.privateadtracking.com
 127.0.0.1 redirector.gvt1.com
 127.0.0.1 ref.bet3go.com
@@ -2383,7 +2360,6 @@
 127.0.0.1 refpaumckl.top
 127.0.0.1 refpaydc.top
 127.0.0.1 regadsgx.com
-127.0.0.1 register.appsflyer.com
 127.0.0.1 rejxv.adsbtrk.com
 127.0.0.1 rejxv.track4ref.com
 127.0.0.1 rek.hepaffiliates.com
@@ -2438,7 +2414,6 @@
 127.0.0.1 reviveservers.com
 127.0.0.1 revotas.com
 127.0.0.1 revsci.net
-127.0.0.1 reward8955.wtflife118.life
 127.0.0.1 rexus.com.tr
 127.0.0.1 reyden-x.com
 127.0.0.1 rlbvwdviqx.com
@@ -2481,7 +2456,6 @@
 127.0.0.1 s.adklik.com.tr
 127.0.0.1 s.adroll.com
 127.0.0.1 s.amazon-adsystem.com
-127.0.0.1 s.blok.link
 127.0.0.1 s.cpx.to
 127.0.0.1 s.dogannet.tv
 127.0.0.1 s.pubmine.com
@@ -2577,7 +2551,6 @@
 127.0.0.1 sevgilimistanbul.com
 127.0.0.1 seyahatdanismani.net
 127.0.0.1 seyekanakliyat.com
-127.0.0.1 sg.k12.tr
 127.0.0.1 shahkara.com.tr
 127.0.0.1 shakesmobi.com
 127.0.0.1 sharkbayi.cf
@@ -2695,7 +2668,6 @@
 127.0.0.1 statictbk.com
 127.0.0.1 stationsoft.com.tr
 127.0.0.1 stats.acunn.com
-127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.pagefair.com
 127.0.0.1 stats.posta.com.tr
 127.0.0.1 stats.tv8.com.tr
@@ -2744,7 +2716,6 @@
 127.0.0.1 syndicpop.com
 127.0.0.1 system-security-com.xyz
 127.0.0.1 t.actionteaser.ru
-127.0.0.1 t.appsflyer.com
 127.0.0.1 t.hoood.info
 127.0.0.1 t.r-tb.com
 127.0.0.1 t.skimresources.com
@@ -2768,9 +2739,7 @@
 127.0.0.1 tarimaslara.com
 127.0.0.1 tasdanlar.com.tr
 127.0.0.1 tasdanyapi.com.tr
-127.0.0.1 tdms.saglik.gov.tr
 127.0.0.1 tecnocoffee.com.tr
-127.0.0.1 tedizmir.k12.tr
 127.0.0.1 teenomania.com
 127.0.0.1 tekirmak.com.tr
 127.0.0.1 teknovia.com.tr
@@ -2802,7 +2771,6 @@
 127.0.0.1 tmnsync.target.com
 127.0.0.1 tnewurl1.com
 127.0.0.1 todoblask15.host
-127.0.0.1 tog.org.tr
 127.0.0.1 token.rubiconproject.com
 127.0.0.1 toolbartr.mobi
 127.0.0.1 tools.bongacams.com
@@ -2819,7 +2787,6 @@
 127.0.0.1 tr-books.softwarer.us
 127.0.0.1 tr-gameland.com
 127.0.0.1 tr.bannersdf.com
-127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 tr3reklam.com
 127.0.0.1 track-p958o4.link
 127.0.0.1 track-west.mobileadtrading.com
@@ -2871,7 +2838,6 @@
 127.0.0.1 tuerks-tr.com
 127.0.0.1 tulipbet102.com
 127.0.0.1 tuminsaat.com
-127.0.0.1 tunca.bel.tr
 127.0.0.1 turbofileindir.com
 127.0.0.1 turhantarim.com
 127.0.0.1 turinr.eb2a.com
@@ -2902,7 +2868,6 @@
 127.0.0.1 turn.com
 127.0.0.1 turngrind.com
 127.0.0.1 tursanmakine.com.tr
-127.0.0.1 tuzladevlethastanesi.gov.tr
 127.0.0.1 tweetlerim.gen.tr
 127.0.0.1 tynt.com
 127.0.0.1 ua.supersonicads.com
@@ -2926,7 +2891,6 @@
 127.0.0.1 unyesigorta.com.tr
 127.0.0.1 uod2quk646.com
 127.0.0.1 upahco.go2affise.com
-127.0.0.1 ups-spor.org.tr
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 uptoabc.com
@@ -2960,7 +2924,6 @@
 127.0.0.1 varimed.com.tr
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.reyden-x.com
-127.0.0.1 vavek.org.tr
 127.0.0.1 vcxqcjov.com
 127.0.0.1 vdaffiliates.com
 127.0.0.1 vebadu.com
@@ -2972,7 +2935,6 @@
 127.0.0.1 verification.com.treachas.tk
 127.0.0.1 vexacion.com
 127.0.0.1 vfsmtbtqducat.com
-127.0.0.1 vhsd.org.tr
 127.0.0.1 viagra-e.net
 127.0.0.1 viagra-exchange.com
 127.0.0.1 viagra2price.com
@@ -3042,20 +3004,8 @@
 127.0.0.1 wildturkeybourbon.com.au
 127.0.0.1 winaffiliates.com
 127.0.0.1 windiretodaserra.co.uk
-127.0.0.1 wl1xbet.adsrv.eacdn.com
-127.0.0.1 wlefbet.adsrv.eacdn.com
-127.0.0.1 wlgoldenbahis.adsrv.eacdn.com
 127.0.0.1 wlgtaffiliates.eacdn.com
-127.0.0.1 wlngsbet.adsrv.eacdn.com
-127.0.0.1 wlpashagaming.adsrv.eacdn.com
-127.0.0.1 wlperabet.adsrv.eacdn.com
-127.0.0.1 wlpiabet.adsrv.eacdn.com
-127.0.0.1 wlpronet.adsrv.eacdn.com
-127.0.0.1 wlpulibet.adsrv.eacdn.com
-127.0.0.1 wlsavoybetting.adsrv.eacdn.com
-127.0.0.1 wlsuperbahis.adsrv.eacdn.com
 127.0.0.1 wlsuperbahis.eacdn.com
-127.0.0.1 wlthebetend.adsrv.eacdn.com
 127.0.0.1 wolve.pro
 127.0.0.1 workflowboard.com
 127.0.0.1 workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
@@ -3094,9 +3044,7 @@
 127.0.0.1 xozifo.icu
 127.0.0.1 xsport.mobi
 127.0.0.1 xsports.mobi
-127.0.0.1 xx.blok.link
 127.0.0.1 xxxfilm-5.ru
-127.0.0.1 xyz.blok.link
 127.0.0.1 xyzliveads.com
 127.0.0.1 xyztanitim.com
 127.0.0.1 yakinindaki-kizlar.info
@@ -3187,7 +3135,6 @@
 127.0.0.1 zindeinsaat.com
 127.0.0.1 ziraat-bireysel.ml
 127.0.0.1 ziraat-online-tr.cf
-127.0.0.1 zjczref.kentli.org
 127.0.0.1 zlfpmrmkr.com
 127.0.0.1 zlkrhsbkdf.bid
 127.0.0.1 znnmzggbw.com
