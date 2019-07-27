@@ -1,0 +1,24 @@
+# Title: ❤xorcan❤ Türk element-ad-list
+# Format: Element Bloklist
+# Released: 27.07.2019
+# Entries: 8
+# Details: https://github.com/xorcan/hosts/
+# Issues: https://github.com/xorcan/hosts/issues
+# Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
+# License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
+
+# Copyright 2019 xorcan
+
+127.0.0.1  localhost
+::1  localhost
+
+# xorcan/hosts başla #
+incisozluk.com.tr###b-masthead
+cartoonnetwork.com.tr##.middle.ad
+bit.ly/2Ctslt0
+bit.ly/2QmI8BT
+dizilla.com###preRollVideoAdTimer
+dizilla.com###preRollVideoAd
+dizilla.com##a.block:nth-of-type(2)
+dizilla.com##a.block:nth-of-type(1)
+# xorcan/hosts bitir #
