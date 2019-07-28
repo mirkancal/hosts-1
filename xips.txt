@@ -8,6 +8,8 @@
 # License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
 # Copyright 2019 xorcan
+# Reklam bildirimi / iletişim: xorcan@yandex.com
+# Report an ad / contact: xorcan@yandex.com
 
 # xorcan/hosts başla #
 109.73.75.29
