@@ -8,6 +8,8 @@
 # License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
 # Copyright 2019 xorcan
+# Reklam bildirimi / iletişim: xorcan@yandex.com
+# Report an ad / contact: xorcan@yandex.com
 
 127.0.0.1  localhost
 ::1  localhost
@@ -88,6 +90,14 @@
 127.0.0.1 a-v2.presage.io
 127.0.0.1 a.adnium.com
 127.0.0.1 a.ads1.msads.net
+127.0.0.1 1perabetmedya.com
+127.0.0.1 1makrobetmedya.com
+127.0.0.1 perabetmedya.com
+127.0.0.1 makrobetmedya.com
+127.0.0.1 2perabetmedya.com
+127.0.0.1 2makrobetmedya.com
+127.0.0.1 3perabetmedya.com
+127.0.0.1 3makrobetmedya.com
 127.0.0.1 a.ads2.msads.net
 127.0.0.1 a.applovin.com
 127.0.0.1 a.applvn.com
