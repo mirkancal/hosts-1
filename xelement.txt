@@ -1,13 +1,15 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 27.07.2019
-# Entries: 8
+# Released: 28.07.2019
+# Entries: 15
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
 # License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
 # Copyright 2019 xorcan
+# Reklam bildirimi / iletişim: xorcan@yandex.com
+# Report an ad / contact: xorcan@yandex.com
 
 # xorcan/hosts başla #
 incisozluk.com.tr###b-masthead
@@ -18,4 +20,11 @@ dizilla.com###preRollVideoAdTimer
 dizilla.com###preRollVideoAd
 dizilla.com##a.block:nth-of-type(2)
 dizilla.com##a.block:nth-of-type(1)
+||*/elex-pageskin-yeni.jpg
+filmw.org###videoreklam
+filmw.org##.hoverZoomLink.loaded
+||*/filmw3.gif$image
+||*/pageskinlord150withouheader.jpg
+||*/betasus40sn.mov
+||*/wp-content/themes/Wpdeo_Rise/*/images/yatay.jpg$image
 # xorcan/hosts bitir #
