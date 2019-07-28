@@ -9,9 +9,6 @@
 
 # Copyright 2019 xorcan
 
-127.0.0.1  localhost
-::1  localhost
-
 # xorcan/hosts başla #
 incisozluk.com.tr###b-masthead
 cartoonnetwork.com.tr##.middle.ad
