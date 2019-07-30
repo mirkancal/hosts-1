@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 25.07.2019
-# Entries: 3129
+# Released: 31.07.2019
+# Entries: 3164
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -27,6 +27,7 @@
 127.0.0.1 16yp1ji92a.com
 127.0.0.1 197.25.189.78.static.turktelekom.com.tr
 127.0.0.1 1makrobetmedya.com
+127.0.0.1 1perabetmedya.com
 127.0.0.1 1sana1bana.estepeta.com.tr
 127.0.0.1 1virusyakalandi.xyz
 127.0.0.1 1x-bet.mobi
@@ -58,13 +59,17 @@
 127.0.0.1 267bets10.com
 127.0.0.1 286bets10.com
 127.0.0.1 2clicks.xyz
+127.0.0.1 2makrobetmedya.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
+127.0.0.1 2perabetmedya.com
 127.0.0.1 3.hdxvipizle.net
 127.0.0.1 321oyna.com
 127.0.0.1 3550999.com
 127.0.0.1 389807.com
 127.0.0.1 3efetarim.com
+127.0.0.1 3makrobetmedya.com
+127.0.0.1 3perabetmedya.com
 127.0.0.1 41df76c67812005c.com
 127.0.0.1 4club.com
 127.0.0.1 4turka.com
@@ -90,14 +95,6 @@
 127.0.0.1 a-v2.presage.io
 127.0.0.1 a.adnium.com
 127.0.0.1 a.ads1.msads.net
-127.0.0.1 1perabetmedya.com
-127.0.0.1 1makrobetmedya.com
-127.0.0.1 perabetmedya.com
-127.0.0.1 makrobetmedya.com
-127.0.0.1 2perabetmedya.com
-127.0.0.1 2makrobetmedya.com
-127.0.0.1 3perabetmedya.com
-127.0.0.1 3makrobetmedya.com
 127.0.0.1 a.ads2.msads.net
 127.0.0.1 a.applovin.com
 127.0.0.1 a.applvn.com
@@ -1162,10 +1159,12 @@
 127.0.0.1 duginamis.com
 127.0.0.1 duldoparty.club
 127.0.0.1 dxkhboqrrimy.bid
+127.0.0.1 e-kitap.biz
 127.0.0.1 earandmarketing.com
 127.0.0.1 easygamepromo.com
 127.0.0.1 eb2.3lift.com
 127.0.0.1 eb2a.com
+127.0.0.1 ebookpdfozetioku.xyz
 127.0.0.1 eco.ticaret1.club
 127.0.0.1 ecpms.net
 127.0.0.1 ecs4.engageya.com
@@ -1220,6 +1219,7 @@
 127.0.0.1 eokul-meb.com
 127.0.0.1 eokulegitim.com
 127.0.0.1 eotech-yoqblou5gqrdrn.netdna-ssl.com
+127.0.0.1 epdfkitapindir.com
 127.0.0.1 epoksizeminankara.com
 127.0.0.1 eptwulil.com
 127.0.0.1 eqads.com
@@ -1323,6 +1323,7 @@
 127.0.0.1 formens.pro
 127.0.0.1 fortumo.com
 127.0.0.1 fosclhrsdhhn.com
+127.0.0.1 fotos-paisajes.net
 127.0.0.1 foxpush.com
 127.0.0.1 fpsdbfo.paylasimnet.com
 127.0.0.1 free.classicgift.download
@@ -1556,6 +1557,7 @@
 127.0.0.1 indirimpazarim.com
 127.0.0.1 indirimtakibi.com
 127.0.0.1 indirizle.ohost.de
+127.0.0.1 indirkitaplarpdf.com
 127.0.0.1 indirson.com
 127.0.0.1 indisancal.com
 127.0.0.1 inegolreklam.net
@@ -1638,6 +1640,7 @@
 127.0.0.1 izmirtente.info
 127.0.0.1 izmirurunleri.com
 127.0.0.1 izmiryargiakademi.com
+127.0.0.1 jabenusir.ga
 127.0.0.1 jackpotcitycasino.se
 127.0.0.1 jadekusadasi.com
 127.0.0.1 jadserve.postrelease.com
@@ -1664,6 +1667,7 @@
 127.0.0.1 jumbomarket.live
 127.0.0.1 junbi-tracker.com
 127.0.0.1 just-news.pro
+127.0.0.1 juzifexyfowo.gq
 127.0.0.1 jvba.gxxcbj.com
 127.0.0.1 jwpltx.com
 127.0.0.1 jwzuohydf.com
@@ -1712,8 +1716,10 @@
 127.0.0.1 kirlioglumuhendislik.com
 127.0.0.1 kisaltma.link
 127.0.0.1 kissmetrics.com
+127.0.0.1 kitapindir.pw
 127.0.0.1 kitapindir.website
 127.0.0.1 kitaplar.ml
+127.0.0.1 kitappdflerioku.org
 127.0.0.1 kizlarlasohbet.online
 127.0.0.1 klimahavalandirma.com.tr
 127.0.0.1 kocaagamuhendislik.com
@@ -1817,6 +1823,7 @@
 127.0.0.1 main.exosrv.com
 127.0.0.1 makroads.net
 127.0.0.1 makrobetcdn.com
+127.0.0.1 makrobetmedya.com
 127.0.0.1 malatyakayisipazari.com.tr
 127.0.0.1 maltoka.com
 127.0.0.1 mamydirect.com
@@ -1892,6 +1899,7 @@
 127.0.0.1 metrika-informer.com
 127.0.0.1 metrika.yandex.com.tr
 127.0.0.1 mettek.com.tr
+127.0.0.1 mevaqafalete.tk
 127.0.0.1 mevzuat.com.tr
 127.0.0.1 mfjegjqb.com
 127.0.0.1 mgid.com
@@ -2024,6 +2032,7 @@
 127.0.0.1 mxplay.com
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
 127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
+127.0.0.1 my-digital-life.info
 127.0.0.1 my.hellobar.com
 127.0.0.1 my.mobfox.com
 127.0.0.1 my.rtmark.net
@@ -2036,6 +2045,7 @@
 127.0.0.1 myswitchads.com
 127.0.0.1 mzrhjbbikqm.com
 127.0.0.1 n.gftnk.com
+127.0.0.1 nalandogan.tk
 127.0.0.1 narutogaming.com
 127.0.0.1 native.propellerclick.com
 127.0.0.1 nativeads.com
@@ -2058,6 +2068,7 @@
 127.0.0.1 networkad.net
 127.0.0.1 nevzatsolmazinsaat.com
 127.0.0.1 newaprads.com
+127.0.0.1 newdaytoday71.life
 127.0.0.1 newmedia-tools.com
 127.0.0.1 newrelic.com
 127.0.0.1 news-easy.com
@@ -2117,11 +2128,13 @@
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
 127.0.0.1 onclickclear.com
+127.0.0.1 onclickmega.com
 127.0.0.1 onclickprediction.com
 127.0.0.1 onclicksuper.com
 127.0.0.1 ondokuzmuoldu.com
 127.0.0.1 onedmp.com
 127.0.0.1 onieruco.com
+127.0.0.1 onkologiabg.com
 127.0.0.1 online-metrix.net
 127.0.0.1 onlinewebstat.com
 127.0.0.1 onlinewebstats.com
@@ -2151,6 +2164,7 @@
 127.0.0.1 osmaniyesevgi.com.tr
 127.0.0.1 oteuforum.com
 127.0.0.1 ouloutso.net
+127.0.0.1 ouo.today
 127.0.0.1 ourkusadasi.com
 127.0.0.1 outcome.supersonicads.com
 127.0.0.1 ovcksawwem.com
@@ -2212,6 +2226,7 @@
 127.0.0.1 pdfindir.online
 127.0.0.1 pdfindirkitap.com
 127.0.0.1 pdfkitapindirelim.net
+127.0.0.1 pdfkitapligi.com
 127.0.0.1 pdfwor.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 pebed.dm.gg
@@ -2220,6 +2235,7 @@
 127.0.0.1 peksoz.av.tr
 127.0.0.1 perabet177.com
 127.0.0.1 perabetads.com
+127.0.0.1 perabetmedya.com
 127.0.0.1 perf.mmstat.com
 127.0.0.1 perfectaudience.com
 127.0.0.1 performancenative.com
@@ -2331,7 +2347,9 @@
 127.0.0.1 pxlad.io
 127.0.0.1 pylskzn.co
 127.0.0.1 pzkqiwezugsucg.com
+127.0.0.1 qaget.info
 127.0.0.1 qeristalore.com
+127.0.0.1 qojagaratet.tk
 127.0.0.1 qregation.info
 127.0.0.1 qservz.com
 127.0.0.1 quantserve.com
@@ -2424,6 +2442,7 @@
 127.0.0.1 revsci.net
 127.0.0.1 rexus.com.tr
 127.0.0.1 reyden-x.com
+127.0.0.1 ritogyrorynyra.ml
 127.0.0.1 rlbvwdviqx.com
 127.0.0.1 rmz-e.com
 127.0.0.1 robonik.com.tr
@@ -2570,6 +2589,7 @@
 127.0.0.1 sidneyidne.com
 127.0.0.1 sigaramakinesi.gen.tr
 127.0.0.1 sigortaline.com.tr
+127.0.0.1 sihirlidokunus.net
 127.0.0.1 sileoturkiye.com
 127.0.0.1 silverstatic.com.tr
 127.0.0.1 simsek.gen.tr
@@ -2792,6 +2812,7 @@
 127.0.0.1 totalsigorta.com
 127.0.0.1 touchtype-fluency.com
 127.0.0.1 tq.adventurefeeds.com
+127.0.0.1 tr-apk.com
 127.0.0.1 tr-books.softwarer.us
 127.0.0.1 tr-gameland.com
 127.0.0.1 tr.bannersdf.com
@@ -2879,22 +2900,26 @@
 127.0.0.1 tweetlerim.gen.tr
 127.0.0.1 tynt.com
 127.0.0.1 ua.supersonicads.com
+127.0.0.1 ubanulydijo.tk
 127.0.0.1 uberupload.online
 127.0.0.1 ucads-cdn.ucweb.com
 127.0.0.1 ucads.ucweb.com
 127.0.0.1 ucfwicndme.com
 127.0.0.1 ucretsiz-indirin.online
+127.0.0.1 ucretsizsesli-kitaplar.ru
 127.0.0.1 ucuztercume.com
 127.0.0.1 udm.scorecardresearch.col
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 ufuksigorta.org
 127.0.0.1 uid.ksosoft.com
+127.0.0.1 ujysitutequpoza.ml
 127.0.0.1 ulife17yeter.com
 127.0.0.1 ulushaber.com
 127.0.0.1 um.simpli.fi
 127.0.0.1 um2.eqads.com
 127.0.0.1 ums.adtech.de
 127.0.0.1 unicornpride123.com
+127.0.0.1 unofajigej.ml
 127.0.0.1 unvermobilya.com.tr
 127.0.0.1 unyesigorta.com.tr
 127.0.0.1 uod2quk646.com
@@ -3004,6 +3029,7 @@
 127.0.0.1 whatsappsohbetet.com
 127.0.0.1 whatsappsohbetim.net
 127.0.0.1 whatshelp.io
+127.0.0.1 whattoread.win
 127.0.0.1 widengle.com
 127.0.0.1 widget.boomads.com
 127.0.0.1 widget.engageya.com
@@ -3123,6 +3149,7 @@
 127.0.0.1 yeniyildirimkargo.com.tr
 127.0.0.1 yeniyolgumruk.com
 127.0.0.1 yeniyuzyillions.org
+127.0.0.1 yesilperi.net
 127.0.0.1 yigitlernalburiye.com.tr
 127.0.0.1 yildiriminsaat.com.tr
 127.0.0.1 ynuf.aliapp.org
