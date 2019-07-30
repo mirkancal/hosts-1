@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 28.07.2019
-# Entries: 15
+# Released: 31.07.2019
+# Entries: 32
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -12,19 +12,36 @@
 # Report an ad / contact: xorcan@yandex.com
 
 # xorcan/hosts başla #
-incisozluk.com.tr###b-masthead
-cartoonnetwork.com.tr##.middle.ad
+##[href^="bc.vc/WRrYdnR"]
+##[href^="betticket.biz"]
+##[href^="bit.ly/2Ctslt0"]
+##[href^="bit.ly/2QmI8BT"]
+##[href^="tr.link/GbeG"]
+@@||sozcu.com.tr/*/assets/js/ads.js
+bc.vc/WRrYdnR
 bit.ly/2Ctslt0
 bit.ly/2QmI8BT
-dizilla.com###preRollVideoAdTimer
+cartoonnetwork.com.tr##.middle.ad
+chaicdn.com/b/3.gif
 dizilla.com###preRollVideoAd
-dizilla.com##a.block:nth-of-type(2)
+dizilla.com###preRollVideoAdTimer
 dizilla.com##a.block:nth-of-type(1)
-||*/elex-pageskin-yeni.jpg
+dizilla.com##a.block:nth-of-type(2)
 filmw.org###videoreklam
 filmw.org##.hoverZoomLink.loaded
+incisozluk.com.tr###b-masthead
+tr.link##.reklam-t
+tr.link/GbeG
+tr.pdfdrive.com###pdfdriveAlerts
+tr.pdfdrive.com##.show.fade.modal-backdrop
+uludagsozluk.com##.reklamblur1
+unikampus.net##.jgcabd-container
+userscloud.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+||*/Wpdeo_Rise/*/images/yatay.jpg$image
+||*/betasus40sn.mov
+||*/elex-pageskin-yeni.jpg
 ||*/filmw3.gif$image
 ||*/pageskinlord150withouheader.jpg
-||*/betasus40sn.mov
 ||*/wp-content/themes/Wpdeo_Rise/*/images/yatay.jpg$image
+||chaicdn.com/b/1.gif
 # xorcan/hosts bitir #
