@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 31.07.2019
-# Entries: 3164
+# Released: 01.08.2019
+# Entries: 3166
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -690,7 +690,6 @@
 127.0.0.1 baysigorta.com
 127.0.0.1 bbazma.com
 127.0.0.1 bbelements.com
-127.0.0.1 bcapps.org
 127.0.0.1 bchaser10.host
 127.0.0.1 bchaser11.host
 127.0.0.1 bckmtidcnrobwh.bid
@@ -1717,6 +1716,7 @@
 127.0.0.1 kisaltma.link
 127.0.0.1 kissmetrics.com
 127.0.0.1 kitapindir.pw
+127.0.0.1 kitapindir.web.tr
 127.0.0.1 kitapindir.website
 127.0.0.1 kitaplar.ml
 127.0.0.1 kitappdflerioku.org
@@ -1853,7 +1853,6 @@
 127.0.0.1 mavikoruinsaat.com
 127.0.0.1 maviyer.com
 127.0.0.1 mayadana.adk2x.com
-127.0.0.1 mblservices.org
 127.0.0.1 mbsankaranakliyat.com
 127.0.0.1 mc.admetrica.ru
 127.0.0.1 mc.webvisor.org
@@ -1887,6 +1886,7 @@
 127.0.0.1 mervecapas.com.tr
 127.0.0.1 mervereklam.com.tr
 127.0.0.1 mervinsaat.com.tr
+127.0.0.1 mesaj-geldi.blok.link
 127.0.0.1 mesamed.com.tr
 127.0.0.1 mesanasansor.com.tr
 127.0.0.1 mesmobil.com.tr
@@ -2205,7 +2205,6 @@
 127.0.0.1 partneriste.net
 127.0.0.1 partnermatrix.com
 127.0.0.1 partners.betbooaffiliates.com
-127.0.0.1 partners.popcent.net
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 partnersapi.bilio.com
 127.0.0.1 pasakoyluagirnakliyat.com
@@ -2285,7 +2284,6 @@
 127.0.0.1 pool.ntp.org
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
-127.0.0.1 popcent.net
 127.0.0.1 popmarker.com
 127.0.0.1 popmyads.com
 127.0.0.1 poprtb.pro
@@ -2444,6 +2442,7 @@
 127.0.0.1 reyden-x.com
 127.0.0.1 ritogyrorynyra.ml
 127.0.0.1 rlbvwdviqx.com
+127.0.0.1 rlink.xyz
 127.0.0.1 rmz-e.com
 127.0.0.1 robonik.com.tr
 127.0.0.1 rolandolan.com
@@ -2639,6 +2638,8 @@
 127.0.0.1 softorsholitthis.info
 127.0.0.1 softreklam.com
 127.0.0.1 softwarer.us
+127.0.0.1 sohbetara25.xyz
+127.0.0.1 sohbetara69.xyz
 127.0.0.1 sohbetesi1.com
 127.0.0.1 sohbetesi2.com
 127.0.0.1 sohbetesiniz.com
@@ -2760,6 +2761,7 @@
 127.0.0.1 takyake.ru
 127.0.0.1 tanguluercetin.com.tr
 127.0.0.1 tanidigital.com
+127.0.0.1 tanisma.supermesaj.tv
 127.0.0.1 tapfiliate.com
 127.0.0.1 tapjoy.com
 127.0.0.1 tapjoyads.com
