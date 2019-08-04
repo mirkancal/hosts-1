@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 02.08.2019
-# Entries: 302
+# Released: 04.08.2019
+# Entries: 332
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -78,6 +78,7 @@
 ##[href^="http://bit.ly/2OiCyAu"]
 ##[href^="http://bit.ly/2QmI8BT"]
 ##[href^="http://bit.ly/2Yy1T9O"]
+##[href^="http://bit.ly/30ZvMlu"]
 ##[href^="http://blok.link"]
 ##[href^="http://commissionwall1.com"]
 ##[href^="http://ekitap.telreh.com"]
@@ -113,15 +114,25 @@
 ##[href^="http://www.rotabetlink.com"]
 ##[href^="https://baysansli14.com"]
 ##[href^="https://bit.ly/2FE4A5g"]
+##[href^="https://bit.ly/2GXyQ8u"]
 ##[href^="https://bit.ly/2HxwkWC"]
+##[href^="https://bit.ly/2KppeZi"]
+##[href^="https://bit.ly/2MylV32"]
 ##[href^="https://bit.ly/2NVHjft"]
 ##[href^="https://bit.ly/2OiCyAu"]
+##[href^="https://bit.ly/2SNGMyD"]
+##[href^="https://bit.ly/2UPmIPR"]
+##[href^="https://bit.ly/2X2tjnI"]
+##[href^="https://bit.ly/2YcmD7N"]
 ##[href^="https://bit.ly/2Yy1T9O"]
+##[href^="https://bit.ly/2Z35P3p"]
+##[href^="https://clbanners1.com/"]
 ##[href^="https://commissionwall1.com"]
 ##[href^="https://dosya-indirici.online"]
 ##[href^="https://ekitap.telreh.com"]
 ##[href^="https://kitapindir.pw"]
 ##[href^="https://refpabei.top"]
+##[href^="https://refpafdqzc.top"]
 ##[href^="https://rotabetlink.com"]
 ##[href^="https://telreh.com"]
 ##[href^="https://www.baysansli14.com"]
@@ -132,6 +143,8 @@
 ##[href^="https://www.megdexchange.com"]
 ##[href^="https://www.onclickmega.com"]
 ##[href^="https://www.rotabetlink.com"]
+##[href^="https://www.rotabetlink.com/yd-hdr"]
+##[href^="https://www.rotabetlink.com/yd-va"]
 ##[href^="tel://00237800036"]
 ##[href^="tel://00237800037"]
 ##[href^="tel://00237811130"]
@@ -141,6 +154,7 @@
 ##[href^="tel://00237811138"]
 ##[href^="tel://00237811139"]
 ##[href^="tel://0023781117"]
+##[href^="tel://002378111761"]
 ##[href^="tel://00237811178"]
 ##[href^="tel://0023781118"]
 ##[href^="tel://00322588912"]
@@ -184,6 +198,7 @@
 ##[href^="tel:00237811138"]
 ##[href^="tel:00237811139"]
 ##[href^="tel:0023781117"]
+##[href^="tel:002378111761"]
 ##[href^="tel:00237811178"]
 ##[href^="tel:0023781118"]
 ##[href^="tel:00322588912"]
@@ -240,6 +255,7 @@ filmw.org##.hoverZoomLink.loaded
 incisozluk.com.tr###b-masthead
 unikampus.net##.jgcabd-container
 userscloud.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+yabancidizi.org###PlayerBlock
 ||*.ampproject.org*/*seks4.com*/*.gif$image
 ||*.ampproject.org*/bu2.gif$image
 ||*.ampproject.org*/iv1.gif$image
@@ -251,20 +267,18 @@ userscloud.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-classic
 ||*/*/rotahdr.gif$image
 ||*/*/sul-hdr.gif$image
 ||*/*/sul-vid.gif$image
+||*/*1xbet*.mp4$media
+||*/*betasus*.mov$media
+||*/*ivr-ic-rek*.jpg$image
+||*/*momcukbanner*.gif$image
+||*/*obilet*.jpeg$image
 ||*/*reklam*/videoonu.jpg$image
-||*/1xbet.mp4$media
 ||*/728x90fenomen.gif$image
 ||*/Bay%C5%9Fansl%C4%B1-3.gif$image
 ||*/Wpdeo_Rise*/yatay.jpg$image
-||*/betasus40sn.mov$media
 ||*/elex-pageskin-yeni.jpg$image
 ||*/filmw3.gif$image
 ||*/jigolo.jpg$image
-||*/momcukbanner.gif$image
-||*/momcukbanner1.gif$image
-||*/obilet-v20.jpeg$image
-||*/obilet-v21.jpeg$image
-||*/obilet-v22.jpeg$image
 ||*/pageskinlord.jpg$image
 ||*/pageskinlord150withouheader.jpg$image
 ||*/rotahdr_l7hurd.gif$image
@@ -281,34 +295,50 @@ userscloud.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-classic
 ||*braun634*/*.mp4$media
 ||*braun634*/*.png$image
 ||*braun634*^$popup
+||*clbanners1.com^$popup
 ||*dizi*/*mel*.mp4$media
 ||*diziay.me/*/pageskin.jpg
+||*doeda*/*porno*.gif$image
 ||*hizliresim.com/jgE0Lr.jpg$image
+||*keycdn.info*^$popup
 ||*keycdn.info/*.php
+||*kisses-room1.com^$popup
 ||*marsbahis*^$popup
 ||*marsbahisaffiliates*^$popup
 ||*rlink.xyz*.jpg$image
 ||*seks4.com*/*.gif$image
+||*surl.ml/losp^$popup
+||*tpv.sr/uh79Lq^$popup
 ||*wlfenomenbet*^$popup
 ||*wlpronet*^$popup
+||*your-bestsex-here1*^$popup
+||/*betonbet*.gif$image
+||/*betpas*.gif$image
+||/*makrolarge*.gif$image
+||/*makronew*.gif$image
+||/*perabet*.gif$image
+||/*peralarge*.gif$image
+||/*rotahdr*.gif$image
+||/*sekahdr*.gif$image
 ||35.194.16.41^$popup
 ||bc.vc/WRrYdnR^$popup
 ||bit.ly/2Ctslt0^$popup
 ||bit.ly/2QmI8BT^$popup
 ||blok.link^$popup
+||cdnrefpa*/*AdAgent*/*.gif$image
 ||chaicdn.com*/1.gif$image
-||dizibox.pw/*/per-hdr.gif$image
-||dizilab.pw/video/29_1559767284.jpg$image
-||dizimag.pw/insert/*/spacer.gif$image
-||dizimag.pw/rek/pg_tlp4.jpg$image
-||dizipub*/wp-content/uploads*/*pageskin_template.jpg
-||dizipub*/wp-content/uploads*/300x250.gif$image
-||eviewporn.com*/milf-min.png$image
+||dizibox*/per-hdr.gif$image
+||dizilab*/29_1559767284.jpg$image
+||dizimag*/*rek*/pg_tlp4.jpg$image
+||dizimag*/insert/*/spacer.gif$image
+||dizipub*/*pageskin_template.jpg$image
+||dizipub*/*x*.gif$image
+||eviewporn*/milf-min.png$image
 ||go2linkfast.com^$popup
 ||kisaltma.link^$popup
 ||link-redirect.xyz^$popup
 ||pornfilmsex.com/*.gif$image
-||refpabei.top
+||refpabei.top^$popup
 ||sohbetara69.xyz^$popup
 ||supermesaj.tv^$popup
 ||telreh.com^$popup
