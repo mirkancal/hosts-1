@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 02.08.2019
-# Entries: 3171
+# Released: 04.08.2019
+# Entries: 3181
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -15,6 +15,7 @@
 ::1  localhost
 
 # xorcan/hosts başla #
+
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0n.click
@@ -531,7 +532,6 @@
 127.0.0.1 apidm.airpush.com
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app-measurement.com
-127.0.0.1 app.adjust.com
 127.0.0.1 app.link
 127.0.0.1 app.networkad.net
 127.0.0.1 app.superbuzz.io
@@ -1716,6 +1716,11 @@
 127.0.0.1 kirikkalemuhendislik.com
 127.0.0.1 kirlioglumuhendislik.com
 127.0.0.1 kisaltma.link
+127.0.0.1 kisses-room.com
+127.0.0.1 kisses-room0.com
+127.0.0.1 kisses-room1.com
+127.0.0.1 kisses-room2.com
+127.0.0.1 kisses-room3.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kitapindir.pw
 127.0.0.1 kitapindir.web.tr
@@ -2987,7 +2992,6 @@
 127.0.0.1 vidfaebeia.pornmsc.com
 127.0.0.1 vidlox.me
 127.0.0.1 vidlox.tv
-127.0.0.1 view.adjust.com
 127.0.0.1 viglink.com
 127.0.0.1 vip-flirtbooks.com
 127.0.0.1 vipturkiye.com
@@ -3005,6 +3009,7 @@
 127.0.0.1 vungle.com
 127.0.0.1 vvhatsappsohbet.site
 127.0.0.1 wagonistanbul.com
+127.0.0.1 walid.info
 127.0.0.1 wampum.com.tr
 127.0.0.1 wap.trend-tech.net
 127.0.0.1 wapkalip.tk
@@ -3164,6 +3169,11 @@
 127.0.0.1 yonsoft.com.tr
 127.0.0.1 yos.inonu.edu.tr
 127.0.0.1 youhavewon.net
+127.0.0.1 your-bestsex-here.com
+127.0.0.1 your-bestsex-here0.com
+127.0.0.1 your-bestsex-here1.com
+127.0.0.1 your-bestsex-here2.com
+127.0.0.1 your-bestsex-here3.com
 127.0.0.1 youtube.2cnt.net
 127.0.0.1 yr9n47004g.com
 127.0.0.1 yuntper.com.tr
