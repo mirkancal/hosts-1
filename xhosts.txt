@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
 # Released: 09.08.2019
-# Entries: 3598
+# Entries: 3597
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -2647,7 +2647,6 @@
 127.0.0.1 raiden.com.tr
 127.0.0.1 rampagida.com.tr
 127.0.0.1 randysnaps.com
-127.0.0.1 rdr3.xyz
 127.0.0.1 rdrtr.com
 127.0.0.1 readvasturked.pro
 127.0.0.1 realcenter-mobileapps2.com
