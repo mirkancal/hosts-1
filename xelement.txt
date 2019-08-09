@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 04.08.2019
-# Entries: 332
+# Released: 09.08.2019
+# Entries: 363
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -69,6 +69,8 @@
 ##[href^="http://baysansli14.com"]
 ##[href^="http://bc.vc/WRrYdnR"]
 ##[href^="http://bc.vc/jAf6Eh4"]
+##[href^="http://bestdataresu1ts.com"]
+##[href^="http://bestdataresu1ts.com/mmd/"]
 ##[href^="http://betticket.biz"]
 ##[href^="http://bigblacksharkoil.com"]
 ##[href^="http://bit.ly/2Ctslt0"]
@@ -81,6 +83,7 @@
 ##[href^="http://bit.ly/30ZvMlu"]
 ##[href^="http://blok.link"]
 ##[href^="http://commissionwall1.com"]
+##[href^="http://download-free.site"]
 ##[href^="http://ekitap.telreh.com"]
 ##[href^="http://ekitap.telreh.com/ara"]
 ##[href^="http://jigolo-olmak-kaydi.sohbetara69.xyz"]
@@ -113,6 +116,8 @@
 ##[href^="http://www.onclickmega.com"]
 ##[href^="http://www.rotabetlink.com"]
 ##[href^="https://baysansli14.com"]
+##[href^="https://bestdataresu1ts.com"]
+##[href^="https://bestdataresu1ts.com/mmd/"]
 ##[href^="https://bit.ly/2FE4A5g"]
 ##[href^="https://bit.ly/2GXyQ8u"]
 ##[href^="https://bit.ly/2HxwkWC"]
@@ -129,6 +134,7 @@
 ##[href^="https://clbanners1.com/"]
 ##[href^="https://commissionwall1.com"]
 ##[href^="https://dosya-indirici.online"]
+##[href^="https://download-free.site"]
 ##[href^="https://ekitap.telreh.com"]
 ##[href^="https://kitapindir.pw"]
 ##[href^="https://refpabei.top"]
@@ -157,6 +163,7 @@
 ##[href^="tel://002378111761"]
 ##[href^="tel://00237811178"]
 ##[href^="tel://0023781118"]
+##[href^="tel://002738000"]
 ##[href^="tel://00322588912"]
 ##[href^="tel://003225889151"]
 ##[href^="tel://003225889153"]
@@ -201,6 +208,7 @@
 ##[href^="tel:002378111761"]
 ##[href^="tel:00237811178"]
 ##[href^="tel:0023781118"]
+##[href^="tel:002738000"]
 ##[href^="tel:00322588912"]
 ##[href^="tel:003225889151"]
 ##[href^="tel:003225889153"]
@@ -238,9 +246,14 @@
 ##vrs-alert
 ##vrsAlert
 ##vrsalert
+*.tk##.download-file.download
 *ampproject.org###iOssi
+*file-up.org###boxes
 *pdfdrive.com###pdfdriveAlerts
 *pdfdrive.com##.show.fade.modal-backdrop
+*turkanime*###modallar
+*turkanime*##.in.fade.modal-backdrop
+*turkanime*##.row > div.col-xs-6:nth-of-type(1)
 @@||sozcu.com.tr/*/assets/js/ads.js
 chaicdn.com*/3.gif$image
 dizibox.pw###PlayerBlock
@@ -261,6 +274,9 @@ yabancidizi.org###PlayerBlock
 ||*.ampproject.org*/iv1.gif$image
 ||*.ampproject.org*/me4.gif$image
 ||*.ampproject.org*/milf-min.png$image
+||*.tk###darke-area
+||*.tk##.msg
+||*.tk*Oxygen*.css
 ||*/*/inst-vid.png$image
 ||*/*/mark-hdr.gif$image
 ||*/*/rot-vid.gif$image
@@ -284,6 +300,7 @@ yabancidizi.org###PlayerBlock
 ||*/rotahdr_l7hurd.gif$image
 ||*/titanx.png$image
 ||*/yarak-banner.gif$image
+||*bestacademicrecommendation*^$popup
 ||*blogspot.com/*/*/slotbar.gif
 ||*braun634*/*.aac$media
 ||*braun634*/*.gif$image
@@ -295,20 +312,34 @@ yabancidizi.org###PlayerBlock
 ||*braun634*/*.mp4$media
 ||*braun634*/*.png$image
 ||*braun634*^$popup
+||*chuckyluck.com^$popup
 ||*clbanners1.com^$popup
 ||*dizi*/*mel*.mp4$media
 ||*diziay.me/*/pageskin.jpg
+||*dizipub.net/*la-casa*^$popup
+||*dizist1*^$popup
 ||*doeda*/*porno*.gif$image
+||*download-free.site*.*^
+||*download-free.site*.*^$popup
+||*download-free.site*.css
+||*download-free.site*.js
+||*download-free.site*^$third-party
+||*filmw.org*^$popup
+||*greatdexchange*^$popup
 ||*hizliresim.com/jgE0Lr.jpg$image
 ||*keycdn.info*^$popup
 ||*keycdn.info/*.php
 ||*kisses-room1.com^$popup
 ||*marsbahis*^$popup
 ||*marsbahisaffiliates*^$popup
+||*ppcnt*^$popup
+||*realpush.media^$third-party
 ||*rlink.xyz*.jpg$image
 ||*seks4.com*/*.gif$image
 ||*surl.ml/losp^$popup
+||*torrentoyunindir*/wp-content/uploads/d.png$image
 ||*tpv.sr/uh79Lq^$popup
+||*uploaded.net/register*^$popup
 ||*wlfenomenbet*^$popup
 ||*wlpronet*^$popup
 ||*your-bestsex-here1*^$popup
