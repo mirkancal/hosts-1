@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 09.08.2019
-# Entries: 3597
+# Released: 11.08.2019
+# Entries: 3606
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -151,6 +151,7 @@
 127.0.0.1 ad.reklam.xyz
 127.0.0.1 ad.reklamnative.com
 127.0.0.1 ad.reklamport.com
+127.0.0.1 ad.reklamstore.com
 127.0.0.1 ad.reklm.com
 127.0.0.1 ad.reyazilim.com
 127.0.0.1 ad.rfp.fout.jp
@@ -422,6 +423,7 @@
 127.0.0.1 akbilgicinsaat.net
 127.0.0.1 akdenizklima.com.tr
 127.0.0.1 akgullerinsaat.com.tr
+127.0.0.1 akillimeyveler.reklamagaci.com
 127.0.0.1 akinari.com.tr
 127.0.0.1 akkurtgida.com.tr
 127.0.0.1 akmeyinsaat.com
@@ -1364,7 +1366,10 @@
 127.0.0.1 exoclick.com
 127.0.0.1 exodor.com.tr
 127.0.0.1 exploore.yas-tr.com
+127.0.0.1 extreme-dm.com
 127.0.0.1 extremefreegames.com
+127.0.0.1 extremetracking.com
+127.0.0.1 extremetracking.net
 127.0.0.1 eyeviewads.com
 127.0.0.1 eyzpiel.cf
 127.0.0.1 eyzpiel.ga
@@ -2243,6 +2248,7 @@
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
 127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
 127.0.0.1 my-digital-life.info
+127.0.0.1 my-privacy-protection.com
 127.0.0.1 my.hellobar.com
 127.0.0.1 my.mobfox.com
 127.0.0.1 my.rtmark.net
@@ -2499,6 +2505,8 @@
 127.0.0.1 perf.mmstat.com
 127.0.0.1 perfectaudience.com
 127.0.0.1 performancenative.com
+127.0.0.1 performit.club
+127.0.0.1 performit.xyz
 127.0.0.1 performpromos.com
 127.0.0.1 permato.com
 127.0.0.1 permutive.com
@@ -2570,6 +2578,7 @@
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 prebid.districtm.ca
 127.0.0.1 premiumbros.com
+127.0.0.1 premiumdownload.icu
 127.0.0.1 premiumtraff.com
 127.0.0.1 press2continue.com
 127.0.0.1 prestoris.com
