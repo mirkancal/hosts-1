@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 09.08.2019
-# Entries: 363
+# Released: 11.08.2019
+# Entries: 409
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -32,11 +32,13 @@
 ##.reklamblur2
 ##.reklamblur3
 ##.ss-ic.s_stk
+##[href*="https://torrentsafeguard.com/"]
 ##[href="http://blok.link"]
 ##[href="http://mesaj-geldi.blok.link"]
 ##[href="http://mesaj-geldi.blok.link/bnnr"]
 ##[href="http://mesaj-geldi.blok.link/msj"]
 ##[href="http://mesaj-geldi.blok.link/wpr"]
+##[href="https://bit.ly/2MylV32"]
 ##[href="https://mesaj-geldi.blok.link"]
 ##[href^="bc.vc/WRrYdnR"]
 ##[href^="betticket.biz"]
@@ -71,6 +73,7 @@
 ##[href^="http://bc.vc/jAf6Eh4"]
 ##[href^="http://bestdataresu1ts.com"]
 ##[href^="http://bestdataresu1ts.com/mmd/"]
+##[href^="http://betonbet1.com"]
 ##[href^="http://betticket.biz"]
 ##[href^="http://bigblacksharkoil.com"]
 ##[href^="http://bit.ly/2Ctslt0"]
@@ -111,6 +114,7 @@
 ##[href^="http://rotabetlink.com"]
 ##[href^="http://sohbetara69.xyz"]
 ##[href^="http://www.baysansli14.com"]
+##[href^="http://www.betonbet1.com"]
 ##[href^="http://www.kisaltma.link"]
 ##[href^="http://www.megdexchange.com"]
 ##[href^="http://www.onclickmega.com"]
@@ -118,6 +122,7 @@
 ##[href^="https://baysansli14.com"]
 ##[href^="https://bestdataresu1ts.com"]
 ##[href^="https://bestdataresu1ts.com/mmd/"]
+##[href^="https://betonbet1.com"]
 ##[href^="https://bit.ly/2FE4A5g"]
 ##[href^="https://bit.ly/2GXyQ8u"]
 ##[href^="https://bit.ly/2HxwkWC"]
@@ -142,6 +147,7 @@
 ##[href^="https://rotabetlink.com"]
 ##[href^="https://telreh.com"]
 ##[href^="https://www.baysansli14.com"]
+##[href^="https://www.betonbet1.com"]
 ##[href^="https://www.keycdn.info/url3.php"]
 ##[href^="https://www.kisaltma.link"]
 ##[href^="https://www.kisaltma.link/papaz.php"]
@@ -242,18 +248,31 @@
 ##[href^="tel:00467669234"]
 ##[href^="tel:0237800040"]
 ##[href^="tr.link/GbeG"]
+##[src="35.224.227.218"]
+##[src="http://35.224.227.218"]
+##[src="http://melban3.top/"]
+##[src="https://35.224.227.218"]
+##[src="https://melban3.top/"]
+##[src="my-privacy-protection.com"]
 ##vrs-Alert
 ##vrs-alert
 ##vrsAlert
 ##vrsalert
+*.ampproject.org*porn*yuklen*.gif^$image
 *.tk##.download-file.download
 *ampproject.org###iOssi
 *file-up.org###boxes
+*my-privacy-protection*^$popup
 *pdfdrive.com###pdfdriveAlerts
 *pdfdrive.com##.show.fade.modal-backdrop
+*performit.*^$popup
+*premiumdownload.icu^$popup
+*pskinlord*^$image
 *turkanime*###modallar
 *turkanime*##.in.fade.modal-backdrop
 *turkanime*##.row > div.col-xs-6:nth-of-type(1)
+*whatsappsohbet.top^$popup
+35.224.227.218^$popup
 @@||sozcu.com.tr/*/assets/js/ads.js
 chaicdn.com*/3.gif$image
 dizibox.pw###PlayerBlock
@@ -264,11 +283,38 @@ dizilab.pw##.previd-link
 dizilla.com##a.block:nth-of-type(1)
 dizilla.com##a.block:nth-of-type(2)
 dizipub1.net###pubxvideox
+ettv.to##.download_links_a
 filmw.org##.hoverZoomLink.loaded
 incisozluk.com.tr###b-masthead
+ktun.edu.tr###loader
+porn-desip-org.cdn.ampproject.org##.marquee
+porn-desip-org.cdn.ampproject.org##.marquee-outer
+seedpeer.me##.has-text-left.is-medium.is-warning.button
+seedpeer.me##.torrent-details-actions.is-one-third.column > p:nth-of-type(5)
+torrentdownload.ch##table.table2:nth-of-type(1) > tbody > tr:nth-of-type(4) > td
+torrentdownloads.me##.inner_container > div:nth-of-type(4) > div:nth-of-type(1)
+torrentdownloads.me##div:nth-of-type(2) > [href="https://torrentsafeguard.com/"]
+torrentfunk2.com##.minicloud
+torrentfunk2.com##main > table:nth-of-type(1) > tbody
+torrentfunk2.com##td:nth-of-type(1) > .extneed
+torrentfunk2.com##td:nth-of-type(3) > .extneed
+torrentz2.eu###footer
+torrentz2.eu##.NonToleratedds
+torrentz2.eu##.downlinks > dl:nth-of-type(1)
+torrentz2.eu##.xpressa
+torrentz2.eu##[href="/lorem2/xy/"]
+torrentz2.is###footer
+torrentz2.is##.NonToleratedds
+torrentz2.is##.downlinks > dl:nth-of-type(1)
+torrentz2.is##.xpressa
+torrentz2.is##[href="/lorem2/xy/"]
 unikampus.net##.jgcabd-container
+uploadrar.com##.btn-primary.btn
+uploadrar.com##.lastnews
 userscloud.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 yabancidizi.org###PlayerBlock
+yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(1) > .extneed
+yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*.ampproject.org*/*seks4.com*/*.gif$image
 ||*.ampproject.org*/bu2.gif$image
 ||*.ampproject.org*/iv1.gif$image
@@ -277,30 +323,28 @@ yabancidizi.org###PlayerBlock
 ||*.tk###darke-area
 ||*.tk##.msg
 ||*.tk*Oxygen*.css
-||*/*/inst-vid.png$image
-||*/*/mark-hdr.gif$image
-||*/*/rot-vid.gif$image
-||*/*/rotahdr.gif$image
-||*/*/sul-hdr.gif$image
-||*/*/sul-vid.gif$image
-||*/*1xbet*.mp4$media
+||*/*%C5%9Fansl%C4%B1*.gif$image
+||*/*/*inst-vid*.png$image
+||*/*/*mark-hdr*.gif$image
+||*/*/*rot-vid*.gif$image
+||*/*/*rotahdr*.gif$image
+||*/*/*sul-hdr*.gif$image
+||*/*/*sul-vid*.gif$image
 ||*/*betasus*.mov$media
-||*/*ivr-ic-rek*.jpg$image
+||*/*fenomen*.gif$image
+||*/*ivr-ic*.jpg$image
 ||*/*momcukbanner*.gif$image
 ||*/*obilet*.jpeg$image
-||*/*reklam*/videoonu.jpg$image
-||*/728x90fenomen.gif$image
-||*/Bay%C5%9Fansl%C4%B1-3.gif$image
+||*/*reklam*/*videoonu*.jpg$image
+||*/*xbet*.mp4$media
 ||*/Wpdeo_Rise*/yatay.jpg$image
-||*/elex-pageskin-yeni.jpg$image
+||*/elex-pageskin*.jpg$image
 ||*/filmw3.gif$image
-||*/jigolo.jpg$image
-||*/pageskinlord.jpg$image
-||*/pageskinlord150withouheader.jpg$image
-||*/rotahdr_l7hurd.gif$image
-||*/titanx.png$image
-||*/yarak-banner.gif$image
 ||*bestacademicrecommendation*^$popup
+||*betonbet*.gif
+||*betonbet*.gif$image
+||*betpas*.gif
+||*betpas*.gif$image
 ||*blogspot.com/*/*/slotbar.gif
 ||*braun634*/*.aac$media
 ||*braun634*/*.gif$image
@@ -327,30 +371,32 @@ yabancidizi.org###PlayerBlock
 ||*filmw.org*^$popup
 ||*greatdexchange*^$popup
 ||*hizliresim.com/jgE0Lr.jpg$image
+||*jigolo*.jpg$image
 ||*keycdn.info*^$popup
 ||*keycdn.info/*.php
 ||*kisses-room1.com^$popup
+||*makrolarge*.gif$image
+||*makronew*.gif$image
 ||*marsbahis*^$popup
 ||*marsbahisaffiliates*^$popup
+||*pageskinlord*.jpg$image
+||*perabet*.gif$image
+||*peralarge*.gif$image
 ||*ppcnt*^$popup
 ||*realpush.media^$third-party
 ||*rlink.xyz*.jpg$image
+||*rotahdr*.gif$image
+||*sekahdr*.gif$image
 ||*seks4.com*/*.gif$image
 ||*surl.ml/losp^$popup
+||*titanx*.png$image
 ||*torrentoyunindir*/wp-content/uploads/d.png$image
 ||*tpv.sr/uh79Lq^$popup
 ||*uploaded.net/register*^$popup
 ||*wlfenomenbet*^$popup
 ||*wlpronet*^$popup
+||*yarak-banner*.gif$image
 ||*your-bestsex-here1*^$popup
-||/*betonbet*.gif$image
-||/*betpas*.gif$image
-||/*makrolarge*.gif$image
-||/*makronew*.gif$image
-||/*perabet*.gif$image
-||/*peralarge*.gif$image
-||/*rotahdr*.gif$image
-||/*sekahdr*.gif$image
 ||35.194.16.41^$popup
 ||bc.vc/WRrYdnR^$popup
 ||bit.ly/2Ctslt0^$popup
