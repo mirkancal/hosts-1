@@ -451,7 +451,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||5posta.org
 ||bc.vc/WRrYdnR^$popup
 ||ben-nazli.gif
-||bformu4. tk/form.php$subdocument
+||bformu4.tk/form.php$subdocument
 ||bit.ly/2Ctslt0^$popup
 ||bit.ly/2QmI8BT^$popup
 ||blok.link^$popup
