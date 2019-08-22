@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 11.08.2019
-# Entries: 3606
+# Released: 22.08.2019
+# Entries: 3615
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -77,6 +77,7 @@
 127.0.0.1 518580904.log.optimizely.com
 127.0.0.1 5588389.com
 127.0.0.1 5handikap.com
+127.0.0.1 5posta.org
 127.0.0.1 600bets10.com
 127.0.0.1 602d76e204c032.com
 127.0.0.1 62m33.x.incapdns.net
@@ -1048,6 +1049,7 @@
 127.0.0.1 clmbtech.com
 127.0.0.1 clnyourpc.com
 127.0.0.1 clotezar.com
+127.0.0.1 cltrkr.com
 127.0.0.1 cm.steepto.com
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cmsservice.sportdigi.com
@@ -1421,6 +1423,7 @@
 127.0.0.1 fpsdbfo.paylasimnet.com
 127.0.0.1 free.classicgift.download
 127.0.0.1 freegeoip.net
+127.0.0.1 freemacware.com
 127.0.0.1 fula.com.tr
 127.0.0.1 fungiers.com
 127.0.0.1 funnwebs.com
@@ -1565,6 +1568,7 @@
 127.0.0.1 hb.bizmrg.com
 127.0.0.1 hbjwzb.com
 127.0.0.1 hdfastplay.com
+127.0.0.1 hdmobilizle.com
 127.0.0.1 hdxmedia.site
 127.0.0.1 hdxvipizle.site
 127.0.0.1 hellobar.com
@@ -2134,6 +2138,7 @@
 127.0.0.1 mmwebhandler.aff-online.com
 127.0.0.1 mnoa6ez1eq.com
 127.0.0.1 moatads.com
+127.0.0.1 mob1ledev1ces.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
 127.0.0.1 mobile.logs.roku.com
@@ -2255,6 +2260,7 @@
 127.0.0.1 mybetterdl.com
 127.0.0.1 mycdn2.co
 127.0.0.1 myfood.ltd
+127.0.0.1 myfotolife.xyz
 127.0.0.1 mygoodlives.com
 127.0.0.1 mynativeads.com
 127.0.0.1 myornamenti.com
@@ -2577,6 +2583,7 @@
 127.0.0.1 pre.footprintpredict.com
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 prebid.districtm.ca
+127.0.0.1 predictiondexchange.com
 127.0.0.1 premiumbros.com
 127.0.0.1 premiumdownload.icu
 127.0.0.1 premiumtraff.com
@@ -2876,6 +2883,7 @@
 127.0.0.1 sdklogs.matomy.com
 127.0.0.1 search.plutonium.icu
 127.0.0.1 sebatmobilya.com.tr
+127.0.0.1 secondlife.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.freeadult.games
 127.0.0.1 secure.livechatinc.com
@@ -3253,6 +3261,7 @@
 127.0.0.1 turngrind.com
 127.0.0.1 tursanmakine.com.tr
 127.0.0.1 tweetlerim.gen.tr
+127.0.0.1 twilightturk.com
 127.0.0.1 tynt.com
 127.0.0.1 ua.supersonicads.com
 127.0.0.1 ubanulydijo.tk
