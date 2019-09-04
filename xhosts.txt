@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk ad-list
 # Format: Hosts
-# Released: 22.08.2019
-# Entries: 3615
+# Released: 5.09.2019
+# Entries: 3658
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -19,6 +19,7 @@
 127.0.0.1 0638.info
 127.0.0.1 0n.click
 127.0.0.1 1.bmon.site
+127.0.0.1 110380d053f716c4.com
 127.0.0.1 11820.com.tr
 127.0.0.1 15elon9.zgnkwfb.com
 127.0.0.1 15minutemanifestation-tr.com
@@ -26,6 +27,7 @@
 127.0.0.1 168logger.com
 127.0.0.1 16yp1ji92a.com
 127.0.0.1 197.25.189.78.static.turktelekom.com.tr
+127.0.0.1 1b969cef84d93b43.com
 127.0.0.1 1makrobetmedya.com
 127.0.0.1 1perabetmedya.com
 127.0.0.1 1sana1bana.estepeta.com.tr
@@ -91,7 +93,10 @@
 127.0.0.1 82o9v830.com
 127.0.0.1 8a8cq8c8yyqjs2xr.pro
 127.0.0.1 8baa6f385c8982067bae766e6eb7a65e.api.appsee.com
+127.0.0.1 8bef5bb6b351ca5e.com
 127.0.0.1 8digits.com
+127.0.0.1 944e66f8683ac43c.com
+127.0.0.1 995db2642d3d852b.com
 127.0.0.1 9a24a1b3dcd5f4.com
 127.0.0.1 a-v2.presage.io
 127.0.0.1 a.adnium.com
@@ -105,6 +110,7 @@
 127.0.0.1 a.volvelle.tech
 127.0.0.1 a.xfreeservice.com
 127.0.0.1 a1.mzstatic.com
+127.0.0.1 a5e04df959f1af34.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 aadserving.com
 127.0.0.1 aaslmqzce.bid
@@ -181,6 +187,7 @@
 127.0.0.1 adbetclickin.pink
 127.0.0.1 adbetnet.advertserve.com
 127.0.0.1 adbetnet.com
+127.0.0.1 adbooks.ru
 127.0.0.1 adbreak.cdn.ubeei.com
 127.0.0.1 adbreak.cubecdn.net
 127.0.0.1 adbreak.net
@@ -484,6 +491,7 @@
 127.0.0.1 analytics.rayjump.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics.yeniakit.com.tr
+127.0.0.1 anamimyjyp.tk
 127.0.0.1 anarotomotiv.com.tr
 127.0.0.1 android-lrcresource.wps.com
 127.0.0.1 androidads23.adcolony.com
@@ -511,6 +519,7 @@
 127.0.0.1 ankaratemizlik.web.tr
 127.0.0.1 ankaratemizliksirketleri.web.tr
 127.0.0.1 ankaraview.com
+127.0.0.1 anmibitinistnomohu.wixsite.com
 127.0.0.1 antalya.hosting
 127.0.0.1 antalyacelikev.com
 127.0.0.1 antalyaelektirik.com
@@ -756,6 +765,7 @@
 127.0.0.1 betpot5.com
 127.0.0.1 betticket.biz
 127.0.0.1 betticket87.com
+127.0.0.1 bettingflow.com
 127.0.0.1 bettingselection.com
 127.0.0.1 bettingselection.net
 127.0.0.1 bettingselection.org
@@ -808,6 +818,7 @@
 127.0.0.1 birsan.com.tr
 127.0.0.1 bisbro.com
 127.0.0.1 bishkekescort.com
+127.0.0.1 bitcoiniti.com
 127.0.0.1 bitredirofx.top
 127.0.0.1 bizimizmit.com
 127.0.0.1 bizmrg.com
@@ -869,6 +880,7 @@
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 btcturki.com
 127.0.0.1 bttrack.com
+127.0.0.1 bubblesmedia.ru
 127.0.0.1 bugradanismanlik.com
 127.0.0.1 buguneozel.live
 127.0.0.1 building.com.tr
@@ -922,6 +934,7 @@
 127.0.0.1 cansesiasknefesi.com
 127.0.0.1 capcanlisohbet.site
 127.0.0.1 casalemedia.com
+127.0.0.1 casinokeeper.net
 127.0.0.1 casinoslot81.com
 127.0.0.1 catchtheclick.com
 127.0.0.1 cayturnakliyat.com
@@ -995,6 +1008,7 @@
 127.0.0.1 cdn6.admatic.com.tr
 127.0.0.1 cdnap.airpush.com
 127.0.0.1 cdnondemand.org
+127.0.0.1 cea9d3d4f74fb831.com
 127.0.0.1 ceda.com.tr
 127.0.0.1 cedexis.com
 127.0.0.1 cel-kon.com.tr
@@ -1067,6 +1081,7 @@
 127.0.0.1 collector.puhutv.com
 127.0.0.1 commissionwall1.com
 127.0.0.1 common.duapps.com
+127.0.0.1 comofopholl.tk
 127.0.0.1 competition9824.linetotime102.life
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 connect.liveramp.com
@@ -1161,6 +1176,7 @@
 127.0.0.1 de01.rayjump.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 decomoda.com.tr
+127.0.0.1 deeperstateketo.com
 127.0.0.1 degernakliyat.com
 127.0.0.1 delivery.admaven.dsp.netrevgo.com
 127.0.0.1 delivery.trafficforce.com
@@ -1237,6 +1253,7 @@
 127.0.0.1 duldoparty.club
 127.0.0.1 dxkhboqrrimy.bid
 127.0.0.1 e-kitap.biz
+127.0.0.1 e553bcf717698d33.com
 127.0.0.1 ealohck.cf
 127.0.0.1 ealohck.ga
 127.0.0.1 ealohck.gq
@@ -1378,6 +1395,7 @@
 127.0.0.1 eyzpiel.gq
 127.0.0.1 eyzpiel.ml
 127.0.0.1 eyzpiel.tk
+127.0.0.1 f369a60bf483bcc9.com
 127.0.0.1 facebook.com.hocalihaber.com
 127.0.0.1 faggrim.com
 127.0.0.1 faktoryapi.com.tr
@@ -1558,6 +1576,7 @@
 127.0.0.1 halicistanbulemlak.net
 127.0.0.1 halimofset.com.tr
 127.0.0.1 halkalitokievleri.com
+127.0.0.1 halleeabuk.wordpress.com
 127.0.0.1 happilyswitching.net
 127.0.0.1 hasatvet.com.tr
 127.0.0.1 hasekimuhendislik.com
@@ -1711,6 +1730,7 @@
 127.0.0.1 ip-api.com
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 ipekkirpik.com.tr
+127.0.0.1 ipmingenieros.com.pe
 127.0.0.1 iq.reklamselfie.com
 127.0.0.1 irankargo.com.tr
 127.0.0.1 irmak.web.tr
@@ -1893,10 +1913,14 @@
 127.0.0.1 kisses-room2.com
 127.0.0.1 kisses-room3.com
 127.0.0.1 kissmetrics.com
+127.0.0.1 kitapci.ga
 127.0.0.1 kitapindir.pw
 127.0.0.1 kitapindir.web.tr
 127.0.0.1 kitapindir.website
 127.0.0.1 kitaplar.ml
+127.0.0.1 kitaplarpdfindir.com
+127.0.0.1 kitaplog.com
+127.0.0.1 kitappdff.com
 127.0.0.1 kitappdflerioku.org
 127.0.0.1 kizlarlasohbet.online
 127.0.0.1 klimahavalandirma.com.tr
@@ -2336,6 +2360,7 @@
 127.0.0.1 numarabiz.com
 127.0.0.1 numarapaneli.com
 127.0.0.1 numbertrck.com
+127.0.0.1 nurabomefozafe.cf
 127.0.0.1 nxctrk.com
 127.0.0.1 nxfvcxu.cf
 127.0.0.1 nxfvcxu.ga
@@ -2491,9 +2516,14 @@
 127.0.0.1 pdfindir.ml
 127.0.0.1 pdfindir.online
 127.0.0.1 pdfindirkitap.com
+127.0.0.1 pdfindirmek.com
+127.0.0.1 pdfkitap.ga
 127.0.0.1 pdfkitaphanem.blogspot.com
 127.0.0.1 pdfkitapindirelim.net
+127.0.0.1 pdfkitaplariindir.wordpress.com
 127.0.0.1 pdfkitapligi.com
+127.0.0.1 pdfkitapokutr.com
+127.0.0.1 pdfkitapsitesi.com
 127.0.0.1 pdfwor.com
 127.0.0.1 pdmslrn.cf
 127.0.0.1 pdmslrn.ga
@@ -2564,6 +2594,8 @@
 127.0.0.1 pool.ntp.org
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
+127.0.0.1 popcent.net
+127.0.0.1 popcent.org
 127.0.0.1 popmarker.com
 127.0.0.1 popmyads.com
 127.0.0.1 poprtb.pro
@@ -2649,6 +2681,7 @@
 127.0.0.1 qservz.com
 127.0.0.1 quantserve.com
 127.0.0.1 qwepop.site
+127.0.0.1 qyfyvywumo.cf
 127.0.0.1 r.remarketingpixel.com
 127.0.0.1 r.skimresources.com
 127.0.0.1 r7qc3.kinonew.pro
@@ -2783,6 +2816,7 @@
 127.0.0.1 rotabet62.com
 127.0.0.1 rotabetaffiliates.com
 127.0.0.1 rotabetlink.com
+127.0.0.1 rotumal.com
 127.0.0.1 router.infolinks.com
 127.0.0.1 royceescorts.com.au
 127.0.0.1 rp.yefeneri2.com
@@ -2957,6 +2991,7 @@
 127.0.0.1 sixpadturkiyesiparis.site
 127.0.0.1 sixpadturkiyesiparis.xyz
 127.0.0.1 siyahpeynir.com
+127.0.0.1 sizekitap.com
 127.0.0.1 skinected.com
 127.0.0.1 skycloud.biz
 127.0.0.1 skyhorse.site
@@ -3145,8 +3180,10 @@
 127.0.0.1 theadx.com
 127.0.0.1 thedragonbahis.com
 127.0.0.1 themediamove.com
+127.0.0.1 thintiturring.tk
 127.0.0.1 thogethoffic.co
 127.0.0.1 thterras.com
+127.0.0.1 tiacusike.guildwork.com
 127.0.0.1 tibletinaminakodumunackopekleri.xyz
 127.0.0.1 tiktokweb.org
 127.0.0.1 tindersohbet.xyz
@@ -3276,6 +3313,7 @@
 127.0.0.1 ucfwicndme.com
 127.0.0.1 ucretsiz-indirin.online
 127.0.0.1 ucretsiz-kitaplar-indir-turk.com
+127.0.0.1 ucretsiz-pdf-kitap-indir.com
 127.0.0.1 ucretsizsesli-kitaplar.ru
 127.0.0.1 ucuztercume.com
 127.0.0.1 udm.scorecardresearch.col
@@ -3335,6 +3373,7 @@
 127.0.0.1 valeriaguzellik.com.tr
 127.0.0.1 vapi.apk.vidmate.net
 127.0.0.1 varimed.com.tr
+127.0.0.1 varmeaminatic.blogcu.com
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.reyden-x.com
 127.0.0.1 vcxqcjov.com
@@ -3450,6 +3489,10 @@
 127.0.0.1 ww38.stickfight.com
 127.0.0.1 www-keycdn-info.cdn.ampproject.org
 127.0.0.1 www.kitapindir.web.tr
+127.0.0.1 www.kitappdff.com
+127.0.0.1 www.pdfindirkitap.com
+127.0.0.1 www.pdfindirmek.com
+127.0.0.1 www.pdfkitapsitesi.com
 127.0.0.1 www3.haberturk.com
 127.0.0.1 x-bet.mobi
 127.0.0.1 x-sport.mobi
