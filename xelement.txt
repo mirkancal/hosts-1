@@ -1,7 +1,7 @@
 # Title: ❤xorcan❤ Türk element-ad-list
 # Format: Element Bloklist
-# Released: 22.08.2019
-# Entries: 475
+# Released: 5.09.2019
+# Entries: 504
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -33,11 +33,17 @@
 ##.reklamblur3
 ##.ss-ic.s_stk
 ##[href*="https://torrentsafeguard.com/"]
+##[href="http://adbooks.ru"]
+##[href="http://adbooks.ru/am.html"]
+##[href="http://anamimyjyp.tk/"]
 ##[href="http://blok.link"]
 ##[href="http://mesaj-geldi.blok.link"]
 ##[href="http://mesaj-geldi.blok.link/bnnr"]
 ##[href="http://mesaj-geldi.blok.link/msj"]
 ##[href="http://mesaj-geldi.blok.link/wpr"]
+##[href="https://adbooks.ru"]
+##[href="https://adbooks.ru/am.html"]
+##[href="https://anamimyjyp.tk/"]
 ##[href="https://bit.ly/2MylV32"]
 ##[href="https://justpaste.it/redirect/4npnz/https://rublacklist.net/rutracker_redirect"]
 ##[href="https://mesaj-geldi.blok.link"]
@@ -70,8 +76,8 @@
 ##[href^="http://basvuruformu8.ml"]
 ##[href^="http://basvuruformu9.ml"]
 ##[href^="http://baysansli14.com"]
-##[href^="http://bc.vc/WRrYdnR"]
 ##[href^="http://bc.vc/jAf6Eh4"]
+##[href^="http://bc.vc/WRrYdnR"]
 ##[href^="http://bestdataresu1ts.com"]
 ##[href^="http://bestdataresu1ts.com/mmd/"]
 ##[href^="http://betonbet1.com"]
@@ -210,6 +216,14 @@
 ##[href^="tel://004676692306"]
 ##[href^="tel://00467669234"]
 ##[href^="tel://0237800040"]
+##[href^="tel://05324836914"]
+##[href^="tel://05354832889"]
+##[href^="tel://05368748358"]
+##[href^="tel://05397366228"]
+##[href^="tel://05432492765"]
+##[href^="tel://05442163887"]
+##[href^="tel://05466227605"]
+##[href^="tel://05522735267"]
 ##[href^="tel:00237800036"]
 ##[href^="tel:00237800037"]
 ##[href^="tel:0023780007"]
@@ -257,6 +271,14 @@
 ##[href^="tel:004676692306"]
 ##[href^="tel:00467669234"]
 ##[href^="tel:0237800040"]
+##[href^="tel:05324836914"]
+##[href^="tel:05354832889"]
+##[href^="tel:05368748358"]
+##[href^="tel:05397366228"]
+##[href^="tel:05432492765"]
+##[href^="tel:05442163887"]
+##[href^="tel:05466227605"]
+##[href^="tel:05522735267"]
 ##[href^="tr.link/GbeG"]
 ##[src="35.224.227.218"]
 ##[src="http://35.224.227.218"]
@@ -289,8 +311,8 @@
 35.224.227.218^$popup
 @@||sozcu.com.tr/*/assets/js/ads.js
 chaicdn.com*/3.gif$image
-dizibox.pw###PlayerBlock
 dizibox.pw###adcblock
+dizibox.pw###PlayerBlock
 dizibox.pw###video-area-div
 dizibox.pw##.skip_button_volume
 dizilab.pw##.previd-link
@@ -299,6 +321,9 @@ dizilla.com##a.block:nth-of-type(2)
 dizipub1.net###pubxvideox
 ettv.to##.download_links_a
 filmw.org##.hoverZoomLink.loaded
+hilelioyun.net##div.reklam-sag:nth-of-type(1)
+hilelioyun.net##div.reklam-sag:nth-of-type(2)
+hilelioyun.net##div.reklam-yatay:nth-of-type(1)
 incisozluk.com.tr###b-masthead
 ktun.edu.tr###loader
 porn-desip-org.cdn.ampproject.org##.marquee
@@ -319,13 +344,13 @@ torrentfunk2.com##main > table:nth-of-type(1) > tbody
 torrentfunk2.com##td:nth-of-type(1) > .extneed
 torrentfunk2.com##td:nth-of-type(3) > .extneed
 torrentz2.eu###footer
-torrentz2.eu##.NonToleratedds
 torrentz2.eu##.downlinks > dl:nth-of-type(1)
+torrentz2.eu##.NonToleratedds
 torrentz2.eu##.xpressa
 torrentz2.eu##[href="/lorem2/xy/"]
 torrentz2.is###footer
-torrentz2.is##.NonToleratedds
 torrentz2.is##.downlinks > dl:nth-of-type(1)
+torrentz2.is##.NonToleratedds
 torrentz2.is##.xpressa
 torrentz2.is##[href="/lorem2/xy/"]
 unikampus.net##.jgcabd-container
@@ -369,7 +394,6 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/*xbet*.mp4$media
 ||*/728x90fenomen.gif$image
 ||*/Bay%C5%9Fansl%C4%B1-3.gif$image
-||*/Wpdeo_Rise*/yatay.jpg$image
 ||*/elex-pageskin*.jpg$image
 ||*/elex-pageskin-yeni.jpg$image
 ||*/filmw3.gif$image
@@ -379,6 +403,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*/pageskinlord150withouheader.jpg$image
 ||*/rotahdr_l7hurd.gif$image
 ||*/titanx.png$image
+||*/Wpdeo_Rise*/yatay.jpg$image
 ||*/yarak-banner.gif$image
 ||*bestacademicrecommendation*^$popup
 ||*betonbet*.gif
@@ -451,6 +476,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||5posta.org
 ||bc.vc/WRrYdnR^$popup
 ||ben-nazli.gif
+||bformu4. tk/form.php$subdocument
 ||bformu4.tk/form.php$subdocument
 ||bit.ly/2Ctslt0^$popup
 ||bit.ly/2QmI8BT^$popup
@@ -465,6 +491,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||dizipub*/*pageskin_template.jpg$image
 ||dizipub*/*x*.gif$image
 ||eviewporn*/milf-min.png$image
+||findfavour.com^
 ||freemacware.com
 ||go2linkfast.com^$popup
 ||hdmobilizle.com^$popup
@@ -474,9 +501,11 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||mob1ledev1ces.com
 ||myfotolife.xyz
 ||oyunkuzusu.com/images/tras-et-beni-mobil.jpg$image
+||pcgamer.site/*/*/images/background_video.mp4$media
 ||pornfilmsex.com/*.gif$image
 ||predictiondexchange.com^$popup
 ||refpabei.top^$popup
+||rsalcdp.com^$document
 ||rublacklist.net/images/rutracker_image.png$image
 ||rutrk.org/iframe/kwork-1.html$subdocument
 ||secondlife.com^$popup
